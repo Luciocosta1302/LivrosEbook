@@ -17,7 +17,7 @@ Ordem de efeito: V3 derruba a certeza de Cecília sobre si mesma; V1 parece expl
 
 | # | Verdade | Cap. | Tipo | Leitura inocente (no momento) | Leitura verdadeira (depois) | Cena romântica? | Status | Trecho exato |
 |---|---|---|---|---|---|---|---|---|
-| P1 | V1, V3 | 2 (e recorrente) | mania explicada errado | Marina brinca que Vicente confere tudo duas vezes, até o cardápio do jantar; Cecília (em 3) diz que é controle, que ele sempre foi assim. | Ele não era assim. Começou em junho de 2023, depois do arquivo que não conferiu. Cecília, se lembrasse direito, saberia que o Vicente de 2020 nunca conferia nada. Em 3, ela tem uma lembrança dele perdendo um prazo da faculdade por não revisar, e não liga as pontas. | não | planejada | |
+| P1 | V1, V3 | 2 (e recorrente) | mania explicada errado | Marina brinca que Vicente confere tudo duas vezes, até o cardápio do jantar; Cecília (em 3) diz que é controle, que ele sempre foi assim. | Ele não era assim. Começou em junho de 2023, depois do arquivo que não conferiu. Cecília, se lembrasse direito, saberia que o Vicente de 2020 nunca conferia nada. Em 3, ela tem uma lembrança dele perdendo um prazo da faculdade por não revisar, e não liga as pontas. | não | plantada | Cap. 2: "Eu li. Depois li de novo, de cima para baixo, contando as quantidades com o dedo." / "— Você conferiu o cardápio duas vezes. — Conferi." / Marina: "No carro ele conferiu o pedágio." Rafa sorri e olha para ele um pouco mais do que a piada pedia. |
 | P2a | V3 | 4 | objeto/hábito | Cecília manda "programacao_FINAL_v2_agora_vai.pdf" no grupo; todos riem; Vicente abre, não diz nada e abre de novo. Piada de grupo. | Ela nomeia tudo assim, inclusive o arquivo de 2023. A pausa dele é o mesmo nome. | não | planejada | |
 | P2b | V3 | 15 | frase deslocada | Cozinhando juntos no apartamento dele, ela manda "convite_FINAL_FINAL_v2_esse.pdf"; ele abre, ri, diz "Você nunca aprende." Ela: "E você nunca mudou." Cena mais leve do livro, a que termina no sofá. | "Você nunca aprende" é dito por quem sabe exatamente o que um nome de arquivo desses já custou. Depois do cap. 19, é a frase mais triste do livro. | **sim** | planejada | |
 | P3 | V2 | 5 | reação errada / assinatura | À noite, Helena liga para Cecília e pergunta "e o Vicente?" com naturalidade; Cecília lê como falta de tato da mãe. A mensagem seguinte de Helena termina em "com o carinho de sempre". | Helena pergunta por ele porque o vê a cada duas semanas. A assinatura volta no e-mail ao instituto (cap. 27). | não | planejada | |
@@ -35,6 +35,7 @@ Ordem de efeito: V3 derruba a certeza de Cecília sobre si mesma; V1 parece expl
 | Cap. | Plantado | Pago | Observação |
 |---|---|---|---|
 | 1 | nenhuma pista do mapa | — | Sementes de objetos: camisa xadrez, caneca rachada, "por escrito" (caderno sem nome). O "cansaço novo em volta dos olhos" de Vicente é justo com V1 (pai, empréstimo) sem apontar para nada. |
+| 2 | P1 (conferir duas vezes, cardápio e pedágio) | — | A mania rende uma utilidade real na cena (falta cebola), o que reforça a leitura inocente. O olhar demorado de Rafa é o único sinal; não explicar. |
 
 ## Falsas pistas legítimas
 
