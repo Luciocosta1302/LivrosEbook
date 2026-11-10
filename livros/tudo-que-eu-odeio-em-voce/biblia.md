@@ -195,6 +195,19 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - Rafa: camisa social de manga comprida com a gravata no bolso nos dias de cliente; corta o bife em quadrados iguais antes de comer; veio de avião, com marmita do Tiago; Tiago quer um filho, Rafa "não sei".
 - Noite de 14–15/4/2023 (versão do Rafa): bar da Floresta, Original, porção de mandioca fria; Marina estava viajando; Cecília ligou para o Rafa porque ele ia a bar sozinho; ela saiu às 2h e pouco dizendo que ia para casa e não foi; Helena ligou para o Rafa às 3h. Cecília lembra de acordar no sábado na própria cama com a roupa da sexta e de mandar uma mensagem de manhã a alguém, sem lembrar para quem nem o quê. Ela chama aquilo de "a noite da cerveja".
 - Vicente, no áudio sobre o mapa (12/2, 14h40, 1min58s): explica a casa "como a alguém que vai morar nela"; um pombo arrulha aos 32 segundos; termina, em outra voz: "Você sabe melhor que eu."
+- Rodoviária de BH: a 20 e poucos minutos a pé do escritório, descendo a Pouso Alegre e atravessando o viaduto sobre o Arrudas. Ônibus de SP de Cecília em 6/3: previsto 19h40, chegou 19h52.
+- Escada de serviço da padaria até o escritório: 19 degraus (Cecília contou em voz baixa, subindo e descendo).
+- Dona Cida conhece Cecília desde criança ("Boa noite, menina. Faz tempo."); chama Vicente de "doutor".
+- Escritório (cap. 14): mapa original e projeto da parede na segunda gaveta do arquivo de aço, pasta de papel-cartão com o nome do André; maquete da casa da dona Lurdes em papel-paraná, telhado removível, mangueira de esponja de louça pintada e tronco de palito de churrasco; três caixas de amostra de piso esquecidas; estante de maquetes de pinho na parede do fundo.
+- O desenho emoldurado ("crítica com moldura", 2018; moldura de madeira crua feita por Cecília numa marcenaria do Barro Preto) está pendurado num prego atrás da estante de maquetes, na fresta de 20 cm entre a estante e a parede, desde março de 2024. Só se vê enfiando o rosto na fresta. Cecília viu em 6/3/2026.
+- Da janela do escritório, pela fresta entre a persiana e o caixilho, olhando à esquerda, vê-se a Rua Itajubá subindo e, seis casas acima da esquina, do lado direito, o portão verde e a jabuticabeira da casa de Helena. Vicente vê isso todo dia às 6h30. Ele disse a Cecília: a sala é 800 reais mais barata "e dá pra ver o portão".
+- Vicente prefere transformar uma mentira pequena em verdade a carregá-la: inventou a visita de obra de 7/3 e foi à obra.
+- Casa da dona Lurdes em 7/3: viga assentada; escoras retiradas em 6/2; taco coberto de lona preta com fita crepe; tijolos maciços empilhados no quintal sob lona; fiação nova da sala só em abril; refletor de obra de 500 W em tripé de ferro, ligado por extensão vinda da cozinha. Paginação do piso do quintal com os tijolos em espinha de peixe, igual ao taco da sala. Escada do quintal: desce meio metro em quatro degraus (marcada com estaca e barbante). A sala mede 5,52 m da marca da parede até a porta da frente (Vicente "arredondou" para 5,5 "pra ela").
+- Luz das 18h em março na casa da dona Lurdes: entra quase deitada, alaranjada, por baixo da copa da mangueira, e pinta o teto da sala, não o chão.
+- Prova do vestido de Marina: sábado, 7/3, na casa de dona Célia (que fez lasanha para 14; eram cinco). A barra estava 4 mm torta do lado esquerdo; Cecília levou régua; a costureira acreditou quando viu a régua. Marina dormiu no sofá da mãe às 18h.
+- Provas do convite em kraft, entregues por motoboy na casa da Marina; aprovadas por Cecília na sala da obra em 7/3 ("Aprovado. O mapa. O kraft. Pode imprimir."). A gráfica pede o original do mapa em 600 dpi; o scanner de Vicente é A3 e fica no apartamento; o da Marina é A4.
+- Prédio de Vicente: quatro quarteirões depois da padaria; ele mora no quinto andar; a escada tem 96 degraus (ele contou pela primeira vez em 7/3/2026).
+- Helena cozinha à noite, sozinha: em 7/3, às 22h10, a luz da cozinha do portão verde estava acesa; Vicente passou pelo lado oposto da rua e não parou.
 
 ## Cronologia
 
@@ -215,6 +228,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 11 | dom, 18 jan 2026 | 6h50 → 13h | Cecília acha a caneca rachada na frente do armário e a rouba, embrulhada na camiseta de pijama; pensa no "Cê"; bebe o café dele pela primeira vez sem jogar fora (Bia vê); Marina de olho inchado lava a panela antes dos copos; Rafa sai às 8h30 e marca almoço em SP em fevereiro (amostras de papel da Marina; ela paga o almoço "com os 82,50"); às 9h15, no corredor de 85 cm, o pacto: "Ontem." / "Nada." ... nota de rodapé: a música continua horrível; da janela, ela vê Marina falar sério com Vicente no porta-malas, ele negar duas vezes e Marina enxugar o olho; despedida da Bia ("Me manda a resposta"); no 11º degrau ela diz "Obrigada pela roda" / "Que roda?" / "De nada, Azevedo"; a roda passa pelas pedras sem engasgar; Bia manda foto do espaço vazio no armário ("cuida dela"); ônibus das 11h14; na subida da serra ela descobre que não queria ir. |
 | 12 | qui, 5 fev 2026 (lembrança de qua, 21 jan) | 6h10 → 23h40 | Escritório em cima da Padaria Floresta Nova; o dentista paga metade; Vicente refaz as contas e tira o próprio pró-labore; a 22ª parcela do empréstimo (faltam 14), sem dizer para quê; lembrança da consulta do pai em 21/1 (11 minutos, pão de queijo na lanchonete); demolição da parede da sala da dona Lurdes com o Seu Geraldo e o Cleiton; André de capacete com etiqueta dá a primeira marretada; Otávio chega de ônibus, senta num balde e corrige a escora do meio; às 16h a luz do quintal entra na sala pela primeira vez e Otávio diz "Ficou bom"; Vicente abre a conversa particular parada em "tô subindo" (5/11/2023), manda o pombo, apaga para todos, manda a foto da luz; ela pergunta "o que você apagou?", ele manda o pombo; ela escreve "a luz ficou bonita" e edita para "menos feia do que eu esperava"; Marina pergunta "pensou no que eu falei?" e ele não responde. |
 | 13 | sex, 6 fev → qui, 12 fev 2026 | sex 10h04 → 19h30; sáb–seg (pombos); qui 13h → 22h | Sexta: Joana entrega a Cecília a capa de *A casa das três janelas*, de Teresa Valadares (carro-chefe da Bienal, agosto) e diz que a contratou "pela tipografia"; às 18h30 ela manda no grupo "convite_v1_AINDA_NAO_E_O_FINAL.pdf"; Vicente devolve no particular um zoom com duas linhas vermelhas: o norte está dois pixels à esquerda do eixo da rua ("a casa fica virada pra Sabará"); ele tem razão; ela corrige e manda "convite_v2_dois_pixels.pdf" ("você conferiu duas vezes" / "três" / "tá no caderno"). Sábado a segunda: a guerra dos pombos (Minhocão, placa da Rua Itajubá, Luz, padaria, Augusta); "a música é a cozinha"; "battery low" e a figurinha da caixa chorando. Quinta, 12: almoço com Rafa num boteco da Rua Aspicuelta; amostras de papel da Marina ("escolhe o segundo": kraft); Rafa diz que Vicente sai com a Lívia; ela elogia a Lívia duas vezes; ele admite que era para ver a cara dela (dois jantares em dezembro, acabou por causa de uma viga); Rafa paga e diz que ela lhe deve R$ 64 do bar da Floresta "daquela sexta" de abril de 2023: ela saiu às duas e pouco, disse que ia para casa e não foi; Helena ligou para Rafa às 3h; "Tem gente que esquece o que disse. Eu não." À noite, no conjugado, a gaveta da direita que ela não abre; o áudio de Vicente explicando o mapa para a mãe da Marina; ela ouve três vezes. |
+| 14 | qui, 5 mar → sáb, 7 mar 2026 | qui 22h12 (grupo); sex 18h40 → 21h04; sáb 9h → 22h10 | No grupo, Marina anuncia a prova na casa de Helena com almoço; Cecília: "na casa da minha mãe não"; Vicente inventa uma visita de obra ("Eu disse que tinha visita de obra. Não tinha."); Rafa: "que coincidência"; a prova vai para a casa da Célia. Sexta: Vicente "passa" pela rodoviária, os dois sobem a Pouso Alegre a pé; dona Cida reconhece Cecília; no escritório, ela vê o desenho emoldurado atrás da estante e, pela janela, o portão verde da mãe. Sábado: ele vai à obra vazia para tornar a mentira verdade; ela pergunta "que visita de obra"; às 19h10 chega com as provas em kraft, refaz o áudio do mapa atravessando a sala; ele mede 5,52 m com a trena e ela vem recolhendo a fita até zero; as mãos na caixa; ela recua: "Medição não conta"; marcam o escaneamento no apartamento dele no domingo às 11h; ele volta pela Itajubá, vê a luz da cozinha de Helena acesa e não para. |
 
 ## A verdade escondida (Camada C)
 
@@ -242,6 +256,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 11 | desejo não admitido em voz alta; pacto de negação | Primeiro acordo a sós em três anos: o que não aconteceu fica sem nome, e os dois concordam sobre a música. Ela bebe o café dele e agradece a roda. Ele vai até o 11º degrau sem nada para carregar. Ela admite para si (e para o leitor) que não queria ir embora. | "Não aconteceu nada" / "Nada"; "Sempre tem autos, Azevedo"; "Nota de rodapé: a música continua horrível" / "Péssima"; "Obrigada pela roda" / "Que roda?"; a caneca girada sem café |
 | 12 | desejo à distância; primeira conversa particular | A conversa particular dos dois, parada desde "tô subindo", volta a andar. Os dois cometem e corrigem um erro à vista do outro (a mensagem apagada, a mensagem editada). Ela obedece à regra do caderno que acha que ele jogou fora. | O pombo ("tem mais opinião que o André"); "o que você apagou?" / "nada" / "albuquerque"; "a luz ficou menos feia do que eu esperava (editada)"; "nos autos?" / "sempre tem autos" |
 | 13 | desejo admitido para si | Ele entra no território dela (alinhamento) e está certo; ela fica furiosa e corrige. As mensagens idiotas viram rotina diária (pombos). Ela sente ciúme e é flagrada. Ela admite para si que quer ouvir a voz dele (a terceira escuta). | Os dois pixels / "virada pra Sabará"; a guerra dos pombos; "a música é a cozinha"; "battery low" e a figurinha da caixa de som chorando; "tá no caderno" |
+| 14 | desejo admitido para si; pacto rachando | Primeira presença física a sós em BH, no território dele (escritório, obra). Ela vê o que ele guardou e onde. Chegam a distância zero e recuam juntos, sem interrupção de fora; ela cria uma exceção ao pacto ("medição não conta"), o que já é admitir que há o que contar. Ela aceita ir ao apartamento dele. | "Eu tava passando"; o "tá" na plataforma; "pra você eu arredondo"; a trena de quatro a zero; "Medição não conta" / "Então abre um"; os 19 degraus contados em voz baixa |
 
 ## Quem sabe o quê
 
@@ -291,6 +306,10 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | Na noite de 14/4/2023 Cecília saiu do bar às 2h e poucos, não foi para casa, e Helena ligou para Rafa às 3h | Rafa, Helena; Cecília (agora, sem lembrar para onde foi) | Vicente (não sabe que ela saiu do bar nem que Helena ligou) | 13 |
 | Cecília deve R$ 64 ao Rafa desde abril de 2023; ele "devolveu" os 82,50 pagando o almoço | Rafa, Cecília | — | 13 |
 | A Bia contou ao grupo o sinal da boca pequena quando Cecília mente | Bia, Rafa (e provavelmente todos) | Cecília só descobriu agora | 13 |
+| Vicente inventou a visita de obra de sábado | Vicente (e o leitor); Cecília descobriu que ele foi à obra vazia; Rafa desconfia ("que coincidência") | o grupo | 14 |
+| Os dois recusaram a casa de Helena no mesmo minuto | o grupo inteiro | Helena sabe por Marina/Célia na feira, sem o motivo | 14 |
+| Vicente guarda o desenho emoldurado atrás da estante | Vicente, Cecília | os outros | 14 |
+| Do escritório de Vicente se vê o portão verde de Helena | Vicente, Cecília (agora) | — | 14 |
 
 ## Conflitos em aberto
 
@@ -375,6 +394,12 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - *A casa das três janelas* (cap. 13): a capa pode ser resolvida depois do cap. 19 ou 20, com algo que ela aprende com ele sobre luz; lançamento na Bienal em agosto (fora do livro, ou no epílogo de julho).
 - A guerra dos pombos e "battery low" (cap. 13): gramática das mensagens até o cap. 16; pode ter eco no casamento.
 - O áudio do mapa (cap. 13): "Você sabe melhor que eu." O texto de quatro linhas para o verso do convite sai dele.
+- O desenho emoldurado atrás da estante (cap. 14): Cecília viu e não comentou além de "é onde ninguém vê". Pode voltar no cap. 30 (ele o tira de trás da estante e pendura onde bate sol, ou leva para a casa) ou no 33.
+- "Medição não conta" (cap. 14): exceção ao pacto do corredor criada por ela. Eco natural no cap. 16 (o beijo é a primeira coisa que "conta") e no cap. 30 (a casa pronta, medida de novo).
+- "Você gosta de mentir com motivo?" (Cecília, cap. 14, por mensagem): ele não respondeu. Eco obrigatório no cap. 20 ou 28.
+- A luz das seis que pinta o teto (cap. 14): Cecília não foi ver. Oferecida de novo no cap. 30.
+- Os 96 degraus do prédio de Vicente (cap. 14): ele contou pela primeira vez. Em 5/11/2023 ela subiu de elevador ("tô subindo"); no cap. 15 ela pode subir ou descer de escada.
+- A luz da cozinha de Helena acesa às 22h e Vicente que não para (cap. 14): leitura inocente, culpa por tê-la ferido; verdadeira, ele não para quando Cecília está na cidade. Não explicar antes do cap. 27.
 
 ## Estrutura dos capítulos
 
@@ -395,7 +420,8 @@ Plano completo em `arquitetura.md`. Status:
 | 11 | Não aconteceu | escrito e revisado (3.260 palavras) |
 | 12 | Santa Tereza | escrito e revisado (3.830 palavras) |
 | 13 | Dois pixels | escrito e revisado (2.900 palavras) |
-| 14–33 | ver arquitetura | planejado |
+| 14 | A prova do vestido | escrito e revisado (3783 palavras) |
+| 15–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
