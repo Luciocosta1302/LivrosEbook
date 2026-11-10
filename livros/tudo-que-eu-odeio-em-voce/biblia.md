@@ -381,6 +381,23 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - Cecília pediu uma mesa de verdade, com duas cadeiras, no retângulo de taco do lugar antigo do sofá ("que não seja porta em cima de cavalete").
 - Desta vez foi Vicente quem perguntou "Posso?" (a palavra sozinha); ela respondeu "Pode". O zíper do vestido emperrou porque a Bia costurou o forro por cima; ela contou os dentes do zíper e perdeu no décimo segundo. Ela desabotoou a camisa dele de baixo para cima e disse "uma vez" no último botão. "Olha pra mim": ele não olhou para o teto. Depois: "Nota de rodapé: a camisa xadrez continua horrível." / "Consta." / "Em três vias."
 - Manhã de 17/5, 6h30: ele passou o café no coador de pano novo, forte, sem açúcar, um dedo de leite frio por último, sem mexer, na caneca de vidro (a rachada está na copa da editora). Ela bebeu tudo e disse "Tá bom" com a boca do tamanho normal.
+- A mesa: feita por Otávio, com o Seu Geraldo, em três sábados de junho de 2026, no quintal de cimento dele, com 2,10 m da sobra da peroba-do-campo da viga da dona Lurdes; trazida pelo Cleiton na van de um primo; posta por Otávio no retângulo de taco do lugar antigo do sofá, empurrada dois centímetros para a esquerda ("É." / "Senta."). Primeiro jantar: mexido de segunda numa quinta, Vicente num caixote de feira da padaria. Otávio: "Peroba não empena. Pode pôr peso."
+- As duas cadeiras são do casamento (de madeira, alugadas de um bufê de Contagem); Marina comprou duas por R$ 40 cada e deu de presente com a fita de cetim no encosto. Ninguém tirou a fita. Cecília senta na da esquerda, a da janela.
+- Cecília dorme com a camisa xadrez desde maio ("continua sendo um crime contra a cor azul"); enrola no dedo o fiapo do punho esquerdo, como ele. "Nota de rodapé: essa camisa é minha." / "Consta."
+- A caneca rachada tem "dupla residência": viaja na mala, embrulhada na camiseta do show, metade do mês na copa da Quatro Margens e metade no armário de Vicente; o post-it NÃO USAR — CECÍLIA vai colado no fundo ("o primeiro post-it com passaporte", Joana). A roda da mala com o parafuso M6 nunca foi trocada nem afrouxou.
+- O "regime" (nome do Rafa): um fim de semana em SP, um em BH. Vicente vai a SP duas vezes por mês pelo Arantes Moura, que renovou o freelance em junho ("bem-vindo de novo", de novo). Cecília lê no ônibus desde junho. Desde maio ela não conta escada em BH; em SP ainda conta ("progresso regional"). Pombos continuam quando estão longe (o gordo da Pouso Alegre, o de uma pata do Minhocão). A caixa de som do Rafa morreu em junho numa churrascaria (foto com vela, legenda "battery low").
+- Dona Cida: aos domingos, três pães de sal desde junho; anota o terceiro na página 42 e não cobra.
+- *A casa das três janelas* impresso; primeiro exemplar dado por Joana em 10/7; ficha técnica: "Capa: Cecília Azevedo". Joana: "Agora você pode usar Garamond." / "Não quero." / "Eu sei. Por isso que eu deixei."
+- A carta de Helena: em 17/5/2026 Cecília a devolveu fechada ("Se é pra mim, manda"); na segunda, 18/5, Helena a pôs no correio na agência da Av. do Contorno, entre a terceira e a quarta aula: a primeira carta que mandou na vida. Chegou à Rua Jaguaribe na sexta, 22/5. Três folhas frente e verso, ponto e vírgula; "Com o carinho de sempre" riscado com uma linha reta e, embaixo, só "mãe". O conteúdo é delas. Cecília respondeu com uma folha (agência da Rua das Palmeiras); desde então se escrevem por correio.
+- Helena, perguntada em 17/5 por que nunca mandou nenhuma carta a Dário: "Porque enquanto eu não mandava, ele ainda podia estar esperando." Ela alinhou a colher com a borda do pires. Em junho, Helena passou um fim de semana em Ouro Preto "para ver as igrejas"; Cecília não perguntou.
+- Grupo "Pessoas que estão bem e não sabem o que fazer com isso", criado pela Bia em junho, com os seis; foto: a chaminé soltando fumaça reta sobre o jambo intacto. Pousada lotada em julho (um casal de Goiânia com uma tartaruga); a Bia fez pão.
+- Marina e André partem para Belém em 3/8/2026; aba BELÉM 2; despedida no quintal da dona Sônia ("todo mundo leva caixa de papelão"). Dona Célia soube de Belém no casamento, na hora do bolo, e chorou dentro do bolo; depois mandou uma lista de missas de Belém por bairro, com cor.
+- Rafa e Tiago: curso de habilitação da Vara da Infância às quintas; passaram na segunda entrevista (áudio de 4 segundos); Rafa chorou no estacionamento do fórum (Tiago e Bia, no viva-voz, são testemunhas). O fundo tem os R$ 64 "e mais umas coisas".
+- Ronaldo, na ligação mensal de julho, perguntou "e o menino?" antes da previsão do tempo; ainda não diz "Vicente". Choveu em Contagem; ele mandou foto.
+- Consulta de Otávio em 8/7/2026: Cecília foi junto sem ser chamada ("a menina"); o peixe laranja "continua sozinho" / "Ninguém prefere"; nove minutos, "estável" três vezes, "igual o outro"; Otávio pagou os três pães de queijo e Vicente deixou. Em junho Otávio pagou a primeira das suas seis parcelas e fez a carne de panela da Rosa sem ser março.
+- A casa da dona Lurdes foi alugada em junho pela dona Sônia a um casal de professores que se comprometeu por escrito a não cortar a mangueira. Antes, num sábado, Cecília abriu a janela da cozinha inteira e gritou para o quintal (não diz o quê); fechou o fecho de latão uma vez.
+- A luminária do quarto de Vicente continua pendurada pelo fio ("a gente decidiu que ela ganhou").
+- O caderno novo: comprado em 10/7 numa papelaria da Aspicuelta ("é para uma briga"); capa dura preta, cem folhas; título com corretivo de caneta, em letra de forma, torto do mesmo jeito. Regra mantida por escolha: esquerda dela, direita dele, nunca elogio direto ("Fora do caderno, a gente diz"). Primeira entrada (12/7/2026): "1. Você conta as coisas que são minhas. Primeiro pra mim." (inversão da primeira de 2016, "Você conta as coisas que não são suas."). A página da direita ficou em branco para ele; o caderno deixado torto, com a régua do lado, na frente da cadeira dele.
 ## Cronologia
 
 Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
@@ -419,12 +436,13 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 30 | sex, 15/5/2026 | 6h15 → 22h30 | Dona Cida ("Perguntei se é o dia"); Vicente instala o caixilho novo da janela da cozinha da dona Lurdes, de abrir inteira para o quintal ("Pra quem quiser gritar pra fora" / "Isso aí tem nome de alguém"); o Seu Geraldo risca o último item e escreve "acabou"; ensaio às 16h com a dona Iolanda: entrada junto pela frente, "Tá torto" / "É o galho, Cecília" / "Tá"; a sombra para na pia às 16h30 e Cecília olha a janela; às 17h40 Otávio chega para ver a viga, senta no balde e Vicente conta tudo, na ordem; "As duas coisas"; "Ela morreu guardando"; o empréstimo (faltam 12) e "Eu pago seis" / "Tá"; o caderno: "Leva. [...] Caderno não azeda"; no portão, "Ficou bom", olhando para o filho; às 19h o desenho emoldurado sai de trás da estante; às 21h o caderno sai da caixa laranja, sem ser aberto, e vai para a mochila; Vicente dorme. |
 | 31 | sáb, 16/5 → dom, 17/5/2026 | 16h25 → 3h40 | Cecília conta os 42 azulejos da fachada; entram juntos pela frente, sem braço; ela desce a escada pelo corrimão; Marina tira os sapatos na soleira e entra descalça pelo taco; votos ("Eu vou te contar antes" / "E eu vou perguntar"); a sombra na pia às 16h30 pela janela aberta; Ronaldo não aperta a mão de Vicente; Helena toca as escápulas da filha; às 18h a luz pinta o teto e Vicente a vê ver; discurso às 19h30 ("mostarda"; a frase do fim lida devagar); no "tudo", Cecília faz a conta e entende a mentira do caderno; o brinde (o copo, a cachaça); Otávio e Helena dançam e Helena ri; Ronaldo e Cecília ("Não foi ele, pai" / "Não é meu pra contar"); à 1h o Rafa põe a música do quiosque e ela atravessa o quintal ("Dança" / "Tá"; "Não vai embora"); às 3h20, na escada do quintal: "Me dá o caderno"; ele busca na mochila e entrega; ela lê da primeira à última página; a página de 14/4/2023, 3h05, com a janela da raiva desenhada; ela entende a distância daquela noite e relê devagar. |
 | 32 | dom, 17/5/2026 | 3h40 → 6h50 | Na escada do quintal, ela relê e fecha o caderno; "Às três e cinco eu tava descendo a Pouso Alegre"; "Conta. Tudo. [...] Não escolhe."; ele conta o que nunca tinha dito: as doze meias, o empréstimo e o pai, "Caderno não azeda", o "Ficou bom" ("Com essa, quatro"), as mensagens apagadas de 5/11/2023, a raiva de três anos, "Eu vou precisar de você"; "Isso é dela. Pergunta pra ela."; ela diz a parte dela (corta; mandou o arquivo; não se arrepende em alguns dias) e o limite ("Tudo [...] Principalmente isso"; "Pode"; não cortar mais); "Sabendo"; "Agora pode": "Eu te amo. Você devia ganhar." (ela conta seis nos dedos); ele fecha a janela da cozinha ("Uma vez"); a pé até o Floresta; a luz da cozinha de Helena acesa às 4h40 ("Essa é minha"); no degrau da portaria, ela diz o que tinha ido dizer em 2023 e "Eu te amo, Albuquerque"; sobem de escada; "Põe uma mesa aqui"; "Posso?" / "Pode"; a noite no quarto, ele olhando para ela; nota de rodapé sobre a camisa; às 6h30 o café certo, bebido inteiro: "Tá bom", com a boca do tamanho normal. |
+| 33 | dom, 12/7/2026 (lembranças de 17/5 a 11/7) | 7h10 → ~9h | A mesa de peroba feita por Otávio no retângulo; as cadeiras do casamento; Cecília de camisa xadrez, café na caneca rachada de dupla residência, a mala com a roda de parafuso; o "regime"; "Nota de rodapé: essa camisa é minha"; *A casa das três janelas* e "Capa: Cecília Azevedo"; a carta de Helena devolvida em 17/5 ("Se é pra mim, manda"), remetida em 18/5, a primeira da vida dela; "Porque enquanto eu não mandava, ele ainda podia estar esperando"; cartas pelo correio; Ouro Preto sem pergunta; o almoço do meio-dia ("Não é pedido de desculpa. É almoço."); o grupo da Bia; Belém em 3/8; Rafa e Tiago; Ronaldo e "o menino"; a janela da raiva gritada; a consulta de Otávio; a luminária que ganhou; o caderno novo, com corretivo, e a primeira linha. |
 
 ## A verdade escondida (Camada C)
 
 - **O segredo central:** cadeia de culpas. Cecília mandou o arquivo integral por engano (V3); Vicente inscreveu contra a desautorização, não conferiu, trocou e escondeu (V1); Helena enviou a versão integral como "representante" (V2); Vicente soube e guardou.
 - **Quem sabe:** ver tabela em `arquitetura.md`.
-- **Quando o leitor descobre:** V3 no cap. 19; V1 no cap. 20 (com a mentira restante visível); V2 no cap. 27.
+- **Quando o leitor descobre:** V3 no cap. 19; V1 no cap. 20 (com a mentira restante visível); V2 no cap. 26 (um capítulo antes de Cecília); V4 no cap. 30 (existência) e 31 (a página).
 - **Quando Cecília descobre:** V3 no cap. 19; V1 no cap. 20; V2 no cap. 27; que Vicente sabia de V2, no cap. 27 (por Helena) e confirmado no 28.
 - **Reviravoltas secundárias:** o câncer de Otávio (cap. 19); André e Belém (cap. 8 escapa, cap. 21 explode); o caderno estava com ele (cap. 31).
 
@@ -465,6 +483,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 30 | véspera; ele obedece a ela | Nenhuma palavra além do nome e do fio de lâmpadas. Ele respeita a proibição e não manda nada. Ela olha a janela da cozinha um segundo a mais. Ele conta tudo ao pai, aceita ajuda e leva o caderno para o caso de ela pedir: pela primeira vez, a decisão é inteiramente dela. | "Tá torto" / "É o galho"; o tá que ele não sabe ler; a janela inteira |
 | 31 | escolha dela, em curso | Ela pede, e ele entrega sem dizer nada e sem decidir nada. Pela primeira vez desde 2023, a última coisa que faltava está nas mãos dela, e ela lê sabendo tudo. Eles dançam juntos de novo, por iniciativa dela, sem contar os passos. | o corrimão; "mostarda"; o copo e a cachaça; "Dança" / "Tá"; "Me dá o caderno"; a janela da raiva no papel e na casa |
 | 32 | escolha feita, sabendo | Ele conta sem administrar e pede ajuda; ela diz o que aceita, o que não aceita e o que ela mesma muda, e escolhe. Os dois dizem, fora do caderno, o que nunca disseram. Ele deixa que ela o veja precisar. Ela bebe o café dele inteiro. | "Pode" no lugar de "tá"; seis nos dedos; "Fora do caderno"; "Eu te amo, Albuquerque"; "Olha pra mim"; "Em três vias"; a boca do tamanho normal |
+| 33 | relação madura, escolhida | Os dois se dizem as coisas fora do caderno e mantêm a regra dentro dele por escolha. Ele conta primeiro a ela; ela pergunta na hora, ou decide não perguntar. Ela bebe o café dele devagar. A página da direita é dele. | a mesa; a camisa; a caneca de passaporte; "Consta"; o regime; os pombos; "Primeiro pra mim" |
 
 ## Quem sabe o quê
 
@@ -609,6 +628,8 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | O que Cecília foi dizer no degrau em 15/4/2023 | Vicente (agora), Cecília | todos | 32 |
 | A raiva de Vicente por ela não ter perguntado de novo | Cecília (agora) | todos | 32 |
 | As doze meias, o empréstimo, as mensagens apagadas de 5/11/2023 | Cecília (agora) | — | 32 |
+| O conteúdo da carta de Helena | Cecília, Helena | todos (inclusive o leitor) | 33 |
+| Por que Helena nunca mandou as cartas a Dário | Cecília (agora) | — | 33 |
 
 ## Conflitos em aberto
 
@@ -618,7 +639,7 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - [x] André e Belém — aberto no cap. 8, explode em 21; resolvido no cap. 29 (vão juntos em agosto, decisão dos dois, planilha na mesa)
 - [x] Bia: ficar ou voltar — aberto no cap. 4; resolvido no cap. 22 (recusou a agência em 15/4) e anunciado ao grupo no cap. 25
 - [x] Rafael: falar ou calar — aberto no cap. 13; falou no cap. 25; pediu desculpa pelo jeito e aceitou os R$ 64 no cap. 29 ("vai pro fundo")
-- [ ] Cecília e Helena — aberto antes do cap. 1, cena em 27, sem perdão completo
+- [x] Cecília e Helena — aberto antes do cap. 1; cena em 27; tutu em 29; "tchau, mãe" em 31; resolvido em movimento no cap. 33 (a carta remetida, cartas pelo correio, almoço que "não é pedido de desculpa"), sem perdão declarado
 
 ## Detalhes que precisam voltar
 
@@ -813,6 +834,7 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - A mesa no retângulo (cap. 32): "uma mesa de verdade, duas cadeiras". Volta no cap. 33.
 - "Amanhã eu vou lá" (Cecília, sobre Helena, cap. 32): domingo, 17/5, à tarde, sozinha. Pode ser lembrado no 33.
 - A luminária pendurada pelo fio (cap. 32): continua esperando. Pode ser consertada no 33 (ou não).
+- Livro concluído. Nenhum detalhe pendente obrigatório. Ganchos livres, deixados de propósito: o que Cecília gritou na janela; o que a carta de Helena diz; Ouro Preto; Ronaldo dizer "Vicente"; a página da direita do caderno novo.
 
 ## Estrutura dos capítulos
 
@@ -852,7 +874,8 @@ Plano completo em `arquitetura.md`. Status:
 | 30 | A casa pronta | escrito e revisado (2910 palavras) |
 | 31 | Dezesseis de maio | escrito e revisado (3043 palavras) |
 | 32 | Tudo | escrito e revisado (2879 palavras) |
-| 33 | ver arquitetura | planejado |
+| 33 | Outro caderno | escrito e revisado (2824 palavras) |
+| Total | 33 capítulos | escritos e revisados (106909 palavras) |
 
 ## Mudanças justificadas
 
@@ -883,3 +906,4 @@ Plano completo em `arquitetura.md`. Status:
 | 2026-11-10 | Otávio paga seis das doze parcelas restantes do empréstimo | Nasce da cena: é o arco de Vicente (aceitar ajuda) aplicado ao pai, antes de aplicá-lo a Cecília. | 30, 32 |
 | 2026-11-10 | As seis palavras não estão na última página do caderno (Vicente disse no cap. 28 que "nunca escreveu"); a página diz tudo menos elas, ao contrário, dentro da regra | Coerência com o cap. 28 e com a regra do caderno (nunca elogio direto). As seis palavras ficam para o cap. 32, ditas em voz alta quando ela pedir. | 31, 32 |
 | 2026-11-10 | A "nota de rodapé" volta uma vez no cap. 32 (a camisa xadrez) e é retomada no epílogo (cap. 33) na voz dele | A bíblia previa a última no 32; o epílogo pedia os objetos de volta. Usada uma vez em cada, sem repetir a fórmula. | 32, 33 |
+| 2026-11-10 | A carta de Helena não é aberta por Cecília diante do leitor: ela a devolve para que a mãe a remeta, e o conteúdo fica entre as duas | Fecha o arco de *Remetente* (a mãe que nunca remeteu) com um gesto, não com uma revelação; mantém a relação mãe e filha em movimento, sem perdão declarado, como previsto na arquitetura. | 33 |
