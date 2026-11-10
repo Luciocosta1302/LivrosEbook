@@ -327,6 +327,17 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - Ronaldo liga para Helena no aniversário dela, diz parabéns e pergunta se o carro ainda faz barulho na segunda marcha; ela diz que faz (consertou em 2024). Ele vai ao casamento (convidado por Célia) e ainda acha que foi Vicente. Em out/2023, Helena faltou uma semana à escola; a diretora mandou flores; Helena não atendia o telefone; na feira paravam de falar quando ela chegava.
 - Porta lateral da padaria (escada de serviço) fica encostada aos domingos ("ladrão também descansa", dona Cida). Vicente guarda garfos de plástico na gaveta da prancheta e come lá.
 - Cecília comeu uma rodela de quiabo em 19/4/2026 ("Continua horrível"); Vicente comeu o resto do quiabo do pote, separando do frango, e deixou o frango para ela. "Tá igual." / "Igual a quê?" / "Ao de sempre."
+- Arantes Moura, sex 24/4/2026, 16h: Regina imprimiu a REV. 01 da cabeceira (42 cm) por engano; a REV. 02 já tinha 45 cm; "Você confere tudo duas vezes" / "Três" / "Bem-vindo de novo". Pranchas A1 presas com ímãs num quadro de metal. Vicente aceitou a água com gás pela primeira vez.
+- Otávio, sobre a viagem a SP: "Vou escrever o discurso com a madrinha" / "é" / na porta: "Madrinha."
+- Conjugado de Cecília (cap. 24): onze lugares para sentar e uma cadeira só (cadeira da mesa, cama de casal, baú aos pés da cama, parapeito da janela do poço com 40 cm de fundo, duas caixas de livro "pufe", o chão, o degrau do banheiro, a bancada da cozinha americana). Luminária de braço articulado; abajur de papel de arroz comprado na Liberdade; vaso de manjericão vivo no parapeito. Em abril, o sol entra entre 11h e 15h, em diagonal, e chega à cama às 11h10. O conjugado permite três passos e meio em cada direção.
+- A lista de abril na parede do conjugado: os itens de Vicente copiados por Cecília em post-its azuis, em caixa-alta, imitando a letra dele (o R com a perna mais comprida). Item 11 (dele, escrito à mão em post-it azul na parede, 24/4): "VOCÊ COPIA A MINHA LETRA E ACERTA O R."
+- O post-it do representante fica separado da fila, na borda da mesa, encostado na régua; Vicente o viu em 24/4 e não perguntou ("Eu conheço aquele endereço").
+- Discurso dos padrinhos (escrito no sábado, 25/4, na cama do conjugado, em duas colunas: ela em minúscula, ele em caixa-alta): abre pelo cacto Cachorro ("O ANDRÉ FEZ UM DISCURSO PRO CACTO. CHOROU. A MARINA PÔS UMA PEDRINHA. FOI ALI QUE A GENTE SOUBE." / "soube o quê?" / "QUE ELE ERA DELA."); o guaraná ("a marina planejou o ângulo durante meia hora no banheiro. o andré achou que foi acidente durante quatro anos."); o vestido "mostarda" (ela ganhou); os dois brindes (o copo levantado e a cachaça); fim, dela: "A gente aprendeu com vocês que dá pra escolher uma pessoa sabendo tudo dela. Não apesar. Sabendo." Ele pediu para tirar o "tudo" ("ninguém sabe tudo de ninguém"); ela: "Por isso que é bonito." Tempo: 4min50 ("sobram dez segundos pra Marina chorar"). Impresso em corpo 12, na serifada de transição ("a tia que pede desculpa"), duas cópias; na de Vicente, a lápis: "lê devagar. você lê rápido quando fica nervoso." Na margem direita da cópia dele, a lápis, pequeno: "3/5".
+- Joana: cinco minutos de discurso são cerca de 650 palavras ("ela sabe quanto cabe em tudo").
+- Caderno, 2018, página quarenta e poucos, lado direito, letra de Vicente aos 17: "você chama de mostarda uma coisa que é amarela pra parecer que entende de cor"; resposta dela: "eu entendo de cor e você chama de amarelo tudo que não é azul".
+- Cecília dorme de lado com a cabeça no peito dele e a mão fechada na camiseta do outro lado. Ronca baixinho (item 3). Vicente olha para o teto quando está vulnerável, e ela sabe.
+- Manhã de domingo, 26/4/2026: primeira vez de dia, no corte de sol das 11h10 em cima da cama; ela empurrou o edredom e disse "Pode olhar"; disse "pode" em vez de "tá"; segurou o rosto dele com os polegares na mandíbula, como no Ipiranga.
+- Ônibus de volta: Tietê, domingo 26/4, 23h; poltrona 32, janela, lado direito.
 ## Cronologia
 
 Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
@@ -356,6 +367,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 21 | seg, 30 mar → dom, 12 abr 2026 | seg 9h40 → dom 22h30 | Cecília chega à editora com a mala; refaz a capa das três janelas e assume a luz dele; Joana aprova (gráfica sexta); à noite pensa no "representante" e no Rafa, escreve a ele ("eu já sei") e recebe "sabe tudo?"; não escreve ao instituto; a lista de abril em post-its e papel-manteiga (itens 1 a 6); ligações das 23h; Bia tem até 15/4; a Páscoa com o pombo de orelhas; "Eu tô pensando numa coisa que eu não sei" / "Outra hora". Sábado 11/4: Marina em SP; a DM da Lúcia; Belém; o telefonema com André; "Você não escolhe o que eu aguento"; Marina explica a dança e o porta-malas; confessa que sabe do câncer desde ago/2024; "E você escolheu o que eu aguentava"; "Eu fiz o que o André fez"; "Tudo?" / "Tudo." / "Então ele mudou."; "Eu vou casar sabendo". Domingo: Marina volta; Vicente liga às 22h30 (André ligou para ele); "Porque não era meu"; "Você me conta" / "Conto"; ela escreve o item 7 no escuro e deixa torto. |
 | 22 | seg, 13/4 → dom, 19/4/2026 | seg 8h; qua 6h15 → 15h12; qui 12h20 → 0h52; sex 18h10; dom 11h40 → 13h10 | Lista da obra (faltam 33 dias e 11 itens); itens 8 e 9 da lista de abril; consulta de Otávio ("Igual o outro"; "Comida guardada azeda"); a Bia diz não à agência e liga por vídeo para Vicente às 6h41 pedindo uma chaminé; Vicente diz "consulta do meu pai"; primeiro pagamento do freelance; Rafa mede o bar, conta da reunião de adoção, "Ela sabe o que eu contei" / "Tá"; Helena convida Vicente para o domingo ("o de sempre"), ele recusa; na ligação das onze, ele conta a Cecília da consulta, que Helena o convidou e que se falam "às vezes", e, no lugar da frase grande, conta o freelance; item 10; sexta, os convites; sábado na obra; domingo, ela vai sozinha à casa da mãe e ele assiste da fresta do escritório; dona Cida e o pingado. |
 | 23 | dom, 19/4/2026 | 11h50 → 15h30 | Cecília conta as catorze barras do portão verde e toca a campainha (tem a chave); Helena a recebe; a poltrona de Ronaldo sumiu; três pratos na mesa, Helena tira um ("força do hábito"); frango com quiabo e uma panela pequena sem quiabo; "O Vi não quis vir?"; as terças da químio ("Naquele ano, sim"); Cecília conta que o arquivo era dela e que Vicente trocou em junho; Helena vai ao filtro e deixa a água passar da borda; a pergunta do representante, os óculos de leitura, "Não sei, filha"; Helena conta quem era D., Coimbra, as cartas nunca mandadas, Ouro Preto; Ronaldo e o barulho do carro; o pote de vidro "pra você e pra ele"; Cecília vê a luminária acesa no escritório, sobe, põe o pote na prancheta; "Tá igual" / "Ao de sempre"; ela come um quiabo, ele come o resto. |
+| 24 | sex, 24/4 → dom, 26/4/2026 | sex 16h → dom 23h | Reunião no Arantes Moura (a cota de 45 cm); no conjugado, ele conta onze lugares e vê os itens dele copiados em post-its azuis; escreve o 11; vê o post-it do representante e não pergunta; sábado, o discurso em duas colunas na cama (abre pelo cacto; "mostarda"); "Você ainda tem o caderno?" / "Não sei onde foi parar." ("Não era verdade."); à noite ela conta as cartas nunca mandadas e o "Não sei" da mãe com os óculos; "Você sabe porque você vai lá" / "Às vezes"; a frase do fim ("sabendo tudo dela"); ele pede para tirar o "tudo" e perde; dormem abraçados; ele começa as seis palavras três vezes e decide falar antes com "uma pessoa"; domingo, "Outra hora" devolvido; a primeira vez de dia, no sol das 11h10; no ônibus, ele escreve "3/5" na margem do discurso. |
 
 ## A verdade escondida (Camada C)
 
@@ -393,6 +405,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 21 | relação real, à distância | Os dois inventam um caderno novo em pedaços, mantendo a regra (nunca elogio), e o seis dele quase quebra a regra ("EU FIQUEI ESPERANDO"). Ligam todo dia. Ela confia: diz a Marina que ele contou tudo e pede, por telefone, que ele conte o que souber; ele diz "Conto". Ela deixa um post-it torto. | A lista de abril; "Outra hora" / "Tá" invertido (agora é ela que adia); o pombo de orelhas; "Conto" |
 | 22 | relação real; dívida escondida | Ele passa a contar coisas pequenas sem ela perguntar (a consulta, o convite da Helena, o freelance) e sabe que está pagando a conta errada; ela percebe a mudança e a nomeia ("você me contou sem eu perguntar"). Primeiro fim de semana inteiro juntos em BH sem crise. Ela vai à casa da mãe sozinha, por decisão dela; ele fica olhando. | "você vê tudo"; "Eu escondo por hábito. Não por critério."; o item 10; a luminária esperando; o quinto degrau dela |
 | 23 | relação real; ternura antiga recuperada | Ela vai até ele sem ser chamada, porque viu a luz. Ele come o quiabo que era dele desde os doze anos e deixa o frango para ela; ela come um quiabo de propósito. O gesto de 2013 volta invertido e escolhido. Ela não pergunta com que frequência é o "às vezes". | O pote de tampa azul; "Tá igual"; "Continua horrível"; a luminária acesa vista da rua |
+| 24 | intimidade plena; a mentira dentro dela | Ela se deixa ver de dia, por escolha (o medo central dela, enfrentado com ele). Os dois escrevem juntos a frase que vai ser lida no casamento, e a frase é verdade para ela e mentira para ele. Ele mente explicitamente sobre o caderno e ela aceita a resposta sem desconfiar. Ela devolve o "Outra hora" e ele entende. Ele marca sozinho a data para contar (3/5). | O R copiado; "abre pelo cacto"; "mostarda"; "sobram dez segundos pra Marina chorar"; "Pode olhar"; "lê devagar" |
 
 ## Quem sabe o quê
 
@@ -492,6 +505,10 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | Vicente ligou para Helena do hospital na madrugada de 15/4/2023 | Helena, Vicente, Cecília (agora) | — | 23 |
 | Cecília perguntou a Helena sobre o endereço do "representante"; Helena disse "Não sei, filha" | Cecília, Helena | Vicente (ainda) | 23 |
 | A poltrona de Ronaldo foi buscada em dez/2025 | Helena, Cecília (agora) | — | 23 |
+| Vicente viu o post-it do representante na mesa de Cecília | Vicente | Cecília (não sabe que ele viu nem que ele reconhece o endereço) | 24 |
+| As cartas de Helena nunca foram mandadas | Vicente (agora, por Cecília; não sabia) | — | 24 |
+| Helena respondeu "Não sei" sobre o representante, pondo os óculos | Vicente (agora, por Cecília) | — | 24 |
+| Vicente decidiu contar no domingo, 3/5, depois de falar antes com "uma pessoa" | Vicente | todos | 24 |
 
 ## Conflitos em aberto
 
@@ -640,6 +657,13 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - O nome *Remetente* para cartas nunca remetidas (cap. 23): a ironia já é de Cecília; pode voltar no discurso (cap. 24) ou no cap. 33.
 - A chave amarela da casa da mãe no chaveiro de Cecília (cap. 23): ela toca a campainha em vez de usar. Usar a chave pela primeira vez no cap. 27 (quando vai à casa da mãe com o e-mail do instituto) ou no 29 (o tutu).
 - O tutu prometido de novo (cap. 23): "Da próxima eu faço o tutu." Paga no cap. 29.
+- A frase do fim do discurso (cap. 24): "A gente aprendeu com vocês que dá pra escolher uma pessoa sabendo tudo dela. Não apesar. Sabendo." Vicente quis tirar o "tudo". No cap. 28, ela pode citá-la contra ele; no cap. 31, ele a lê em voz alta, devagar, quando já é verdade.
+- "lê devagar. você lê rápido quando fica nervoso." (bilhete a lápis na cópia dele, cap. 24): volta no cap. 31.
+- "3/5" na margem da cópia dele (cap. 24): a data que ele marcou para contar. Os acontecimentos dos cap. 25–26 passam por cima dela. Pode ser vista por Cecília no cap. 28 ou 31 (quando trocam as folhas) e entendida.
+- "Não sei onde foi parar" (cap. 24): mentira explícita sobre o caderno, depois do silêncio do cap. 7. Paga no cap. 31.
+- "Eu precisava falar com uma pessoa antes" / "a desculpa de 2023, com outra roupa" (cap. 24): no cap. 26, quem liga primeiro é Helena.
+- "Pode" em vez de "tá" (cap. 24): Vicente entendeu a diferença. Pode voltar no cap. 32.
+- O manjericão vivo de Cecília (cap. 24) contra o manjericão morto da varanda dele (cap. 15).
 
 ## Estrutura dos capítulos
 
@@ -670,7 +694,8 @@ Plano completo em `arquitetura.md`. Status:
 | 21 | Belém | escrito e revisado (3254 palavras) |
 | 22 | Reta final | escrito e revisado (3797 palavras) |
 | 23 | Domingo na Floresta | escrito e revisado (3421 palavras) |
-| 24–33 | ver arquitetura | planejado |
+| 24 | O discurso | escrito e revisado (3018 palavras) |
+| 25–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
