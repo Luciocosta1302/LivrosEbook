@@ -300,6 +300,20 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - Marina soube do câncer de Otávio em agosto de 2024, no aniversário do Rafa, num bar, pela única vez em que viu Vicente bêbado; ele contou tudo (hospital, químio, Helena levando Otávio às terças) e pediu sigilo, sobretudo a Cecília. No porta-malas de Paraty, ela pediu que ele contasse a Cecília; ele disse não duas vezes.
 - Cecília a Marina: "E você escolheu o que eu aguentava." Marina: "Eu fiz o que o André fez." Cecília: "Ele já me contou. [...] Tudo." / "Tudo?" / "Tudo." / "Então ele mudou." Marina entendeu a Coca de Paraty "em fevereiro, no chuveiro". Decisão de Marina: "Eu não vou cancelar. Eu vou casar com ele. Mas eu vou casar sabendo." Sobre Belém: "Eu só queria ter podido não querer."
 - Em 12/4, às 20h, André ligou para Vicente da porta de casa, sem saber para quem ligar, e perguntou se ele sabia de Belém. Vicente a Cecília: "Eu não sabia o quê. Sabia que era alguma coisa. Não perguntei." / "Porque não era meu." Cecília: "Se você souber de alguma coisa. Qualquer coisa. Que for minha. Você me conta." / "Conto." / "Tá."
+- Lista da obra da dona Lurdes (cap. 22): papel-manteiga em caixa-alta, presa com fita crepe na geladeira quebrada da dona Lurdes (desligada desde 2019, com o ímã da padaria e a foto da primeira comunhão do André); Seu Geraldo risca com lápis de carpinteiro e data embaixo. Em 13/4 faltavam: taco (lixar e encerar), pintura sala e cozinha, caixilho da janela da cozinha, escada do quintal (5 degraus), dobradiça da porta da frente, ponto de luz do bar, limpeza. Prancheta da obra: uma porta velha sobre dois cavaletes. O Cleiton dorme na obra às terças.
+- Seu Geraldo guarda o cigarro apagado atrás da orelha e sabe que Cecília liga às onze ("uma noiva que liga às onze" / "Ela não é minha noiva" / "Então é pior").
+- Lista de abril, itens 8–10: 8 (dele, 13/4): "VOCÊ COLA POST-IT TORTO DE PROPÓSITO E DEIXA A RÉGUA DO LADO PRA EU VER QUE FOI DE PROPÓSITO." 9 (dela, 13/4): "você vê tudo." 10 (dela, 17/4, 0h52): "você me conta as coisas boas como se fossem crime."
+- Consulta de Otávio em qua, 15/4/2026, 7h: Otávio no ponto às 6h15, de boné do Atlético e pasta de plástico; "Tá frio" (18 graus). Sala de espera: seis cadeiras de plástico azul, televisão sem som, aquário com um peixe laranja só ("Continua sozinho" / "Ninguém prefere"). Nove minutos; médico disse "estável" três vezes; "Igual o outro." Pão de queijo no balcão; Otávio comeu um e meio. Frase de Otávio: "Comida guardada azeda" ("É meu", não é ditado), depois de perguntar "Contou o resto?" / "Não."
+- Bia disse não à agência em 15/4, às 6h, por e-mail (três parágrafos, apagou dois; "tenho uma pousada pra cuidar"). Ligou para Vicente por vídeo às 6h41 (ele foi "o ensaio") e para Cecília às 7h15. Pediu a ele uma chaminé nova para a churrasqueira de 1990: subir uns dois metros acima da copa do jambo, chapéu de lata; primeiro esboço no verso da senha 047 da clínica; passado a limpo em escala no domingo, 19/4. Bia: "Eu guardo print, Vicente. Eu sou um arquivo." Fica sempre com a última palavra numa ligação.
+- Vicente disse "Consulta do meu pai" à Bia (não "coisa de obra") e contou a consulta a Cecília sem ela perguntar (cap. 22).
+- Primeiro pagamento do Arantes Moura: qua, 15/4, 15h12, R$ 3.200 ("ARANTES MOURA ARQ LTDA — SERV TEC ABR"). Regina quer a cota da cabeceira em 45 cm. A 23ª parcela do empréstimo (vencida em 10/4) foi paga com o cheque do doutor Tadeu. Pela primeira vez desde novembro, sobra dinheiro.
+- Rafa usa trena a laser. Reunião de adoção em 26/3: sentou perto da porta e não saiu; outra em maio; Tiago comprou uma pasta azul de elástico. Prego enferrujado na mangueira, a 1,5 m, onde a dona Lurdes pendurava a gaiola de um canário. Lugar do bar marcado a giz: 2,5 m x 0,8 m.
+- Mensagem de Helena a Vicente (qui, 16/4, 22h04): "Vi, a Cecília vem almoçar aqui no domingo. É a primeira vez em três anos. Ela mesma pediu. Vem também. Eu faço o de sempre. Com o carinho de sempre." Resposta (a quarta escrita): "Não vou, Helena. Domingo é seu com ela." Helena não respondeu.
+- Helena corta o quiabo em rodela fina "para não babar" (segredo que ensinou a Vicente em 2013). Na casa da Itajubá, a janela da cozinha fica à esquerda do portão, com cortina de renda; avental de xadrez miúdo. Vicente sentava num banquinho perto do filtro de barro.
+- Cecília soube por Vicente (16/4) que Helena o convidou para o almoço e que eles "se falam às vezes" (ele deixou a palavra pequena de propósito).
+- Convites impressos: 200, em quatro caixas do Seu Nelson, chegaram a BH com Cecília na sexta, 17/4, às 18h10 (carregador da rodoviária, R$ 20); empilhados na sala de Vicente ao lado do sofá.
+- A luminária do quarto de Vicente continua pendurada pelo fio ("ela tá esperando a gente desistir" / "um grampo novo" / "é a mesma coisa").
+- Padaria Floresta Nova abre aos domingos até as 13h; dona Cida no caixa desde 1984; "Domingo eu não cobro" (pingado doce demais e dois pães de sal); joelho ruim.
 ## Cronologia
 
 Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
@@ -327,6 +341,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 19 | sáb, 28 mar → dom, 29 mar 2026 | 11h40 → 5h10 | Vicente a busca no hotel com o guaraná de dois litros no banco; "Depois do almoço"; no apartamento de Otávio, a pipoca na panela amassada; na cozinha, Otávio agradece "por ter ficado do lado dele naquele ano" e ela responde "de nada" com a boca pequena; Seu Geraldo e dona Irene; carne de panela da Rosa; o brinde "dois anos sem aquela porcaria"; "Dois anos de quê?"; Otávio conta o câncer, a data (14/4/2023, aniversário de casamento dele com a Rosa), o chão do corredor, que Vicente disse que ela sabia, e que Helena o levava à quimio toda terça; ela fica quieta e alinha os talheres; Vicente para a frase no meio; ela refaz "março de 2024" e lembra a entrada de 4/4/2023 no caderno; lava a louça com Otávio ("Briga amanhã"); na porta do hotel: "Você disse que eu ia saber" / "Você soube" / "Pelo seu pai" / "Não agora" / "Tá". Madrugada no hotel: 14/4/2023 era sexta; percebe que a grafia da aba é a dela; acha o e-mail das 2h17 com a v3 integral e o "confiro" das 2h20; a lembrança do degrau volta pelo dedo; sobe o WhatsApp até abril de 2023: "manda logo antes que eu desista", "não manda", "tá", "vc não mandou né", "não"; desmonta a hipótese da declaração; relê "você nunca aprende"; não chora; alinha a caneta, o bloco e o copo; às 5h10 fecha o notebook. |
 | 20 | sáb, 28 mar (17h) → seg, 30 mar 2026 (6h15) | sáb 17h; dom 5h → seg 6h15 | Na cozinha do pai: "Tava?" / "Tava." / "Eu também." / "Você tem cara de quem tem mais." Domingo: Vicente abre o e-mail às 7h, passa o dia no quinto degrau da obra, manda "você tá bem?" às 16h05 (lido, sem resposta); às 20h40, descendo com o lixo, encontra Cecília no degrau da portaria, com a mala e o notebook: "Eu sentei aqui antes." / "Em 2023. Às duas e dezessete."; sobem de escada; no chão do corredor de 90 cm, pés encostados, ela mostra o e-mail e o WhatsApp; ele confessa V1 inteira (hospital, "confiro" sem conferir, inscrição às 3h52, "tá" sem retirar, o "não" de 18/4, a descoberta e a troca de 20/6 com o Rafa); "E como saiu com tudo?" / "Não sei." (ao leitor: "Eu menti. [...] Eu sei."); o "fui eu" explicado; "Não decide isso também"; "Eu minto com motivo e depois fico morando no motivo"; ela conta que foi ao degrau para "dizer uma coisa" ("Outra hora"); às 23h40 os dois mudam o sofá de parede; ela pergunta "Posso?" e perde o ônibus; primeira noite no quarto dele; P10; às 4h ele passa pelo quarto das maquetes sem acender a luz; às 5h20 a acorda; Confins; "Tchau, Vicente". |
 | 21 | seg, 30 mar → dom, 12 abr 2026 | seg 9h40 → dom 22h30 | Cecília chega à editora com a mala; refaz a capa das três janelas e assume a luz dele; Joana aprova (gráfica sexta); à noite pensa no "representante" e no Rafa, escreve a ele ("eu já sei") e recebe "sabe tudo?"; não escreve ao instituto; a lista de abril em post-its e papel-manteiga (itens 1 a 6); ligações das 23h; Bia tem até 15/4; a Páscoa com o pombo de orelhas; "Eu tô pensando numa coisa que eu não sei" / "Outra hora". Sábado 11/4: Marina em SP; a DM da Lúcia; Belém; o telefonema com André; "Você não escolhe o que eu aguento"; Marina explica a dança e o porta-malas; confessa que sabe do câncer desde ago/2024; "E você escolheu o que eu aguentava"; "Eu fiz o que o André fez"; "Tudo?" / "Tudo." / "Então ele mudou."; "Eu vou casar sabendo". Domingo: Marina volta; Vicente liga às 22h30 (André ligou para ele); "Porque não era meu"; "Você me conta" / "Conto"; ela escreve o item 7 no escuro e deixa torto. |
+| 22 | seg, 13/4 → dom, 19/4/2026 | seg 8h; qua 6h15 → 15h12; qui 12h20 → 0h52; sex 18h10; dom 11h40 → 13h10 | Lista da obra (faltam 33 dias e 11 itens); itens 8 e 9 da lista de abril; consulta de Otávio ("Igual o outro"; "Comida guardada azeda"); a Bia diz não à agência e liga por vídeo para Vicente às 6h41 pedindo uma chaminé; Vicente diz "consulta do meu pai"; primeiro pagamento do freelance; Rafa mede o bar, conta da reunião de adoção, "Ela sabe o que eu contei" / "Tá"; Helena convida Vicente para o domingo ("o de sempre"), ele recusa; na ligação das onze, ele conta a Cecília da consulta, que Helena o convidou e que se falam "às vezes", e, no lugar da frase grande, conta o freelance; item 10; sexta, os convites; sábado na obra; domingo, ela vai sozinha à casa da mãe e ele assiste da fresta do escritório; dona Cida e o pingado. |
 
 ## A verdade escondida (Camada C)
 
@@ -362,6 +377,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 19 | ruptura interna (sem briga) | Ela descobre que ele carregou uma culpa que era metade dela, que passou o pior ano da vida dele sem contar a ela, que mentiu ao pai dizendo que ela sabia, e que mentiu a ela em 18/4/2023 ("não"). Ela também descobre que foi até o prédio dele naquela noite para dizer uma coisa que não era sobre o livro. Não briga com ele: "Não agora". Ele não se defende. | "Você disse que eu ia saber" / "Você soube"; os talheres alinhados; "Você nunca aprende" relido |
 | 20 | vulnerabilidade e primeira noite | Ela sabe o que ele fez e escolhe ficar; recusa que ele decida até a proporção da culpa. Ele treme e deixa que ela veja. Ela pergunta "Posso?". Mudam o sofá de lugar juntos. Ela o chama pelo nome de manhã. Ele promete não decidir mais nada por ela enquanto responde a outra pergunta. | "Isso não é sofá, é opinião"; "Agora é outro lugar"; "conferiu a validade?" / "duas vezes"; o "tá" que quer dizer só sim; "Tchau, Vicente" |
 | 21 | relação real, à distância | Os dois inventam um caderno novo em pedaços, mantendo a regra (nunca elogio), e o seis dele quase quebra a regra ("EU FIQUEI ESPERANDO"). Ligam todo dia. Ela confia: diz a Marina que ele contou tudo e pede, por telefone, que ele conte o que souber; ele diz "Conto". Ela deixa um post-it torto. | A lista de abril; "Outra hora" / "Tá" invertido (agora é ela que adia); o pombo de orelhas; "Conto" |
+| 22 | relação real; dívida escondida | Ele passa a contar coisas pequenas sem ela perguntar (a consulta, o convite da Helena, o freelance) e sabe que está pagando a conta errada; ela percebe a mudança e a nomeia ("você me contou sem eu perguntar"). Primeiro fim de semana inteiro juntos em BH sem crise. Ela vai à casa da mãe sozinha, por decisão dela; ele fica olhando. | "você vê tudo"; "Eu escondo por hábito. Não por critério."; o item 10; a luminária esperando; o quinto degrau dela |
 
 ## Quem sabe o quê
 
@@ -449,6 +465,13 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | Marina pediu no porta-malas que Vicente contasse a Cecília sobre o pai | Marina, Vicente, Cecília (agora) | — | 21 |
 | Cecília acredita que Vicente contou "tudo"; Marina acredita que "ele mudou" | Cecília, Marina | — | 21 |
 | Cecília e Vicente estão juntos | Marina (deduz pelos post-its), Joana (deduz), Bia (desde o beijo), Rafa (deduz) | André e o resto, oficialmente | 21 |
+| Bia recusou a agência e vai ficar em Paraty | Bia, Vicente (às 6h41), Cecília (às 7h15) | o resto do grupo | 22 |
+| A consulta de Otávio de 15/4 foi "igual o outro" | Otávio, Vicente, Cecília (ele contou), Bia (sabe que houve consulta) | o grupo | 22 |
+| Vicente faz o freelance do Arantes Moura e recebeu o primeiro pagamento | Vicente, Cecília | o grupo | 22 |
+| Helena convidou Vicente para o almoço de domingo e ele recusou | Helena, Vicente, Cecília | — | 22 |
+| Helena e Vicente "se falam às vezes" | Cecília (na versão pequena) | Cecília não sabe com que frequência nem por quê | 22 |
+| Rafa sabe que Cecília não sabe tudo ("Ela sabe o que eu contei") | Rafa, Vicente | Cecília | 22 |
+| Vicente viu da janela do escritório Cecília entrar na casa da mãe | Vicente, dona Cida (deduz) | Cecília | 22 |
 
 ## Conflitos em aberto
 
@@ -580,6 +603,14 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - Cecília suspeita do Rafa (cap. 21): mantém F1 até o cap. 25, quando Rafa conta a parte dele e diz "tem mais".
 - A decisão de não escrever ao instituto antes do casamento (cap. 21): quebrada no cap. 25, depois do Rafa.
 - "Eu tô pensando numa coisa que eu não sei" / "Outra hora" (cap. 21): agora é Cecília que adia; espelho do "Outra hora" do cap. 20.
+- A chaminé da Bia (cap. 22): projeto passado a limpo em 19/4. Pode aparecer construída no cap. 33 (epílogo, julho) ou mencionada no 25 (a Bia traz a foto da obra).
+- "Comida guardada azeda" (Otávio, cap. 22): eco possível no cap. 30, quando Vicente conta tudo ao pai.
+- "Às vezes" (cap. 22): a palavra pequena para a frequência com que Vicente vê Helena. Cecília cobra no cap. 27 ou 28, quando souber que eram a cada duas ou três semanas.
+- As seis palavras (cap. 22): a frase grande que Vicente não disse na ligação de 16/4; ele sabe quais são e a ordem. Não revelar o texto antes do cap. 28; no 28, ele pode dizer que eram seis palavras.
+- "Eu faço o de sempre" (Helena, cap. 22): o frango com quiabo do domingo 19/4 era para Vicente. Cecília lê como hábito/confusão no cap. 23 (P11); paga no cap. 27.
+- A fresta do escritório (cap. 22): Vicente viu Cecília entrar na casa da mãe; no cap. 23 ela pode olhar para a janela do escritório na volta, sem saber que ele olhou.
+- Os 200 convites na sala de Vicente (cap. 22): Marina distribui; podem aparecer no cap. 24 ou 25.
+- Tiago e a pasta azul de elástico (cap. 22): a segunda reunião de adoção é em maio; Tiago pode aparecer na despedida (cap. 25).
 
 ## Estrutura dos capítulos
 
@@ -608,7 +639,8 @@ Plano completo em `arquitetura.md`. Status:
 | 19 | Catorze de abril | escrito e revisado (3839 palavras) |
 | 20 | Confiro | escrito e revisado (3425 palavras) |
 | 21 | Belém | escrito e revisado (3254 palavras) |
-| 22–33 | ver arquitetura | planejado |
+| 22 | Reta final | escrito e revisado (3797 palavras) |
+| 23–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
