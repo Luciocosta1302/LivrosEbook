@@ -251,6 +251,20 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - O post-it amarelo com o endereço do "representante", na letra de Cecília, alinhado com a régua na borda da mesa de trabalho.
 - A hipótese de Cecília (cap. 17): que, na noite da cerveja, ela ligou bêbada para Vicente e se declarou, mandou de manhã "esquece o que eu falei ontem", e que ele ficou sério no Ipiranga porque sabia o que ela ia dizer. É falsa (ela disse "manda" e mandou o arquivo). A mensagem da manhã de sábado foi, de fato, "esquece o que eu falei ontem, não manda", para Vicente.
 
+- Almoço de domingo de Vicente e Otávio: desde nov/2023, na casa de Otávio (apartamento térreo perto da Silviano Brandão), uma panela só, rádio no jogo; Otávio senta na cabeceira, de costas para a janela; copos de requeijão.
+- A carne de panela com mandioca é a receita de Rosa, que Otávio aprendeu por tentativa e erro no ano seguinte à morte dela. Ele a faz uma vez por ano, desde março de 2025, para marcar a remissão. Convidados fixos: Seu Geraldo e a mulher dele, dona Irene. Uma vez por ano, Otávio toma guaraná.
+- Otávio chama Cecília de "a menina" e acredita numa coisa que Vicente disse a ele em abril de 2023, numa cadeira de plástico (que Cecília sabia e estava do lado dele). Vicente nunca corrigiu. Pago no cap. 19.
+- Contrato do freelance Arantes Moura assinado e enviado em 23/3, 7h; Regina respondeu às 7h02 ("Recebido. Bem-vindo."). Primeiro trabalho: cabeceira de hotel de Bento Gonçalves, com dois nichos laterais e cota de 42 cm.
+- Doutor Tadeu: a porta do armário da sala dois era a dobradiça; trocada em 23/3; ele pagou a segunda metade com cheque.
+- Piso do quintal da dona Lurdes, com os tijolos da parede em espinha de peixe, começou em 24/3 (Seu Geraldo e Cleiton).
+- Rafa e Vicente se conheceram no primeiro dia de faculdade, em 2018, na aula de desenho: Rafa disse que a perspectiva de Vicente estava "otimista". Rafa nunca liga (manda áudio de quatro segundos); ligou em 24/3, 18h40, do estacionamento do hospital onde Tiago trabalha (plantão até as 19h).
+- Tiago quer ir a uma reunião do fórum sobre adoção na quinta, 26/3. Rafa vai "sentar numa cadeira de plástico e olhar pra porta"; Vicente: "Senta perto da porta. Se quiser sair, sai. Mas senta."
+- Na madrugada de segunda, 23/3, à 1h, Cecília mandou ao Rafa: "Rafa, naquela sexta de abril, o que eu falei? Pra onde eu fui?". Ele não respondeu.
+- Ultimato do Rafa (24/3): "Conta ou eu conto." Prazo: quando ela perguntar de novo. Rafa diz que esteve "lá nas duas vezes" (pagou a conta da primeira, segurou o café de Vicente na segunda) e que é cúmplice porque Vicente "pede tudo com a cara".
+- Degustação do bufê: sexta, 27/3, 19h30–22h15, bufê da dona Zuleica numa casa antiga com sacada de ferro na Savassi. Presentes: Marina, André, dona Célia, dona Zuleica, Cecília, Vicente. Dona Célia quer camarão; aceita a truta defumada da Serra da Mantiqueira "por enquanto". Pratos citados: canastra com goiabada, pernil, truta, cogumelo, escondidinho de carne-seca em potinho de barro. Marina anota no caderninho ("truta: sim").
+- Cecília se hospeda num hotel de executivo na Rua Pernambuco (Savassi), fachada de vidro escuro, porteiro de terno; a 12 minutos a pé do bufê. Chegou de ônibus a BH às 17h de 27/3.
+- Na degustação, o celular de André mostrou a notificação "Eng. Paulo — Belém"; ele virou o celular para baixo e sorriu para Marina. Vicente viu.
+- Vicente voltou a pé da Savassi ao Floresta (50 min) na noite de 27/3.
 ## Cronologia
 
 Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
@@ -274,6 +288,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 15 | dom, 8 mar 2026 | 10h52 → 16h40 | Cecília chega oito minutos antes e espera no degrau da portaria, onde o dedo vai sozinho para uma lasca que ela conhece sem saber de onde; sobe os 96 degraus em vez do elevador de 2023; ele abre de meias cinzas iguais; escaneia o mapa a 600 dpi no quarto das maquetes (a caixa de sapato laranja no alto do armário); macarrão com sardinha na cozinha de corredor; ela ri alto; ela manda "convite_FINAL_FINAL_v2_esse.pdf" a um metro e meio; ele ri, abre duas vezes: "Você nunca aprende." / "E você nunca mudou."; ele sai para comprar limão e diz que a senha é a mesma; no notebook ela vê a aba "remetente versao final" e não clica; ele volta, vê, fecha a aba sem olhar; no sofá, revisando o livro dos padrinhos, a mão dele no joelho dela, quase; ela olha as meias e reconhece o lugar de 5/11/2023; "Aqui não." / "Tá."; ele a chama de Cecília e lembra a gráfica no dia 19; ela desce os 96 degraus e senta no degrau da lasca; olha uma vez para a janela. |
 | 16 | qui, 19 mar 2026 → sex, 20 mar | 6h10 → 1h11 (e até o amanhecer) | Vicente chega de ônibus a SP; entrevista no Arantes Moura (freelance de R$ 3.200 a partir de abril); diz ao leitor que abre o e-mail da aba "mais vezes do que vou contar" e que não vai dizer mais nada sobre ele; na Quatro Margens, Joana o chama de "o norte"; o Caio de chinelo; uma piada torta e a oferta de montar a estante do Caio no sábado (troca a passagem); na gráfica do Seu Nelson, o marrom sai laranja e ele percebe; no estacionamento dos fundos, sob a luz de sódio, ela fala da "noite da cerveja", começa "Naquela noite eu...", alinha as metades do biscoito e muda de assunto; ele fica sério e não responde por quê; "Fala de novo" / "Cê" / "De propósito?" / "Posso?"; ela o beija; "Isso aconteceu" / "Consta"; segunda prova aprovada; ela vai embora de ônibus: "Amanhã eu tenho fechamento"; à 1h11 ele manda "boa noite, Cê" e ela não responde; ele não abre o e-mail. |
 | 17 | sex, 20 mar → dom, 22 mar 2026 | sex 7h40 → dom 3h20 | Sexta: Cecília chega à editora às 7h40 para o fechamento das 9h; escreve e apaga "bom dia" no ônibus; confere as capas três vezes "do jeito dele"; desenha três janelas de luz na capa da Teresa Valadares e apaga porque a luz é dele; Joana: "É ciúme." Sábado: sozinha na editora; vê os 12 stories do Caio com Vicente montando a estante e ri alto; "a terceira prateleira tá torta"; ele pede para passar antes do ônibus e ela diz que está trabalhando. À noite, Bia chega para a entrevista de segunda; vê a caneca; conta a crise de pânico de 2024 e que é feliz em Paraty e tem vergonha disso; Cecília: "vai pra saber que você pode dizer não"; Cecília conta o beijo (não a aba nem a noite da cerveja); Bia grita no travesseiro e diz que o Vicente que ela conhece "não expõe nem a senha do wi-fi". Madrugada: Cecília monta a hipótese da declaração bêbada; abre a gaveta da direita pela primeira vez desde fev/2024; no catálogo, a ficha técnica: "Contato da autora: livroaberto.representante@gmail.com"; copia num post-it; escreve "quem é você?" e salva como rascunho; alinha o post-it; Bia: "Então é grave"; às 3h20 responde ao "boa noite, Cê" de quinta: "boa noite, albuquerque". |
+| 18 | dom, 22 mar → sex, 27 mar 2026 | dom 6h38 → sex 23h50 (e sáb 6h) | Vicente lê "boa noite, albuquerque" na rodoviária e responde "bom dia, azevedo"; no almoço de domingo, Otávio anuncia a carne de panela de sábado ("dois anos") e manda chamar "a menina", que "foi boa pra você naquele ano" (Vicente nunca corrigiu); segunda: contrato do freelance assinado, dobradiça do doutor Tadeu; terça: piso do quintal começa; às 18h40 o Rafa liga do estacionamento do hospital (Tiago e a reunião de adoção), lê a mensagem que Cecília mandou a ele na madrugada de segunda, diz que esteve "nas duas vezes" e dá o ultimato: "Conta ou eu conto"; Vicente convida Cecília para o almoço do pai sem dizer de quê e decide deixar o pai contar; Marina: "isso não é a mesma coisa"; sexta: degustação na Savassi (dona Célia e o camarão), os joelhos encostados debaixo da mesa, André vira o celular com "Eng. Paulo — Belém"; na porta do hotel ela cobra a resposta sobre mentir com motivo ("Amanhã você vai saber") e o beija, curto: "Boa noite, albuquerque". |
 
 ## A verdade escondida (Camada C)
 
@@ -305,6 +320,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 15 | desejo admitido para si; quase | A cena mais leve desde 2023: cozinham, riem, aprovam um arquivo a um metro e meio. A intimidade física volta (a mão no joelho, a inclinação dela) e é interrompida por ela, não pelo mundo: o lugar é o do fim da amizade. Pela primeira vez ela tem uma suspeita nova e concreta (a aba) e não pergunta. Ele não insiste e a chama pelo nome inteiro. | Macarrão com sardinha; "Você nunca aprende" / "E você nunca mudou"; FINAL_FINAL_v2 sem v1; "Põe cinco degraus" / "Eu odeio você" / "Tá no caderno"; "Aqui não" / "Tá"; a régua esquecida ("então tem duas") |
 | 16 | primeiro beijo | O pacto do corredor é quebrado de propósito, por iniciativa dela, com pedido e consentimento explícitos. O "Cê" volta escolhido. Ela diz o nome dele de um jeito novo. Na mesma noite ela começa a recuar (fechamento, sábado de trabalho, sem resposta ao boa-noite). Ele sabe algo sobre a noite que ela não lembra e não deixa que ela termine a frase. | "Fala de novo" / "Cê" / "De propósito"; "Isso não é medição" / "Então conta"; "Isso aconteceu" / "Consta" / "Nos autos" / "Em três vias"; o biscoito de polvilho partido e alinhado; a lente arranhada ("ótimo", com a boca do tamanho normal) |
 | 17 | recuo depois do beijo | Ela foge para o trabalho e, ao mesmo tempo, não consegue deixar de falar com ele (a prateleira). Constrói uma explicação romântica e errada para a seriedade dele, e logo depois encontra uma prova concreta que aponta contra ele (o "representante"). Responde ao "Cê" com o sobrenome: recua de propósito e sabe que ele vai ler a diferença. | "a terceira prateleira tá torta" / "três"; o "tá" dele usado contra ela de novo; "boa noite, Cê" / "boa noite, albuquerque" |
+| 18 | desejo admitido; segundo beijo; véspera | Depois de cinco dias falando como fornecedores, os joelhos se encostam por baixo da mesa e nenhum dos dois tira. Ela percebe que ele está estranho e cobra a pergunta não respondida. Ele promete que "amanhã ela vai saber" e não diz "amanhã eu conto". Ela o beija na calçada, curto, por iniciativa dela, e volta ao sobrenome em voz alta. | "boa noite, albuquerque" / "bom dia, azevedo"; o punho fechado na camisa, agora alisado depois; "não é parente" (a placa da Rua Antônio de Albuquerque) |
 
 ## Quem sabe o quê
 
@@ -369,6 +385,12 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | Bia teve uma crise de pânico em 2024 e tem entrevista em SP | Bia, Cecília | o grupo (só sabem que ela saiu da agência) | 17 |
 | O catálogo lista "livroaberto.representante@gmail.com" como contato da autora | Cecília (agora); Helena (dona do endereço); Vicente sabe quem é | os outros | 17 |
 | Cecília acha que Vicente criou o e-mail do "representante" | Cecília | — | 17 |
+| Cecília perguntou ao Rafa o que disse e para onde foi na sexta de abril | Cecília, Rafa, Vicente (pelo Rafa) | o resto | 18 |
+| Rafa deu a Vicente o ultimato "conta ou eu conto" | Rafa, Vicente | todos | 18 |
+| Rafa e Tiago vão a uma reunião de adoção | Rafa, Tiago, Vicente | o grupo | 18 |
+| Otávio acredita que Cecília sabia do câncer e ficou do lado de Vicente em 2023 | Otávio (crença falsa), Vicente (autor da mentira) | Cecília | 18 |
+| André recebe mensagens de "Eng. Paulo — Belém" e esconde o celular | André, Vicente (viu a notificação, não sabe o conteúdo) | Marina | 18 |
+| O segundo beijo (calçada do hotel, 27/3) | Cecília, Vicente, o porteiro | o grupo | 18 |
 
 ## Conflitos em aberto
 
@@ -477,6 +499,10 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - "boa noite, albuquerque" (cap. 17, 3h20 de 22/3): Vicente lê na rodoviária de BH no domingo de manhã. No cap. 18 (PDV dele), registrar a leitura sem drama.
 - Bia e a entrevista de segunda, 23/3 (cap. 17): a decisão (recusar, por escolha) vem no cap. 22. "Pra saber que você pode dizer não" pode ser devolvido pela Bia a Cecília mais tarde.
 - As três janelas de luz apagadas da capa (cap. 17): a capa da Teresa Valadares se resolve depois do cap. 20, com a ideia de volta, desta vez assumida ("era dele, e eu usei").
+- "Senta perto da porta" (Vicente ao Rafa, cap. 18): a reunião de adoção de Rafa e Tiago, quinta 26/3. Resultado pode aparecer no cap. 25 ou 29, numa linha.
+- "Amanhã você vai saber" (cap. 18): Vicente troca "eu conto" por "você vai saber". Ela ouviu a diferença e não disse. Eco obrigatório no cap. 20 (ela cobra: "você disse que eu ia saber, não que você ia contar") e/ou no 28.
+- "Isso não é a mesma coisa" (Marina, cap. 18): Marina sabe que ele vai deixar o pai contar. Ela devolve isso no cap. 21 ou 29.
+- O guaraná de Otávio (cap. 18 → 19).
 
 ## Estrutura dos capítulos
 
@@ -501,7 +527,8 @@ Plano completo em `arquitetura.md`. Status:
 | 15 | Você nunca aprende | escrito e revisado (3800 palavras) |
 | 16 | A noite da cerveja | escrito e revisado (3759 palavras) |
 | 17 | A gaveta | escrito e revisado (3734 palavras) |
-| 18–33 | ver arquitetura | planejado |
+| 18 | Conta ou eu conto | escrito e revisado (3492 palavras) |
+| 19–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
