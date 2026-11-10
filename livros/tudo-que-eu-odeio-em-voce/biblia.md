@@ -73,7 +73,15 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 
 - Cecília: cicatriz na sobrancelha esquerda; óculos para perto empurrados para a cabeça; unhas curtas; conta objetos quando nervosa; alinha objetos quando vulnerável; café forte, sem açúcar, um dedo de leite frio no fim; nomeia arquivos de forma caótica; não come coentro.
 - Vicente: dente da frente torto que só aparece no sorriso verdadeiro; grafite no lado do mindinho; confere tudo duas vezes; camisa xadrez azul; olha para o teto quando vulnerável; "uai" quando cansado; dorme pouco.
-- Cecília fica quieta quando está realmente magoada. Vicente sabe.
+- Cecília fica quieta quando está realmente magoada. Vicente sabe (demonstrado no cap. 1: ele interrompe a piada no meio da palavra).
+- Café de Cecília: hábito do avô paterno, adotado aos 12 anos como "jeito adulto"; só Vicente sabe a origem.
+- Cecília diz "ótimo" com a boca pequena quando mente (Bia sabe, cap. 1).
+- "Tá" de Cecília = "vou fazer e vou te odiar um pouquinho" (Marina, cap. 1).
+- Vicente desenha portas com arco de compasso aberto demais.
+- Vicente nunca deixa bilhete: "bilhete seria pedir para ser visto".
+- A última vez que estiveram no mesmo cômodo (5/11/2023), ele estava com uma meia azul e uma cinza; ela olhou para os pés.
+- Rafael é "Rafa" para o grupo. Na sexta, 9/1, chega à noite, vindo por Angra.
+- Pousada Caiçara: quarto de Cecília é o da frente, janela presa com calço de papelão, colcha de fuxico, armário que range; escada interna de 14 degraus; varanda dos fundos com rede ("a rede é minha", diz Vicente), duas cadeiras de praia e banco comprido; azulejo azul da cozinha com a terceira fileira deslocada meio centímetro.
 - Piadas internas (do caderno): "Isso aí não é parede, é opinião"; a lista de coisas que "não contam como elogio"; "nota de rodapé" (quando um dos dois quer acrescentar algo a uma briga encerrada); a casa imaginária com "uma janela para cada humor".
 
 ## Cronologia
@@ -82,7 +90,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 
 | Capítulo | Data na história | Hora | Resumo em uma linha |
 |---|---|---|---|
-| — | — | — | nenhum capítulo escrito ainda |
+| 1 | sex, 9 jan 2026 | 15h20 → início da noite | Cecília chega de ônibus; ouve a risada dele na escada e larga a mala; ele faz o café dela certo, ela joga fora e bebe um pior; Marina anuncia os dois como padrinhos principais; ele interrompe uma piada quando ela fica quieta; ela encontra a mala no quarto com a roda consertada e grafite na alça. |
 
 ## A verdade escondida (Camada C)
 
@@ -97,6 +105,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | Após o cap. | Estágio | O que mudou | Piadas internas / gestos recorrentes |
 |---|---|---|---|
 | início | hostilidade e familiaridade desconfortável | três anos sem se falar diretamente | — |
+| 1 | hostilidade e familiaridade desconfortável | Voltam a ocupar o mesmo cômodo; ficam amarrados como padrinhos; primeira reunião marcada para sábado às 10h (ele cedeu). Ela deve a ele um café e uma roda, e se recusa a agradecer. | "Azevedo" / "Albuquerque"; o café; "toda culpa é da planta"; ele cede e isso a irrita mais que a briga |
 
 ## Quem sabe o quê
 
@@ -104,7 +113,9 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 
 | Informação | Sabe | Não sabe | Desde o cap. |
 |---|---|---|---|
-| — | — | — | — |
+| Marina mentiu o horário de chegada para garantir que Cecília viesse | Cecília, Marina | — | 1 |
+| Vicente consertou a roda da mala | Cecília (pelo grafite), Vicente | os outros | 1 |
+| Cecília jogou fora o café dele | Cecília, Bia | Vicente (não viu) | 1 |
 
 ## Conflitos em aberto
 
@@ -123,6 +134,11 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - "Nota de rodapé" — primeira vez no cap. 3; última no cap. 32.
 - A casa com "uma janela para cada humor" (planta no caderno) — mencionada no cap. 7; a casa de Santa Tereza tem a janela no cap. 30; a última página do caderno a menciona no cap. 31.
 - Tutu com couve — Helena não faz há três anos; faz no cap. 29 e Cecília vai.
+- A caneca rachada (cap. 1): da tia de Bia, ninguém usa, não vaza; Cecília gira a rachadura para fora da boca. Vicente a escolheu para ela.
+- A roda da mala (cap. 1): parafuso com arruela e porca, cheiro de óleo de cozinha. Cecília não agradeceu. Pode voltar quando ela finalmente agradecer algo (sugestão: cap. 11, na partida, a mala rolando pelos dezessete degraus).
+- O dia em que se conheceram (cap. 1, mencionado): calçada da Rua Itajubá, fev/2012; ela se machucou ou se magoou e não chorou; ele sentou ao lado sem falar até ela falar. Detalhar no cap. 3 ou 7 sem contradizer.
+- O despertador (cap. 1, lembrança): aos 15, ele desmontou o despertador dela e devolveu funcionando, com uma peça a mais numa caixa de fósforo, "de reserva".
+- A padaria da Rua Pouso Alegre (cap. 1): onde, aos 12 anos, ela contou a ele por que toma café daquele jeito.
 
 ## Estrutura dos capítulos
 
@@ -130,7 +146,7 @@ Plano completo em `arquitetura.md`. Status:
 
 | Cap. | Título de trabalho | Status |
 |---|---|---|
-| 1 | Dezessete degraus | planejado |
+| 1 | Dezessete degraus | escrito e revisado (3.280 palavras) |
 | 2–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas

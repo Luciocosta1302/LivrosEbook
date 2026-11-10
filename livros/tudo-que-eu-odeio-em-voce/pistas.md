@@ -30,6 +30,12 @@ Ordem de efeito: V3 derruba a certeza de Cecília sobre si mesma; V1 parece expl
 | P10 | V2 | 20 | promessa / pergunta respondida com outra coisa | Primeira noite. Ela pergunta "Agora não tem mais nada, né?"; ele responde "Eu não vou decidir mais nada por você." Lido como promessa de amor e de mudança. | Ele não respondeu à pergunta. O leitor, que leu "Eu sei" em PDV dele poucas páginas antes, sente a ambiguidade; Cecília não. A promessa é verdadeira e já está sendo quebrada. | **sim (íntima)** | planejada | |
 | P11 | V2 | 23 | reação errada | Almoço de domingo na casa de Helena: frango com quiabo na mesa, sem Vicente. "O Vicente não quis vir?" Cecília pergunta do "representante"; Helena: "Não sei, filha." Meio segundo antes. Helena muda para Dário. Lido como constrangimento de mãe com as cartas. | Helena fez o prato dele esperando que ele viesse. A pausa é a mentira. Falar de Dário é confessar a parte que ela consegue. | não | planejada | |
 
+## Registro por capítulo
+
+| Cap. | Plantado | Pago | Observação |
+|---|---|---|---|
+| 1 | nenhuma pista do mapa | — | Sementes de objetos: camisa xadrez, caneca rachada, "por escrito" (caderno sem nome). O "cansaço novo em volta dos olhos" de Vicente é justo com V1 (pai, empréstimo) sem apontar para nada. |
+
 ## Falsas pistas legítimas
 
 | # | Cap. | O que sugere | Para quem aponta | Explicação verdadeira (coerente) | Status |

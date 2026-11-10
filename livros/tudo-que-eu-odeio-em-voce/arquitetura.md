@@ -126,7 +126,7 @@ Ponto de vista alternado, começando por Cecília. Extensão alvo: 2.800 a 3.800
 | Cap. | PDV | Quando | Título de trabalho | Função principal | Eixo dominante | Pista |
 |---|---|---|---|---|---|---|
 | 1 | C | 9 jan, Paraty | Dezessete degraus | Reencontro; estabelecer hostilidade e familiaridade: ele faz o café dela sem perguntar. Marina anuncia os padrinhos. | romance | — |
-| 2 | V | 9–10 jan | Guarda compartilhada | O jantar; Bia expõe o regime dos três anos; ele vê que ela ficou quieta. Marina brinca que ele confere tudo duas vezes. | humor | P1 |
+| 2 | V | 9–10 jan | Guarda compartilhada | O jantar do peixe; Rafa chega; Bia expõe o regime dos três anos. Do lado dele: por que interrompeu a piada, a caneca, a roda (sem se gabar), e o café jogado fora, que ele descobre pela mancha no coador. Marina brinca que ele confere tudo duas vezes. | humor | P1 |
 | 3 | C | 10 jan | Fonte contra planta | Primeira sessão de trabalho dos padrinhos; brigam por tudo e, sem querer, dividem o trabalho como dividiam o caderno. O caderno na cabeça dela. | humor | caderno (plantio) |
 | 4 | V | 11 jan | agora_vai | Gincana na praia; ela manda "programacao_FINAL_v2_agora_vai.pdf" no grupo; todos riem; ele não diz a frase. Bia, vista de perto. | humor | P2a |
 | 5 | C | 12 jan | O barco | Presos no mesmo barco; ela é cruel; ele vai para o modo sério. À noite, Helena liga: "e o Vicente?"; mensagem "com o carinho de sempre". | tensão | P3 |
