@@ -187,6 +187,14 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - Cecília escreve no celular em minúsculas e sem ponto desde os 12 anos (o celular de teclado com a tecla do A gasta).
 - No aniversário de 18 anos de Vicente (nov/2018), Cecília deu a ele um desenho emoldurado da casa das janelas para cada humor, com uma frase atrás: "isso aqui não é um presente, é uma crítica com moldura".
 - Áudio da Bia (5/2): 3min12s; o casal de Campinas levou um gato escondido.
+- Joana: chega às 10h com o segundo café (o primeiro toma no carro); é a única que senta na beirada da mesa coletiva; "Se você usar Garamond, eu te demito." Contratou Cecília em jan/2024 depois de ver *Remetente* no catálogo do Livro Aberto, pelo que ela fez com o espaçamento e o branco onde o texto foi cortado. Nunca mais tocou no assunto.
+- *A casa das três janelas*, de Teresa Valadares: primeiro romance da autora em dez anos, 400 e poucas páginas, lançamento na Bienal em agosto; a capa do comercial "parece de autoajuda para viúva"; a autora não aceita mudar o título. Cecília riu do título (eco da casa com uma janela para cada humor).
+- Convite: v1 enviada em 6/2 às 18h30 com o nome "convite_v1_AINDA_NAO_E_O_FINAL.pdf"; texto reescrito onze vezes pela Marina e uma vez, sozinha e em segredo, por Cecília; mapa de Vicente a nanquim, escaneado; o erro: a folha estava meio grau torta no scanner, ela girou a imagem e não reposicionou o centro. v2 enviada só para Vicente: "convite_v2_dois_pixels.pdf". Papel escolhido: kraft (amostras: algodão, kraft, vergê creme).
+- Trajeto de Cecília: Vila Madalena (Linha Verde) → Consolação → túnel até a Paulista → Amarela até a República → Vermelha até a Santa Cecília; depois quatro quarteirões a pé.
+- Conjugado: a luz do poço vem só entre 11h e 15h em fevereiro; a mesa de trabalho foi comprada antes da cama (duas semanas dormindo num colchão embaixo dela em fev/2024). Gaveta da esquerda: régua, estilete, lápis, fita crepe, a peça do despertador na caixa de fósforo, um elástico de dinheiro. Gaveta da direita: "eu não abro" (o catálogo, cap. 17). Cecília passa café na caneca rachada em SP.
+- Rafa: camisa social de manga comprida com a gravata no bolso nos dias de cliente; corta o bife em quadrados iguais antes de comer; veio de avião, com marmita do Tiago; Tiago quer um filho, Rafa "não sei".
+- Noite de 14–15/4/2023 (versão do Rafa): bar da Floresta, Original, porção de mandioca fria; Marina estava viajando; Cecília ligou para o Rafa porque ele ia a bar sozinho; ela saiu às 2h e pouco dizendo que ia para casa e não foi; Helena ligou para o Rafa às 3h. Cecília lembra de acordar no sábado na própria cama com a roupa da sexta e de mandar uma mensagem de manhã a alguém, sem lembrar para quem nem o quê. Ela chama aquilo de "a noite da cerveja".
+- Vicente, no áudio sobre o mapa (12/2, 14h40, 1min58s): explica a casa "como a alguém que vai morar nela"; um pombo arrulha aos 32 segundos; termina, em outra voz: "Você sabe melhor que eu."
 
 ## Cronologia
 
@@ -206,6 +214,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 10 | sáb, 17 jan 2026 | 19h30 → 2h10 de dom | Última noite na cozinha ("jantar do despejo"): Vicente faz o mexido de sobras; Cecília separa os ingredientes "por função" e faz o "drinque minimalista"; André dança com todo mundo e solta Marina na terceira volta para pegar a Bia; brinde do Rafa aos padrinhos ("Ainda."); à 1h Marina e André sobem, Bia e Rafa vão à varanda; Cecília lava e Vicente seca; toca a música do quiosque de Cabo Frio (2016); ele canta "sardinha", ela canta certo; dançam forró, ela conta os passos e para de contar; Marina aparece na porta, vê e volta sem a água; a caixa de som diz "Battery low" e apaga; quase-beijo; ele diz "Cê ainda conta" sem perceber; ela recua, diz "Boa noite, Albuquerque" e sobe; ele termina a louça e põe a caneca rachada na frente do armário. |
 | 11 | dom, 18 jan 2026 | 6h50 → 13h | Cecília acha a caneca rachada na frente do armário e a rouba, embrulhada na camiseta de pijama; pensa no "Cê"; bebe o café dele pela primeira vez sem jogar fora (Bia vê); Marina de olho inchado lava a panela antes dos copos; Rafa sai às 8h30 e marca almoço em SP em fevereiro (amostras de papel da Marina; ela paga o almoço "com os 82,50"); às 9h15, no corredor de 85 cm, o pacto: "Ontem." / "Nada." ... nota de rodapé: a música continua horrível; da janela, ela vê Marina falar sério com Vicente no porta-malas, ele negar duas vezes e Marina enxugar o olho; despedida da Bia ("Me manda a resposta"); no 11º degrau ela diz "Obrigada pela roda" / "Que roda?" / "De nada, Azevedo"; a roda passa pelas pedras sem engasgar; Bia manda foto do espaço vazio no armário ("cuida dela"); ônibus das 11h14; na subida da serra ela descobre que não queria ir. |
 | 12 | qui, 5 fev 2026 (lembrança de qua, 21 jan) | 6h10 → 23h40 | Escritório em cima da Padaria Floresta Nova; o dentista paga metade; Vicente refaz as contas e tira o próprio pró-labore; a 22ª parcela do empréstimo (faltam 14), sem dizer para quê; lembrança da consulta do pai em 21/1 (11 minutos, pão de queijo na lanchonete); demolição da parede da sala da dona Lurdes com o Seu Geraldo e o Cleiton; André de capacete com etiqueta dá a primeira marretada; Otávio chega de ônibus, senta num balde e corrige a escora do meio; às 16h a luz do quintal entra na sala pela primeira vez e Otávio diz "Ficou bom"; Vicente abre a conversa particular parada em "tô subindo" (5/11/2023), manda o pombo, apaga para todos, manda a foto da luz; ela pergunta "o que você apagou?", ele manda o pombo; ela escreve "a luz ficou bonita" e edita para "menos feia do que eu esperava"; Marina pergunta "pensou no que eu falei?" e ele não responde. |
+| 13 | sex, 6 fev → qui, 12 fev 2026 | sex 10h04 → 19h30; sáb–seg (pombos); qui 13h → 22h | Sexta: Joana entrega a Cecília a capa de *A casa das três janelas*, de Teresa Valadares (carro-chefe da Bienal, agosto) e diz que a contratou "pela tipografia"; às 18h30 ela manda no grupo "convite_v1_AINDA_NAO_E_O_FINAL.pdf"; Vicente devolve no particular um zoom com duas linhas vermelhas: o norte está dois pixels à esquerda do eixo da rua ("a casa fica virada pra Sabará"); ele tem razão; ela corrige e manda "convite_v2_dois_pixels.pdf" ("você conferiu duas vezes" / "três" / "tá no caderno"). Sábado a segunda: a guerra dos pombos (Minhocão, placa da Rua Itajubá, Luz, padaria, Augusta); "a música é a cozinha"; "battery low" e a figurinha da caixa chorando. Quinta, 12: almoço com Rafa num boteco da Rua Aspicuelta; amostras de papel da Marina ("escolhe o segundo": kraft); Rafa diz que Vicente sai com a Lívia; ela elogia a Lívia duas vezes; ele admite que era para ver a cara dela (dois jantares em dezembro, acabou por causa de uma viga); Rafa paga e diz que ela lhe deve R$ 64 do bar da Floresta "daquela sexta" de abril de 2023: ela saiu às duas e pouco, disse que ia para casa e não foi; Helena ligou para Rafa às 3h; "Tem gente que esquece o que disse. Eu não." À noite, no conjugado, a gaveta da direita que ela não abre; o áudio de Vicente explicando o mapa para a mãe da Marina; ela ouve três vezes. |
 
 ## A verdade escondida (Camada C)
 
@@ -232,6 +241,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 10 | cumplicidade → desejo (contato físico escolhido) | Primeiro contato físico prolongado e escolhido desde 2023 (a dança). Quase-beijo reconhecido pelos dois, interrompido pela caixa de som e, depois, pelo "Cê" que ele diz sem perceber e ela ouve. Ela recua devagar, sem fugir. | A música do quiosque (item 7 do caderno); "sardinha" / "saudade"; "um, dois, três"; "Isso não significa nada" / "Nada"; "Battery low"; "Cê" |
 | 11 | desejo não admitido em voz alta; pacto de negação | Primeiro acordo a sós em três anos: o que não aconteceu fica sem nome, e os dois concordam sobre a música. Ela bebe o café dele e agradece a roda. Ele vai até o 11º degrau sem nada para carregar. Ela admite para si (e para o leitor) que não queria ir embora. | "Não aconteceu nada" / "Nada"; "Sempre tem autos, Azevedo"; "Nota de rodapé: a música continua horrível" / "Péssima"; "Obrigada pela roda" / "Que roda?"; a caneca girada sem café |
 | 12 | desejo à distância; primeira conversa particular | A conversa particular dos dois, parada desde "tô subindo", volta a andar. Os dois cometem e corrigem um erro à vista do outro (a mensagem apagada, a mensagem editada). Ela obedece à regra do caderno que acha que ele jogou fora. | O pombo ("tem mais opinião que o André"); "o que você apagou?" / "nada" / "albuquerque"; "a luz ficou menos feia do que eu esperava (editada)"; "nos autos?" / "sempre tem autos" |
+| 13 | desejo admitido para si | Ele entra no território dela (alinhamento) e está certo; ela fica furiosa e corrige. As mensagens idiotas viram rotina diária (pombos). Ela sente ciúme e é flagrada. Ela admite para si que quer ouvir a voz dele (a terceira escuta). | Os dois pixels / "virada pra Sabará"; a guerra dos pombos; "a música é a cozinha"; "battery low" e a figurinha da caixa de som chorando; "tá no caderno" |
 
 ## Quem sabe o quê
 
@@ -277,6 +287,10 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | Vicente apagou uma mensagem para Cecília (o pombo) | Vicente, Cecília (viu "Mensagem apagada" e depois o pombo) | — | 12 |
 | Cecília editou um elogio para obedecer à regra do caderno | Cecília, Vicente (viu "Editada") | — | 12 |
 | Marina sabe (provavelmente por Cecília) que Vicente mandou foto a ela; insiste no pedido do porta-malas | Marina, Vicente | Cecília não sabe do pedido | 12 |
+| Vicente não está saindo com ninguém; saiu duas vezes com a Lívia (arquiteta do escritório do Rafa) em dez/2025 | Rafa, Vicente, Cecília (agora) | — | 13 |
+| Na noite de 14/4/2023 Cecília saiu do bar às 2h e poucos, não foi para casa, e Helena ligou para Rafa às 3h | Rafa, Helena; Cecília (agora, sem lembrar para onde foi) | Vicente (não sabe que ela saiu do bar nem que Helena ligou) | 13 |
+| Cecília deve R$ 64 ao Rafa desde abril de 2023; ele "devolveu" os 82,50 pagando o almoço | Rafa, Cecília | — | 13 |
+| A Bia contou ao grupo o sinal da boca pequena quando Cecília mente | Bia, Rafa (e provavelmente todos) | Cecília só descobriu agora | 13 |
 
 ## Conflitos em aberto
 
@@ -355,6 +369,12 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - A próxima consulta de Otávio é em abril (cap. 12): coerente com o almoço de dois anos de remissão em 28/3 (cap. 19).
 - O empréstimo (cap. 12): 14 parcelas restantes. Revelar para que foi no cap. 19/20 ou 32, sem drama: exames do pai que o plano não cobriu.
 - Os tijolos maciços da parede viram o piso do quintal (cap. 12 → cap. 30).
+- Para onde Cecília foi às 2h de 15/4/2023 (cap. 13, aberto pelo Rafa): ver "Mudanças justificadas". Ela foi a pé até o prédio de Vicente e mandou o e-mail sentada no degrau da portaria; ele estava no hospital. Ela descobre ao ver o horário do e-mail no cap. 19; conta a ele no cap. 20 ou 32.
+- "Tem gente que esquece o que disse. Eu não." (Rafa, cap. 13): última frase ácida dele antes do telefonema do cap. 18. Não repetir a fórmula.
+- Os R$ 64 que Cecília deve ao Rafa (cap. 13): pagar no cap. 29, quando ele pede desculpa pelo modo.
+- *A casa das três janelas* (cap. 13): a capa pode ser resolvida depois do cap. 19 ou 20, com algo que ela aprende com ele sobre luz; lançamento na Bienal em agosto (fora do livro, ou no epílogo de julho).
+- A guerra dos pombos e "battery low" (cap. 13): gramática das mensagens até o cap. 16; pode ter eco no casamento.
+- O áudio do mapa (cap. 13): "Você sabe melhor que eu." O texto de quatro linhas para o verso do convite sai dele.
 
 ## Estrutura dos capítulos
 
@@ -374,7 +394,8 @@ Plano completo em `arquitetura.md`. Status:
 | 10 | Uma música de 2016 | escrito e revisado (3.470 palavras) |
 | 11 | Não aconteceu | escrito e revisado (3.260 palavras) |
 | 12 | Santa Tereza | escrito e revisado (3.830 palavras) |
-| 13–33 | ver arquitetura | planejado |
+| 13 | Dois pixels | escrito e revisado (2.900 palavras) |
+| 14–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
@@ -385,3 +406,4 @@ Plano completo em `arquitetura.md`. Status:
 | 2026-11-10 | Otávio fazia exames antes da internação de 14/04/2023 (sintomas desde março) | Necessário para P12: Vicente já sumia para acompanhar o pai antes da internação. Não contradiz a arquitetura (diagnóstico continua em abril). | 3, 19, 31 |
 | 2026-11-10 | F1 (Rafa) começa a ser visível no cap. 5, não no 13 | O olhar impaciente de Rafa depois do caiaque nasce da cena (ele sabe que ela disse "manda" e a vê acusar Vicente). Reforça F1 com mais distância até o pagamento. O cap. 13 continua sendo o primeiro diálogo ácido. | 5, 13 |
 | 2026-11-10 | Marina conheceu André em dez/2017 (formatura do ensino médio de Vicente), primeiro beijo em 2019, namoro a partir de 2020 | A arquitetura punha 2020 como início do namoro e da entrada de Marina no grupo; o livro dos padrinhos precisava de um começo anterior e de uma anedota (o guaraná). O namoro continua começando em 2020. | 9 |
+| 2026-11-10 | Na madrugada de 15/4/2023, depois de sair do bar às 2h05, Cecília foi a pé até o prédio de Vicente (quatro quarteirões), achou que ele estava em casa, não subiu, sentou no degrau da portaria e mandou de lá o e-mail das 2h17 com o arquivo errado ("confere pra mim?"); voltou para casa depois das 3h. Vicente estava no hospital e nunca soube que ela foi. | Nasce da cena do cap. 13 (o Rafa diz que ela não foi para casa e que Helena ligou às 3h). Dá ao cap. 19 um segundo golpe (ela descobre o arquivo e também para onde tinha ido) e ao cap. 20/32 uma confissão dela que equilibra a dele. Não contradiz a arquitetura: o e-mail continua às 2h17 e a resposta "confiro" às 2h20. | 13, 19, 20, 32 |
