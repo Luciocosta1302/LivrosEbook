@@ -1,0 +1,74 @@
+# MAPA DE PISTAS — Tudo Que Eu Odeio em Você
+
+> Ver `agente/FORESHADOWING.md`. Toda reviravolta grande tem pelo menos três pistas, uma delas dentro de uma cena romântica. Cada pista tem duas leituras. Atualizado no mesmo turno em que o capítulo é escrito.
+
+## Verdades escondidas
+
+| # | Verdade | Quem sabe | Revelada ao leitor | Revelada a Cecília |
+|---|---|---|---|---|
+| V1 | Vicente inscreveu *Remetente* contra a desautorização, não conferiu o arquivo, descobriu o erro em junho, trocou pela versão com iniciais e escondeu tudo. Estava no hospital com o pai na noite do envio. | Vicente; Rafael (inscrição, erro, troca); Helena (só a inscrição e a troca) | cap. 20 | cap. 20 |
+| V2 | Helena pediu a versão integral a Vicente e a enviou ao instituto, como "representante da autora", pedindo nova substituição. Vicente sabe desde 12/11/2023 e guarda a pedido dela. | Helena, Vicente | cap. 27 | cap. 27 (confirmado por Vicente no 28) |
+| V3 | O arquivo integral saiu do computador de Cecília: ela o mandou por engano, às 2h17 de 15/04/2023, depois de dizer "manda". | Vicente, Rafael (o "manda"); Cecília vagamente | cap. 19 | cap. 19 |
+| V4 | O caderno está com Vicente desde abril de 2023. A última página é dele, escrita no corredor do hospital. | Vicente | cap. 31 | cap. 31 |
+
+Ordem de efeito: V3 derruba a certeza de Cecília sobre si mesma; V1 parece explicar tudo e não explica; V2 explica tudo e põe Vicente de novo em julgamento; V4 é o gesto.
+
+## Pistas
+
+| # | Verdade | Cap. | Tipo | Leitura inocente (no momento) | Leitura verdadeira (depois) | Cena romântica? | Status | Trecho exato |
+|---|---|---|---|---|---|---|---|---|
+| P1 | V1, V3 | 2 (e recorrente) | mania explicada errado | Marina brinca que Vicente confere tudo duas vezes, até o cardápio do jantar; Cecília (em 3) diz que é controle, que ele sempre foi assim. | Ele não era assim. Começou em junho de 2023, depois do arquivo que não conferiu. Cecília, se lembrasse direito, saberia que o Vicente de 2020 nunca conferia nada. Em 3, ela tem uma lembrança dele perdendo um prazo da faculdade por não revisar, e não liga as pontas. | não | planejada | |
+| P2a | V3 | 4 | objeto/hábito | Cecília manda "programacao_FINAL_v2_agora_vai.pdf" no grupo; todos riem; Vicente abre, não diz nada e abre de novo. Piada de grupo. | Ela nomeia tudo assim, inclusive o arquivo de 2023. A pausa dele é o mesmo nome. | não | planejada | |
+| P2b | V3 | 15 | frase deslocada | Cozinhando juntos no apartamento dele, ela manda "convite_FINAL_FINAL_v2_esse.pdf"; ele abre, ri, diz "Você nunca aprende." Ela: "E você nunca mudou." Cena mais leve do livro, a que termina no sofá. | "Você nunca aprende" é dito por quem sabe exatamente o que um nome de arquivo desses já custou. Depois do cap. 19, é a frase mais triste do livro. | **sim** | planejada | |
+| P3 | V2 | 5 | reação errada / assinatura | À noite, Helena liga para Cecília e pergunta "e o Vicente?" com naturalidade; Cecília lê como falta de tato da mãe. A mensagem seguinte de Helena termina em "com o carinho de sempre". | Helena pergunta por ele porque o vê a cada duas semanas. A assinatura volta no e-mail ao instituto (cap. 27). | não | planejada | |
+| P4 | V2 | 7 | frase deslocada / terceiro na cena | Madrugada na varanda de Paraty, primeira trégua de verdade. Cecília conta que a mãe pede desculpa fazendo o prato preferido da pessoa. Vicente, com carinho: "Ela ainda faz o frango com quiabo." Lido como saudade da infância dele naquela casa. | "Ainda": ele comeu aquele frango no mês passado. Helena pede desculpa a ele, por algo, até hoje. | **sim** | planejada | |
+| P5 | V1 | 8 | reação errada | Na tempestade, o celular de Vicente toca; ele sai, volta sério: "meu pai, coisa de obra". Lido como preocupação com o escritório. | Otávio liga porque é aniversário de exame (controle trimestral). "Coisa de obra" é a frase que Vicente usa desde 2023 para o câncer. | não | planejada | |
+| P6 | V2 | 14 (eco em 22) | lugar / pergunta evitada | Helena oferece a casa para a prova do vestido de Marina; Vicente recusa qualquer plano que passe por lá. Ele narra: "Eu disse que tinha visita de obra. Não tinha." Cecília (e o leitor) leem como culpa por ter ferido Helena. | Ele não entra naquela casa quando Cecília está, porque Helena e ele não sabem fingir juntos na frente dela. Em 22, Helena o convida para o domingo e ele diz não. | não | planejada | |
+| P7 | V1, V3 | 16 | pergunta que não foi feita | Em SP, ela menciona "a noite da cerveja" de passagem e muda de assunto; ele fica sério, e minutos depois vem o primeiro beijo. O leitor lê a seriedade como desejo. | Ele ficou sério porque "a noite da cerveja" é a noite do hospital e do arquivo. O beijo acontece porque ele não quer que ela continue aquela frase. | **sim** | planejada | |
+| P8 | V2 | 17 | objeto | Cecília abre a gaveta e relê o catálogo pela primeira vez; nos créditos, "contato da autora" é um e-mail que não é dela nem de Vicente. Ela anota. Lido como prova de que Vicente usou um e-mail falso. | O e-mail é de Helena. Cecília, no cap. 25, escreve ao instituto perguntando quem o usou. | não | planejada | |
+| P9 | V1, V2 | 19 | terceiro na cena | No almoço de remissão, Otávio agradece Cecília e diz: "Sua mãe foi uma mãe pra ele naquele ano." Revela o câncer e a data (V3 vem dali). | A frase também revela que Helena e Vicente continuaram próximos o tempo todo. Cecília só a escuta de verdade no cap. 27. | não | planejada | |
+| P10 | V2 | 20 | promessa / pergunta respondida com outra coisa | Primeira noite. Ela pergunta "Agora não tem mais nada, né?"; ele responde "Eu não vou decidir mais nada por você." Lido como promessa de amor e de mudança. | Ele não respondeu à pergunta. O leitor, que leu "Eu sei" em PDV dele poucas páginas antes, sente a ambiguidade; Cecília não. A promessa é verdadeira e já está sendo quebrada. | **sim (íntima)** | planejada | |
+| P11 | V2 | 23 | reação errada | Almoço de domingo na casa de Helena: frango com quiabo na mesa, sem Vicente. "O Vicente não quis vir?" Cecília pergunta do "representante"; Helena: "Não sei, filha." Meio segundo antes. Helena muda para Dário. Lido como constrangimento de mãe com as cartas. | Helena fez o prato dele esperando que ele viesse. A pausa é a mentira. Falar de Dário é confessar a parte que ela consegue. | não | planejada | |
+
+## Falsas pistas legítimas
+
+| # | Cap. | O que sugere | Para quem aponta | Explicação verdadeira (coerente) | Status |
+|---|---|---|---|---|---|
+| F1 | 13, 18, 25 | Rafael sabe demais, some de conversas sobre 2023, é ácido com Cecília ("gente que finge que não lembra do que disse"), e tem conversas tensas com Vicente. O leitor desconfia que Rafael trocou o arquivo ou ajudou. | Rafael | Rafael estava no bar e ouviu o "manda"; viu a troca de junho; sabe que Vicente não é o responsável final; está cansado de proteger Vicente e com raiva de Cecília por não lembrar do que disse. Em 18, liga para Vicente: "conta ou eu conto". Em 25, bêbado, conta a parte dele. | planejada |
+| F2 | 10 | Marina vê Cecília e Vicente dançando na cozinha de madrugada e vai embora sem dizer nada. Em outros capítulos, está desconfortável quando o assunto é Vicente. O leitor desconfia que Marina sabe algo do vazamento. | Marina | Marina sabe do câncer de Otávio e prometeu sigilo. Naquela noite, depois da conversa do cap. 9 sobre as dúvidas dela, ver os dois dançando sem plano a faz pensar que ela e André nunca dançaram assim; sai para chorar no quintal. Em 21, diz isso a Cecília. | planejada |
+| F3 | 13–20 | O e-mail "Remetente, versão final" na caixa de Vicente, que Cecília vê de relance no cap. 15, sugere que ele enviou a versão integral de propósito. | Vicente | É o e-mail dela, de 2023, com o arquivo errado. Prova contra ela, não contra ele. | planejada |
+
+## Suspeitos na cabeça do leitor (acompanhamento planejado)
+
+| Após o cap. | De quem o leitor deve desconfiar | Por quê | Está certo? |
+|---|---|---|---|
+| 11 | Vicente (pouco); Marina | Ele ainda não explicou; ela foi embora da cozinha | não |
+| 18 | Rafael; Vicente | Rafael sabe demais e ameaça contar | parcialmente (Vicente) |
+| 20 | alguém que Vicente protege: Rafael, Marina, Otávio? | Vicente diz ao leitor "Eu sei" | não |
+| 23 | Helena (leitores atentos) | pausa, frango, Dário | sim |
+| 25 | Helena, Rafael | Rafael diz "tem mais" | sim |
+
+O objetivo do livro é que a maioria chegue ao cap. 27 desconfiando de Rafael ou de Marina, com uma minoria atenta suspeitando de Helena a partir do 23. Ninguém deve suspeitar de Helena antes do 19.
+
+## Teste final por reviravolta
+
+**V3 (cap. 19)**
+- A cena romântica com a pista (cap. 15) ganha camadas? Sim: a leveza fica triste, não falsa; ele realmente achou graça.
+- Pistas: P1 (2), P2a (4), P2b (15), P7 (16).
+- A verdade explica as pistas melhor? Sim: a mania de conferir, a pausa, a frase.
+- Continuam desejáveis? Sim: ele assumiu uma culpa que era dela; ela não sabia.
+- Consequência: ela vai ao apartamento dele com o notebook (cap. 20).
+
+**V1 (cap. 20)**
+- Pistas: P1 (2), P5 (8), P7 (16), P9 (19), F1.
+- Consequência: primeira noite, construída sobre uma meia verdade.
+
+**V2 (cap. 27)**
+- A cena romântica com a pista (cap. 7) ganha camadas? Sim: o carinho com Helena era real; o "ainda" vira saudade e culpa ao mesmo tempo.
+- Pistas: P3 (5), P4 (7), P6 (14, 22), P8 (17), P9 (19), P10 (20), P11 (23).
+- Continuam desejáveis? Sim, mais difícil: ele protegeu Helena e se protegeu; ela tem de decidir se aceita alguém que fez isso. O livro precisa de 28 a 32 para merecer o sim.
+- Consequência: "Você sabia?" "Sabia." (cap. 28). O limite dela.
+
+**V4 (cap. 31)**
+- Pistas: o caderno na cabeça dela (3), "não sei onde foi parar" (24), a caixa de sapato no alto do armário vista no cap. 20 sem comentário.
+- Consequência: a conversa inteira (cap. 32); a página nova (cap. 33).
