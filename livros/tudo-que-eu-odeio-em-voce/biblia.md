@@ -380,6 +380,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 24 | sex, 24/4 → dom, 26/4/2026 | sex 16h → dom 23h | Reunião no Arantes Moura (a cota de 45 cm); no conjugado, ele conta onze lugares e vê os itens dele copiados em post-its azuis; escreve o 11; vê o post-it do representante e não pergunta; sábado, o discurso em duas colunas na cama (abre pelo cacto; "mostarda"); "Você ainda tem o caderno?" / "Não sei onde foi parar." ("Não era verdade."); à noite ela conta as cartas nunca mandadas e o "Não sei" da mãe com os óculos; "Você sabe porque você vai lá" / "Às vezes"; a frase do fim ("sabendo tudo dela"); ele pede para tirar o "tudo" e perde; dormem abraçados; ele começa as seis palavras três vezes e decide falar antes com "uma pessoa"; domingo, "Outra hora" devolvido; a primeira vez de dia, no sol das 11h10; no ônibus, ele escreve "3/5" na margem do discurso. |
 | 25 | sáb, 2/5 → dom, 3/5/2026 | 15h → 3h40 | Preparativos da despedida na casa da dona Lurdes (taco encerado, regras na porta, chopeira, fio de lâmpadas na mangueira); a Bia mostra a chaminé e anuncia que fica em Paraty; o Tiago chega; André pisa de sapatênis; "Então é oficial?" / "Ninguém te conta nada? André."; André e Marina dançam sem soltar na terceira volta; à 1h10, no quinto degrau, Rafa recusa os R$ 64, conta o "manda" ouvido no bar e a troca de junho com a versão de brancos (ele viu o anexo), diz que o que saiu no catálogo não foi o que Vicente deixou e que Vicente sabe quem trocou ("Quem não pergunta, sabe"); jura pelo Tiago que não sabe quem; pede desculpa adiantada pelo jeito; "Pergunta de novo"; Cecília decide não perguntar uma terceira vez; volta a pé; às 3h, do sofá novo de Vicente, envia "quem é você?" ao representante e, às 3h31, o e-mail ao instituto; deita ao lado dele e não tira o braço dele de cima dela. |
 | 26 | dom, 3/5 (resumo) → qua, 6/5/2026 | dom 10h → 19h21; ter 6h52 → 8h40; qua 15h; 23h; 23h40 | Domingo: ela passa o café no coador novo e põe na caneca de vidro; o notebook dela no chão, no lugar da moeda (ele repara e não pergunta); na plataforma, "Tchau, Vicente"; às 19h10 ele fica onze minutos na esquina da Itajubá com a Pouso Alegre e não toca a campainha (Helena o vê da cozinha e não sai). Terça, 6h52: Helena liga ("Ela escreveu"); na cozinha, antes da aula (Rosângela cobre o primeiro horário), o celular com a conta livroaberto.representante e o "quem é você?" de 3/5, 3h00; Vicente abre a porta: 22/6/2023 (quinta) na cozinha, a versão com brancos, "Ela apagou as melhores partes", o pedido da "versão com tudo" e o envio por e-mail naquela noite; 11/7/2023 (terça), o endereço criado à tarde e o pedido de substituição assinado "com o carinho de sempre"; 12/11/2023 (domingo), a confissão no sofá do lugar antigo e o pedido "Ela acabou de perder o pai. Não pode perder a mãe."; ele pergunta "Por quê?" pela primeira vez; Helena: sair do casamento sem dizer (desde 2003) e que Dário lesse (53 cartas; Dário escreveu em nov/2023, uma carta de papel, que ela guardou na caixa); "Eu pensei em mim. Uma tarde de terça"; Helena pede "depois do casamento" para contar sozinha; Vicente dá prazo até sexta, 8/5, e diz ao leitor que sabe que repete o erro; pão de queijo no portão. Quarta: obra (corrimão desenhado quatro vezes; Seu Geraldo: "Então para"); Otávio: "Tá com cara de comida guardada" / "Conta" / "Sexta" / "É"; 23h, a ligação: cadeiras, programa, chaminé da Bia; "Você tá bem?" / "Tô" / "Tá" (o tá antigo); 23h40, Helena: "Sexta eu conto. Escrevi uma carta para ela ontem à noite"; "Eu sei o que a Helena faz com carta." |
+| 27 | sex, 8/5/2026 | 10h12 → 19h05 | Na mesa coletiva da Quatro Margens, o e-mail do instituto (Débora Kanashiro, acervo): três versões (15/4/2023 3h52 inscrição pelo e-mail de Vicente; 20/6/2023 14h08 substituição pela versão com iniciais, mesmo e-mail; 11/7/2023 16h41 substituição pela integral a partir de livroaberto.representante@gmail.com, que passou a constar como contato) e a mensagem de 2023 na íntegra; Cecília reconhece a mãe pelo ponto e vírgula antes da assinatura "Com o carinho de sempre, / Representação da autora"; alinha celular, caneca e post-its; Joana dá a tarde ("Feira não foge"); ela paga a passagem Congonhas–Confins das 13h40 com a reserva "SE O MUNDO ACABAR", usada pela primeira vez; no avião, as releituras em uma linha cada; às 16h20 usa a chave amarela pela primeira vez desde 2023 e pisa no 12º ladrilho de propósito; na mesa, a carta de Helena selada e endereçada (Rua Jaguaribe, 410, apto. 23, Santa Cecília), não enviada; "Eu ia te ligar hoje. Às seis"; "Você nunca mandou nenhuma, mãe"; "Fui eu, filha"; Helena conta tudo (22/6, 11/7, os dois motivos, a carta de Dário guardada, as terças, 12/11/2023, "a cada duas semanas. Três", o frango e o terceiro prato); "Pergunta pra ele"; "Ele me deu até hoje": Cecília entende que Vicente escolheu o dia; o exemplar de *Remetente* estava no quarto de Helena, com as bordas dos brancos gastas de dedo; "Você achou bonito demais pra ficar assim" (Helena não responde); a frase cruel ("escolheu dizer com a minha boca" / "Escolhi"); "Não me diz quem eu odeio" / "Tá" (Helena nunca diz tá); Cecília leva a carta sem abrir; "Isso agora é de vocês"; a luminária do escritório apagada; no degrau da portaria, sem sentar, entende P10; manda "tô subindo" (a mesma mensagem de 5/11/2023, 15h41); sobe de elevador ao quinto. |
 
 ## A verdade escondida (Camada C)
 
@@ -420,6 +421,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 24 | intimidade plena; a mentira dentro dela | Ela se deixa ver de dia, por escolha (o medo central dela, enfrentado com ele). Os dois escrevem juntos a frase que vai ser lida no casamento, e a frase é verdade para ela e mentira para ele. Ele mente explicitamente sobre o caderno e ela aceita a resposta sem desconfiar. Ela devolve o "Outra hora" e ele entende. Ele marca sozinho a data para contar (3/5). | O R copiado; "abre pelo cacto"; "mostarda"; "sobram dez segundos pra Marina chorar"; "Pode olhar"; "lê devagar" |
 | 25 | crise começando (por dentro) | O grupo os reconhece como casal no mesmo dia em que ela descobre que ele ainda mente. Ela não pergunta: age sozinha, do lado dele, enquanto ele dorme (o defeito dela, coerente com a ficha). Não o corta e não o enfrenta; deixa o braço dele onde está. Ele percebe que algo mudou (o olhar na Silviano Brandão) e não pergunta. O leitor sabe do "3/5"; ela não. | As meias cinzas iguais; "Pediu desculpa. Pelo jeito."; o braço pesado; as onze listras |
 | 26 | crise (por dentro, dos dois lados) | Ela sabe que há mais e age sozinha; ele sabe que ela sabe e não pergunta. Os dois guardam alguma coisa do outro ao mesmo tempo pela primeira vez desde março. Ela o chama de "Vicente" na plataforma, como em repartição. Ele dá a Helena três dias e se dá três dias, sabendo que é o mesmo erro. Na ligação, ela usa a pergunta-fuga dele ("Você tá bem?") e responde com o "tá" antigo. | "Tchau, Vicente"; "Você tá bem?" / "Tô" / "Tá"; a caneca de vidro no lugar da rachada |
+| 27 | crise (ela sabe tudo menos o porquê dele) | Ele não está em cena e está em tudo. Ela descobre que ele sabia desde 12/11/2023, que almoçava com a mãe dela, que respondeu outra pergunta na primeira noite e que, na terça, escolheu o dia em que ela ia saber. Não o procura para brigar: vai perguntar a única coisa que Helena não respondeu por ele. Repete a mensagem de 2023 de propósito. | "tô subindo" (2023 → 2026); o elevador em vez da escada; o degrau sem sentar |
 
 ## Quem sabe o quê
 
@@ -536,6 +538,13 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | Vicente deu a Helena até sexta, 8/5, para contar; se não, ele conta | Vicente, Helena, Otávio (sabe que há "sexta", não o quê) | Cecília | 26 |
 | Helena escreveu uma carta para Cecília na noite de 5/5 | Helena, Vicente | Cecília | 26 |
 | Vicente ficou onze minutos na esquina em 3/5 e Helena o viu da cozinha | Helena, Vicente | — | 26 |
+| V2 inteira | Cecília (agora, pelo instituto e por Helena) | o grupo | 27 |
+| Vicente sabe de V2 desde 12/11/2023 e almoça com Helena a cada duas ou três semanas | Cecília (agora) | o grupo | 27 |
+| Vicente deu a Helena até sexta | Cecília (agora, por Helena) | — | 27 |
+| Dário escreveu em nov/2023 e Helena guardou a carta | Cecília (agora) | — | 27 |
+| A carta de Helena para Cecília (selada, não enviada) | Cecília (tem o envelope, não abriu), Helena, Vicente | — | 27 |
+| O exemplar de *Remetente* está no quarto de Helena, com os brancos gastos de dedo | Cecília, Helena | Vicente | 27 |
+| Cecília usou a reserva de emergência pela primeira vez | Cecília | todos | 27 |
 
 ## Conflitos em aberto
 
@@ -707,6 +716,14 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - "Tá com cara de comida guardada" (Otávio, cap. 26): eco de "comida guardada azeda" (cap. 22). Pode voltar no cap. 30, quando Vicente conta tudo ao pai.
 - O corrimão da escada do quintal desenhado quatro vezes (cap. 26): pronto no cap. 30.
 - As cadeiras de madeira (dona Célia trocou para ferro e voltou para madeira) e o programa da cerimônia que Cecília fecha na quinta, 7/5 (cap. 26).
+- A carta de Helena (cap. 27): envelope branco comprido, selo colado reto, endereço da Rua Jaguaribe, 410, apto. 23; Cecília guarda na bolsa sem abrir. Abrir (ou decidir não abrir) no cap. 29 ou 33; Helena: "Lê depois. Ou não lê. Ele é seu."
+- "Fui eu, filha" (Helena, cap. 27): mesma frase de Vicente em 2023. Pode ecoar no cap. 28 ("Fui eu" é o título).
+- "Não me diz quem eu odeio" (cap. 27) e o "Tá" de Helena, que nunca diz tá: eco possível no cap. 29 (tutu).
+- "Isso agora é de vocês" (Helena, cap. 27): Helena não liga para Vicente; ele não sabe, ao receber "tô subindo", se Helena contou.
+- A reserva "SE O MUNDO ACABAR" (cap. 27): usada pela primeira vez; pode voltar no epílogo.
+- A caneca rachada mora na copa da editora com o post-it "NÃO USAR — CECÍLIA" (cap. 27).
+- O endereço de Cecília em SP: Rua Jaguaribe, 410, apto. 23, Santa Cecília (cap. 27).
+- "tô subindo" (cap. 27): a última mensagem de 5/11/2023 era de Cecília, às 15h41; no cap. 28, Vicente vê a mesma frase chegar e a cena de 2023 é intercalada.
 
 ## Estrutura dos capítulos
 
@@ -740,7 +757,8 @@ Plano completo em `arquitetura.md`. Status:
 | 24 | O discurso | escrito e revisado (3018 palavras) |
 | 25 | Despedida | escrito e revisado (3213 palavras) |
 | 26 | Depois do casamento | escrito e revisado (2999 palavras) |
-| 27–33 | ver arquitetura | planejado |
+| 27 | Com o carinho de sempre | escrito e revisado (3230 palavras) |
+| 28–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
