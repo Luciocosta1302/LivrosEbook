@@ -145,6 +145,13 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - Tiago é técnico/enfermeiro de UTI; na sexta, 16/1, de plantão. Rafa admite saudade.
 - Carnaval de Olinda 2025: Cecília disse a um francês que falava francês; respondeu "oui" por quarenta minutos; conheceu a família dele (casa alugada no Amparo); a avó deu a ela um colar de conchinha que ela usou até a Quarta-Feira de Cinzas. Bia estava lá.
 - Cecília lê, em Paraty, "um livro que trouxe para não ler": página 112 na sexta, 16/1.
+- História de Marina e André (para o livro dos padrinhos): conheceram-se na formatura do ensino médio de Vicente, dez/2017; Marina foi com Cecília, de vestido mostarda (Vicente diz amarelo), e derrubou guaraná no André de propósito (planejou o ângulo meia hora no banheiro). Primeiro beijo numa festa junina da faculdade de André, 2019, atrás da barraca de pescaria (Vicente viu). Primeiro aniversário de namoro: André esqueceu e consertou com bolo de padaria escrito "MARIANA" (Cecília viu). 2021: brigaram pelo cachorro que o apartamento não deixava ter; adotaram um cacto chamado Cachorro; o Cachorro morreu afogado em 2022, com velório no quintal (André fez discurso e chorou; Marina pôs uma pedrinha).
+- Livro dos padrinhos: pedido de Marina ("vocês lembram de tudo, é irritante; lembrem por mim"); formato quadrado, 20 x 20; o velório do Cachorro entra; rascunho no caderno de capa de papel artesanal que Cecília comprou numa papelaria minúscula da Rua da Matriz (que vende cartão-postal e agulha de crochê) e na folha de papel-manteiga de Vicente; a página de 2023–2025 em duas colunas, esquerda dela, direita dele.
+- Mãe de André: dona Sônia (aniversários de Marina no quintal dela durante a guarda compartilhada).
+- Réveillon de 2024: apartamento da Marina no Santo Antônio; nove pessoas; fogos do Mineirão de longe; André passou com a mãe e com Vicente e falou por telefone.
+- Cecília compra caderno "do jeito que outras pessoas compram brinco". Marina bate na porta com o nó do dedo, três vezes. Marina chora "em comercial de margarina".
+- Marina, ao falar de si: "Eu sou tão boa de organizar a vida dos outros que ninguém percebe quando eu tô organizando a minha errado." Queria casar descalça num sítio com o pai do André no churrasco. Nunca dançou com André numa cozinha.
+- Igreja de Santa Rita: branca, janelas e portas azuis, quase em cima da água, com um muro baixo de pedra entre o adro e o mar.
 
 ## Cronologia
 
@@ -160,6 +167,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 6 | ter, 13 jan 2026 → qua, 14 jan | 6h40 de ter → noite de qua | Cecília com insolação e febre (até 39,4); Vicente compra os remédios de cabeça na farmácia da Rua da Matriz e mexe a Coca até tirar o gás (receita de Helena); convence o grupo a ir a Trindade para ela ter silêncio; entra no quarto só para passar loção nos ombros que ela não alcança; à noite senta no chão do corredor desenhando a viga e, pela porta, conta a história da mangueira e da sombra da dona Lurdes até ela dormir; na quarta, ela agradece à Marina "pela Coca" olhando para ele; à noite deixa a garrafa lavada, de boca para baixo, na porta dele. |
 | 7 | madrugada de qui, 15 → sex, 16 jan 2026 | 1h50 → 4h20 | Quinta: Cecília convalescente, não vai à cachoeira. De madrugada ela deita na rede dele; ele chega às 2h10 e diz "Você tá no meu lugar" (inversão do primeiro dia); lembram a casa do caderno com uma janela para cada humor e completam a frase um do outro sem querer; ela fala da mãe e do tutu como pedido de desculpa; ele diz "Ela ainda faz o frango com quiabo"; ela conta que não almoça na casa da mãe há três anos; o pé dela no joelho dele, cinco segundos; ela quase pergunta por que ele disse "fui eu" e desvia para a camisa; "Porque tá no caderno" / "O caderno que você jogou fora" — ele não responde; às 4h15 ela sobe e acerta os catorze degraus. |
 | 8 | sex, 16 jan 2026 | 20h11 → 1h05 de sáb | Chuva desde as 16h; a luz acaba às 20h11; velas no chão da sala; jogo de "só verdade" da Bia com a garrafa de Coca que Vicente traz da cômoda; André responde "Belém" rápido demais e salva com açaí; Marina pergunta a Bia se ela é feliz em Paraty, Bia diz "sou" e Cecília desvia o assunto com a mão no joelho dela; Rafa pergunta a Cecília a coisa mais idiota que ela já disse bêbada e comenta "Só essa?"; Cecília pergunta a Vicente a última vez que ele chorou: "Março de 2024"; Otávio liga ("Saiu o resultado. Tá bom. Igual o outro."), Vicente promete levá-lo na quarta e volta: "Meu pai. Coisa de obra."; ela joga uma toalha nele; a luz volta à 1h05 e ela sustenta o olhar dele; ele desvia. |
+| 9 | sáb, 17 jan 2026 | 9h30 → 18h40 | Manhã: Marina e Cecília no centro histórico; Marina compra três rendas de bilro "para a mãe"; no muro da Igreja de Santa Rita confessa que quer o André e não quer o casamento de 180 (a mãe, Célia: "trinta pessoas é casamento de quem tá escondendo alguma coisa") e que André "dança pra festa, não comigo"; na farmácia pergunta da Coca, conta que viu Vicente no corredor à 1h de terça e diz "O Vicente teve um ano difícil" e para. Tarde: o grupo vai à Praia do Pontal; os dois escrevem o livro dos padrinhos (o guaraná de 2017, o beijo de 2019, o bolo "MARIANA", o cacto Cachorro); para 2023–2025 fazem duas colunas, como o caderno; trocam os brindes (ela levantou o copo para ele no réveillon de 2024; ele bebeu à Ciça no aniversário da Marina de 2024); Marina lê, chora e sai para o quintal; última noite anunciada na cozinha; as duas cadeiras estão do mesmo lado da mesa. |
 
 ## A verdade escondida (Camada C)
 
@@ -182,6 +190,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 6 | primeira trégua | Ela o deixa entrar no quarto e pede ajuda sem pedir ("eu não alcanço"); pede uma história "que não seja sobre mim" e dorme ouvindo a lapiseira dele. Nenhum dos dois pede desculpa pelo caiaque. Ela agradece pela pessoa errada, de propósito, e com uma garrafa lavada. | O teste das três sílabas ("Albuquerque"); "a Coca tá com gás"; a lapiseira atrás da porta; a garrafa de boca para baixo (espelho da caneca) |
 | 7 | primeira trégua → começo de cumplicidade | Conversa a sós, sem ataque, feita de lembranças. Completam a frase um do outro pela primeira vez em três anos e os dois param. Primeiro contato deliberado (o pé no joelho). Ela escolhe não fazer a pergunta e se apoia na certeza de que ele jogou o caderno fora. | "Você tá no meu lugar" / "Não tô"; as janelas da casa (mau humor → parede do vizinho; tédio → rua; tristeza → redonda em cima da cama; raiva → quintal, "desenhei depois"); a garrafa ("pode faltar garrafa"); a pipoca que pegou fogo e o "é" do seu Otávio |
 | 8 | cumplicidade (em público) | Ela faz uma pergunta de verdade na frente de todos, sabendo que ele é obrigado a responder; ele responde com uma verdade que ela interpreta errado (março de 2024 = um mês depois de ela ir para SP). Ela cuida dele com uma toalha jogada. Quando a luz volta, ela sustenta o olhar e ele desvia: pela primeira vez, ele recua primeiro. | A garrafa de Coca vira a garrafa do jogo ("pode faltar garrafa"); a toalha dobrada em quatro, alinhada com a borda; o livro na página 112 |
+| 9 | cumplicidade | Primeira coisa boa feita juntos em três anos. Ele propõe as duas colunas (o caderno dentro do livro) e ela diz um "tá" que quer dizer só sim. Trocam as metades dos três anos e descobrem que cada um brindou ao outro. Ela ri alto, pela boca, na frente dele pela primeira vez. Passaram a tarde do mesmo lado da mesa. | "Era amarelo / era mostarda"; os parênteses iguais ("De propósito."); o velório do Cachorro entra; formato quadrado; "levantei o copo" / "bebi a cachaça"; 2,40 m de mesa, 50 cm usados |
 
 ## Quem sabe o quê
 
@@ -210,6 +219,11 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | A última vez que Vicente chorou foi em março de 2024 | todos (a data); Vicente (o motivo: remissão de Otávio) | Cecília acha que tem a ver com a mudança dela para SP (fev/2024) | 8 |
 | André disse "Belém" e explicou com açaí | Vicente percebeu a reação dele | Marina não registrou | 8 |
 | Otávio tem um exame/consulta na quarta, 21/01, e Vicente vai levá-lo | Vicente, Otávio | o grupo ("coisa de obra") | 8 |
+| Marina não quer o casamento de 180 pessoas e sente que André "dança pra festa" e não com ela | Marina, Cecília | André | 9 |
+| Marina viu Vicente sentado no corredor à 1h de terça | Marina, Cecília (agora) | Vicente (não sabe que foi vista) | 9 |
+| Marina quase disse por que Vicente "teve um ano difícil" e parou | Marina | Cecília acha que Marina "escolheu ter pena dele" | 9 |
+| No réveillon de 2024, Cecília levantou o copo quando Marina brindou "ao Vicente" (não bebeu) | Cecília, Vicente (agora), os presentes daquela noite | — | 9 |
+| No aniversário da Marina de 2024, Vicente bebeu quando Marina brindou "à Ciça" | Vicente, Cecília (agora), os presentes | — | 9 |
 
 ## Conflitos em aberto
 
@@ -265,6 +279,12 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - "Belém" (cap. 8): escapou de André; Marina riu; Vicente viu. Explode no cap. 21. Vicente não sabe da vaga (só da reação).
 - Bia disse "sou" (feliz em Paraty) com a boca normal; Cecília protegeu. A ligação de SP continua segredo das duas (cap. 17).
 - A toalha azul dobrada em quatro (cap. 8): gesto de Cecília para ele, espelho da caneca e da garrafa.
+- "Eu nunca dancei com o André numa cozinha" (Marina, cap. 9): prepara a falsa pista F2 no cap. 10 (Marina vê a dança e sai) e a conversa do cap. 21.
+- "O Vicente teve um ano difícil" (Marina, cap. 9): segunda pessoa a quase contar (depois de Rafa). Cecília leu como Marina "escolhendo ter pena dele". Pagar no cap. 19 e no 21.
+- A página das duas colunas do livro dos padrinhos (cap. 9): o caderno dentro do livro da Marina. Deve voltar no cap. 24 (o discurso sai dele) e no cap. 31 (o livro entregue no casamento).
+- Os brindes trocados (cap. 9): "Levantei o copo" / "Bebi a cachaça". Pode ecoar no brinde do casamento (cap. 31).
+- As três rendas de bilro de Marina (cap. 9): "a renda é dela" (da mãe). Pode aparecer na mesa dos doces do cap. 31, ou ser deixada de fora como escolha de Marina.
+- O sorvete de coco que Marina não terminou e o cartaz da mulher na praia que não existe (cap. 9): imagem de Cecília para a farmácia da Rua da Matriz.
 
 ## Estrutura dos capítulos
 
@@ -280,7 +300,8 @@ Plano completo em `arquitetura.md`. Status:
 | 6 | Coca gelada e silêncio | escrito e revisado (3.109 palavras) |
 | 7 | Frango com quiabo | escrito e revisado (2.942 palavras) |
 | 8 | Luz apagada | escrito e revisado (2.921 palavras) |
-| 9–33 | ver arquitetura | planejado |
+| 9 | O livro dos padrinhos | escrito e revisado (2.928 palavras) |
+| 10–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
@@ -290,3 +311,4 @@ Plano completo em `arquitetura.md`. Status:
 | 2026-11-10 | Nova pista P12 (última entrada de Cecília no caderno, abr/2023: "você some... tá escondendo alguma coisa") | Dá à Camada C uma prova escrita, do próprio punho dela, de que Vicente já escondia algo antes do envio do arquivo (exames de Otávio em março e abril). Liga V1 a V4 e prepara a última página do caderno. | 3 (plantada), 31 (paga) |
 | 2026-11-10 | Otávio fazia exames antes da internação de 14/04/2023 (sintomas desde março) | Necessário para P12: Vicente já sumia para acompanhar o pai antes da internação. Não contradiz a arquitetura (diagnóstico continua em abril). | 3, 19, 31 |
 | 2026-11-10 | F1 (Rafa) começa a ser visível no cap. 5, não no 13 | O olhar impaciente de Rafa depois do caiaque nasce da cena (ele sabe que ela disse "manda" e a vê acusar Vicente). Reforça F1 com mais distância até o pagamento. O cap. 13 continua sendo o primeiro diálogo ácido. | 5, 13 |
+| 2026-11-10 | Marina conheceu André em dez/2017 (formatura do ensino médio de Vicente), primeiro beijo em 2019, namoro a partir de 2020 | A arquitetura punha 2020 como início do namoro e da entrada de Marina no grupo; o livro dos padrinhos precisava de um começo anterior e de uma anedota (o guaraná). O namoro continua começando em 2020. | 9 |
