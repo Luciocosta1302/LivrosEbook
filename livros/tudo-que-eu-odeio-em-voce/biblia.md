@@ -391,7 +391,7 @@ Plano completo em `arquitetura.md`. Status:
 | 7 | Frango com quiabo | escrito e revisado (2.942 palavras) |
 | 8 | Luz apagada | escrito e revisado (2.921 palavras) |
 | 9 | O livro dos padrinhos | escrito e revisado (2.928 palavras) |
-| 10 | Uma música de 2016 | escrito e revisado (3.470 palavras) |
+| 10 | Uma música de 2016 | escrito e revisado (3.480 palavras) |
 | 11 | Não aconteceu | escrito e revisado (3.260 palavras) |
 | 12 | Santa Tereza | escrito e revisado (3.830 palavras) |
 | 13 | Dois pixels | escrito e revisado (2.900 palavras) |
