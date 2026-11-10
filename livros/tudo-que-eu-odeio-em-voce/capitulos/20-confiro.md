@@ -24,7 +24,7 @@ Cena íntima: sim, nível 4. Adultos, consentimento explícito e repetido, desej
 Primeira ideia (a óbvia): ela chega furiosa, ele confessa chorando, eles brigam e se reconciliam na cama.
 Alternativa escolhida: ele a encontra no degrau onde ela esperou por ele em 2023; a confissão acontece no chão do corredor, que é a geometria daquela noite; ninguém grita; a raiva dela vem numa frase só ("Não decide isso também"); a decisão de ficar passa por mudar o sofá de lugar; e a primeira noite traz, dentro dela, a promessa que já está sendo quebrada.
 
-Após escrever, função cumprida? Sim. Observações da revisão: o narrador não nomeia ninguém ao dizer "Eu sei"; a cena com Otávio ficou curta, sem explicar a mentira além do que ele diz; a confissão foi cortada de dois parágrafos de justificativa (ele não se justifica, responde); a cena íntima evita linguagem anatômica e fica no que muda entre eles; "como se" uma vez; nenhum "coração".
+Após escrever, função cumprida? Sim. Observações da revisão: o narrador não nomeia ninguém ao dizer "Eu sei"; a cena com Otávio ficou curta, sem explicar a mentira além do que ele diz; a confissão foi cortada de dois parágrafos de justificativa (ele não se justifica, responde); a cena íntima evita linguagem anatômica e fica no que muda entre eles; nenhum "como se"; nenhum "coração".
 -->
 
 # Capítulo 20 — Confiro

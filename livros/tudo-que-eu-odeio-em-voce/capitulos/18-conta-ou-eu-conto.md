@@ -24,7 +24,7 @@ Cena íntima: não. Beijo curto na calçada do hotel.
 Primeira ideia (a óbvia): Rafa ameaça, Vicente decide contar tudo a ela e não consegue.
 Alternativa escolhida: Vicente decide "contar" convidando-a para um almoço onde o pai vai falar por ele. O leitor vê a covardia vestida de coragem antes de ele ver.
 
-Após escrever, função cumprida? Sim. Observações da revisão: Rafa não diz nada concreto sobre abril nem junho ("eu tava lá nas duas vezes"), o que mantém F1 justa; a frase de Otávio sobre "naquele ano" ficou em omissão visível; cortada uma segunda piada sobre o camarão; "como se" duas vezes; "Você é doente" não aparece; o beijo na calçada é dela e é curto, para não competir com o 20.
+Após escrever, função cumprida? Sim. Observações da revisão: Rafa não diz nada concreto sobre abril nem junho ("eu tava lá nas duas vezes"), o que mantém F1 justa; a frase de Otávio sobre "naquele ano" ficou em omissão visível; cortada uma segunda piada sobre o camarão; "como se" uma vez; "Você é doente" não aparece; o beijo na calçada é dela e é curto, para não competir com o 20.
 -->
 
 # Capítulo 18 — Conta ou eu conto
