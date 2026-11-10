@@ -75,8 +75,31 @@ def link(p, text, anchor):
     r = OxmlElement('w:r'); t = OxmlElement('w:t'); t.text = text
     t.set(qn('xml:space'), 'preserve'); r.append(t); h.append(r); p._p.append(h)
 
-def heading(text, anchor):
-    p = doc.add_paragraph(style='Heading 1'); p.add_run(text); bookmark(p, anchor); return p
+def heading(text, anchor, subtitle=None):
+    # Título 1 = entrada do sumário e da navegação do Kindle. O subtítulo fica no mesmo
+    # parágrafo, depois de uma quebra de linha, para aparecer junto no sumário.
+    p = doc.add_paragraph(style='Heading 1'); p.add_run(text)
+    if subtitle:
+        r = p.add_run(); r.add_break()
+        r2 = p.add_run(subtitle); r2.font.size = Pt(14); r2.italic = False
+    bookmark(p, anchor); return p
+
+def fld(p, kind, instr=None):
+    r = OxmlElement('w:r')
+    if instr is not None:
+        t = OxmlElement('w:instrText'); t.set(qn('xml:space'), 'preserve'); t.text = instr; r.append(t)
+    else:
+        f = OxmlElement('w:fldChar'); f.set(qn('w:fldCharType'), kind); r.append(f)
+    p._p.append(r)
+
+from docx.enum.style import WD_STYLE_TYPE
+try:
+    toc1 = doc.styles['toc 1']
+except KeyError:
+    toc1 = doc.styles.add_style('toc 1', WD_STYLE_TYPE.PARAGRAPH)
+    toc1.base_style = doc.styles['Normal']
+toc1.paragraph_format.first_line_indent = Inches(0)
+toc1.paragraph_format.space_after = Pt(4)
 
 def read(name): return open(os.path.join(PUB, name), encoding='utf-8').read().strip()
 
@@ -108,14 +131,20 @@ for i, f in enumerate(chapters, 1):
     parsed.append((int(num), title, rest))
 
 p = para('Sumário', indent=False, align=WD_ALIGN_PARAGRAPH.CENTER, size=16, space_before=48, space_after=18)
-bookmark(p, 'sumario')
-for num, title, _ in parsed:
-    q = doc.add_paragraph(); q.paragraph_format.first_line_indent = Inches(0); q.paragraph_format.space_after = Pt(3)
-    link(q, f'{num}. {title}', f'cap{num:02d}')
-for label, anc in (('Agradecimentos', 'agradecimentos'), ('Sobre o autor', 'sobre')):
-    q = doc.add_paragraph(); q.paragraph_format.first_line_indent = Inches(0); q.paragraph_format.space_after = Pt(3)
-    q.paragraph_format.space_before = Pt(6) if anc == 'agradecimentos' else Pt(0)
-    link(q, label, anc)
+bookmark(p, 'TOC')  # o KDP usa o marcador "TOC" para o comando "Ir para: Sumário" do Kindle
+
+# Sumário nativo do Word (campo TOC), ligado aos parágrafos em Título 1.
+# As entradas já vêm preenchidas; no Word, "Atualizar campo" regenera tudo sem quebrar.
+entries = [(f'Capítulo {n} — {t}', f'_Toc{n:06d}') for n, t, _ in parsed]
+entries += [('Agradecimentos', '_Toc000901'), ('Sobre o autor', '_Toc000902')]
+for i, (label, anchor) in enumerate(entries):
+    q = doc.add_paragraph(style='toc 1')
+    if i == len(entries) - 2: q.paragraph_format.space_before = Pt(8)
+    if i == 0:
+        fld(q, 'begin'); fld(q, None, ' TOC \\o "1-1" \\h \\z \\n "1-1" '); fld(q, 'separate')
+    link(q, label, anchor)
+    if i == len(entries) - 1:
+        fld(q, 'end')
 
 # ---------- Capítulos ----------
 CHAT = re.compile(r'^\*\*[^*]{1,30}:\*\*')
@@ -143,16 +172,15 @@ def write_body(rest):
             after_break = False
 
 for num, title, rest in parsed:
-    heading(f'Capítulo {num}', f'cap{num:02d}')
-    para(title, indent=False, align=WD_ALIGN_PARAGRAPH.CENTER, size=14, space_after=6)
+    heading(f'Capítulo {num}', f'_Toc{num:06d}', subtitle=title)
     write_body(rest)
 
 # ---------- Agradecimentos e Sobre o autor ----------
-heading('Agradecimentos', 'agradecimentos')
+heading('Agradecimentos', '_Toc000901')
 first = True
 for b in read('agradecimentos.md').split('\n\n'):
     para(b.strip(), indent=not first, space_after=6); first = False
-heading('Sobre o autor', 'sobre')
+heading('Sobre o autor', '_Toc000902')
 first = True
 for b in read('sobre-o-autor.md').split('\n\n'):
     para(b.strip(), indent=not first, space_after=6); first = False
