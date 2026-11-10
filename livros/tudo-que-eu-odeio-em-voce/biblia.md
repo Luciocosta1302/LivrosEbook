@@ -338,6 +338,16 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - Cecília dorme de lado com a cabeça no peito dele e a mão fechada na camiseta do outro lado. Ronca baixinho (item 3). Vicente olha para o teto quando está vulnerável, e ela sabe.
 - Manhã de domingo, 26/4/2026: primeira vez de dia, no corte de sol das 11h10 em cima da cama; ela empurrou o edredom e disse "Pode olhar"; disse "pode" em vez de "tá"; segurou o rosto dele com os polegares na mandíbula, como no Ipiranga.
 - Ônibus de volta: Tietê, domingo 26/4, 23h; poltrona 32, janela, lado direito.
+- Despedida de solteiro conjunta: sábado, 2/5/2026, na casa da dona Lurdes, "ensaio" da casa. Taco encerado na quarta (Seu Geraldo, de joelho, com flanela) e passado com enceradeira na sexta (Cleiton), cor "entre o mel e o conhaque". Folha A3 na porta da frente, por dentro, pincel atômico: "REGRAS DA CASA / 1. sem stripper (marina) / 2. sem sertanejo (rafa) / 3. ninguém pisa no taco de sapato (vicente) / 4. entre pela frente (a casa)". Às 21h havia 34 pares de sapato na porta. André pisou de sapatênis às 21h15 e voltou de costas na ponta dos pés; Cecília ganhou um pingado da dona Cida na aposta.
+- O ponto de luz do bar virou um fio de lâmpadas pequenas amarelas pendurado de um galho da mangueira até o telhado da cozinha (Vicente instalou de cima de uma escada no muro; Seu Geraldo: "Ele vai cair" / "Ele nunca caiu" / "Por isso"). Chopeira alugada de uma distribuidora de Contagem; Rafa ajusta o cilindro lendo tutorial.
+- Bia chegou de carro alugado com duas garrafas de cachaça de banana, camarão seco de Paraty e fotos da chaminé em obra: o Jorginho (o da van) também é pedreiro; tijolo novo mais vermelho; falta 1,20 m para passar a copa do jambo. O desenho em escala de Vicente está impresso e pendurado na cozinha da pousada (o casal de Campinas achou que era arte). Às 19h, do segundo degrau da escada do quintal, Bia anunciou ao grupo que fica em Paraty "por escolha e não por fuga".
+- Tiago (primeira aparição, 2/5): mais alto que Vicente, barba curta e ruiva, rosto "que ria antes da boca"; veio direto do hospital, de mochila e crachá no bolso; tirou os sapatos antes de ler a folha (Marina gostou dele na hora). "Eu ajudo. Eu só não vou ser simpático." Rafa segura o copo e Tiago o pega com a mão por cima. Tiago disse a Rafa que ele tem de parar de guardar coisa dos outros "se eu quero guardar uma criança".
+- Na despedida o grupo trata Cecília e Vicente como casal. André: "Então é oficial?" / Marina: "Faz um mês, André." / "Ninguém me conta nada." / "Ninguém te conta nada? André." / "Justo." André e Marina dançaram no taco e, na terceira volta, ele não a soltou; ficaram duas músicas quase sem sair do lugar.
+- Rafa chamou Cecília de "Ciça" pela primeira vez (2/5, 1h10, escada do quintal). Recusou os R$ 64 (uma nota de 50, uma de 10 e duas de 2, separadas por ela): "Depois. Quando eu merecer receber."
+- Vicente pergunta a Rafa a pressão certa do pneu toda vez que ele entra no carro dele (Rafa). Vicente nunca perguntou a Rafa quem trocou o arquivo, em três anos.
+- Volta a pé da despedida: 2h30, Santa Tereza → Contorno → Silviano Brandão → Floresta; ele de tênis com o cadarço esquerdo perdido; ela descalça até a Contorno, com as sandálias na mão.
+- Os e-mails de Cecília (domingo, 3/5/2026), enviados do sofá de Vicente, no lugar novo, com ele dormindo: (1) o rascunho de 22/3, sem mudar nada: para livroaberto.representante@gmail.com, "quem é você?"; (2) às 3h31, para o contato do Instituto Folha Solta (endereço do rodapé do site), com acento e maiúscula: pede quantas vezes o arquivo de Remetente foi substituído entre a inscrição (15/4/2023) e a impressão do catálogo, em quais datas, a pedido de quem e de qual endereço, e quem consta como representante dela no cadastro. Assinado "Cecília Azevedo". Ela leu duas vezes e uma de trás para a frente.
+- Listras do poste na persiana do quarto de Vicente, no lençol: onze.
 ## Cronologia
 
 Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
@@ -368,6 +378,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 22 | seg, 13/4 → dom, 19/4/2026 | seg 8h; qua 6h15 → 15h12; qui 12h20 → 0h52; sex 18h10; dom 11h40 → 13h10 | Lista da obra (faltam 33 dias e 11 itens); itens 8 e 9 da lista de abril; consulta de Otávio ("Igual o outro"; "Comida guardada azeda"); a Bia diz não à agência e liga por vídeo para Vicente às 6h41 pedindo uma chaminé; Vicente diz "consulta do meu pai"; primeiro pagamento do freelance; Rafa mede o bar, conta da reunião de adoção, "Ela sabe o que eu contei" / "Tá"; Helena convida Vicente para o domingo ("o de sempre"), ele recusa; na ligação das onze, ele conta a Cecília da consulta, que Helena o convidou e que se falam "às vezes", e, no lugar da frase grande, conta o freelance; item 10; sexta, os convites; sábado na obra; domingo, ela vai sozinha à casa da mãe e ele assiste da fresta do escritório; dona Cida e o pingado. |
 | 23 | dom, 19/4/2026 | 11h50 → 15h30 | Cecília conta as catorze barras do portão verde e toca a campainha (tem a chave); Helena a recebe; a poltrona de Ronaldo sumiu; três pratos na mesa, Helena tira um ("força do hábito"); frango com quiabo e uma panela pequena sem quiabo; "O Vi não quis vir?"; as terças da químio ("Naquele ano, sim"); Cecília conta que o arquivo era dela e que Vicente trocou em junho; Helena vai ao filtro e deixa a água passar da borda; a pergunta do representante, os óculos de leitura, "Não sei, filha"; Helena conta quem era D., Coimbra, as cartas nunca mandadas, Ouro Preto; Ronaldo e o barulho do carro; o pote de vidro "pra você e pra ele"; Cecília vê a luminária acesa no escritório, sobe, põe o pote na prancheta; "Tá igual" / "Ao de sempre"; ela come um quiabo, ele come o resto. |
 | 24 | sex, 24/4 → dom, 26/4/2026 | sex 16h → dom 23h | Reunião no Arantes Moura (a cota de 45 cm); no conjugado, ele conta onze lugares e vê os itens dele copiados em post-its azuis; escreve o 11; vê o post-it do representante e não pergunta; sábado, o discurso em duas colunas na cama (abre pelo cacto; "mostarda"); "Você ainda tem o caderno?" / "Não sei onde foi parar." ("Não era verdade."); à noite ela conta as cartas nunca mandadas e o "Não sei" da mãe com os óculos; "Você sabe porque você vai lá" / "Às vezes"; a frase do fim ("sabendo tudo dela"); ele pede para tirar o "tudo" e perde; dormem abraçados; ele começa as seis palavras três vezes e decide falar antes com "uma pessoa"; domingo, "Outra hora" devolvido; a primeira vez de dia, no sol das 11h10; no ônibus, ele escreve "3/5" na margem do discurso. |
+| 25 | sáb, 2/5 → dom, 3/5/2026 | 15h → 3h40 | Preparativos da despedida na casa da dona Lurdes (taco encerado, regras na porta, chopeira, fio de lâmpadas na mangueira); a Bia mostra a chaminé e anuncia que fica em Paraty; o Tiago chega; André pisa de sapatênis; "Então é oficial?" / "Ninguém te conta nada? André."; André e Marina dançam sem soltar na terceira volta; à 1h10, no quinto degrau, Rafa recusa os R$ 64, conta o "manda" ouvido no bar e a troca de junho com a versão de brancos (ele viu o anexo), diz que o que saiu no catálogo não foi o que Vicente deixou e que Vicente sabe quem trocou ("Quem não pergunta, sabe"); jura pelo Tiago que não sabe quem; pede desculpa adiantada pelo jeito; "Pergunta de novo"; Cecília decide não perguntar uma terceira vez; volta a pé; às 3h, do sofá novo de Vicente, envia "quem é você?" ao representante e, às 3h31, o e-mail ao instituto; deita ao lado dele e não tira o braço dele de cima dela. |
 
 ## A verdade escondida (Camada C)
 
@@ -406,6 +417,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 22 | relação real; dívida escondida | Ele passa a contar coisas pequenas sem ela perguntar (a consulta, o convite da Helena, o freelance) e sabe que está pagando a conta errada; ela percebe a mudança e a nomeia ("você me contou sem eu perguntar"). Primeiro fim de semana inteiro juntos em BH sem crise. Ela vai à casa da mãe sozinha, por decisão dela; ele fica olhando. | "você vê tudo"; "Eu escondo por hábito. Não por critério."; o item 10; a luminária esperando; o quinto degrau dela |
 | 23 | relação real; ternura antiga recuperada | Ela vai até ele sem ser chamada, porque viu a luz. Ele come o quiabo que era dele desde os doze anos e deixa o frango para ela; ela come um quiabo de propósito. O gesto de 2013 volta invertido e escolhido. Ela não pergunta com que frequência é o "às vezes". | O pote de tampa azul; "Tá igual"; "Continua horrível"; a luminária acesa vista da rua |
 | 24 | intimidade plena; a mentira dentro dela | Ela se deixa ver de dia, por escolha (o medo central dela, enfrentado com ele). Os dois escrevem juntos a frase que vai ser lida no casamento, e a frase é verdade para ela e mentira para ele. Ele mente explicitamente sobre o caderno e ela aceita a resposta sem desconfiar. Ela devolve o "Outra hora" e ele entende. Ele marca sozinho a data para contar (3/5). | O R copiado; "abre pelo cacto"; "mostarda"; "sobram dez segundos pra Marina chorar"; "Pode olhar"; "lê devagar" |
+| 25 | crise começando (por dentro) | O grupo os reconhece como casal no mesmo dia em que ela descobre que ele ainda mente. Ela não pergunta: age sozinha, do lado dele, enquanto ele dorme (o defeito dela, coerente com a ficha). Não o corta e não o enfrenta; deixa o braço dele onde está. Ele percebe que algo mudou (o olhar na Silviano Brandão) e não pergunta. O leitor sabe do "3/5"; ela não. | As meias cinzas iguais; "Pediu desculpa. Pelo jeito."; o braço pesado; as onze listras |
 
 ## Quem sabe o quê
 
@@ -509,6 +521,12 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | As cartas de Helena nunca foram mandadas | Vicente (agora, por Cecília; não sabia) | — | 24 |
 | Helena respondeu "Não sei" sobre o representante, pondo os óculos | Vicente (agora, por Cecília) | — | 24 |
 | Vicente decidiu contar no domingo, 3/5, depois de falar antes com "uma pessoa" | Vicente | todos | 24 |
+| O arquivo que Vicente deixou no instituto em junho era a versão de brancos; o catálogo saiu com outra | Cecília (agora, confirmado pelo Rafa, que viu o anexo), Rafa, Vicente | o grupo | 25 |
+| Rafa acha que Vicente sabe quem trocou ("Quem não pergunta, sabe") | Rafa, Cecília | Vicente (não sabe que Rafa contou isso) | 25 |
+| Rafa não sabe quem trocou | Rafa, Cecília (acredita: "juro pelo Tiago") | — | 25 |
+| Cecília escreveu ao representante ("quem é você?") e ao instituto | Cecília | Vicente, Helena (até ler o e-mail), todos | 25 |
+| Bia fica em Paraty e constrói a chaminé | todos | — | 25 |
+| Cecília e Vicente estão juntos | todos (oficialmente, desde a despedida) | — | 25 |
 
 ## Conflitos em aberto
 
@@ -516,8 +534,8 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - [ ] Quem trocou o arquivo — aberto no cap. 20, resolve em 27
 - [ ] O caderno — aberto no cap. 3, resolve em 31
 - [ ] André e Belém — aberto no cap. 8, explode em 21, resolve em 29
-- [ ] Bia: ficar ou voltar — aberto no cap. 4, resolve em 22
-- [ ] Rafael: falar ou calar — aberto no cap. 13, resolve em 25 e 29
+- [x] Bia: ficar ou voltar — aberto no cap. 4; resolvido no cap. 22 (recusou a agência em 15/4) e anunciado ao grupo no cap. 25
+- [x] Rafael: falar ou calar — aberto no cap. 13; falou no cap. 25 (o que sabe e o que não sabe); falta o pedido de desculpas pelo modo e os R$ 64 (cap. 29)
 - [ ] Cecília e Helena — aberto antes do cap. 1, cena em 27, sem perdão completo
 
 ## Detalhes que precisam voltar
@@ -664,6 +682,14 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - "Eu precisava falar com uma pessoa antes" / "a desculpa de 2023, com outra roupa" (cap. 24): no cap. 26, quem liga primeiro é Helena.
 - "Pode" em vez de "tá" (cap. 24): Vicente entendeu a diferença. Pode voltar no cap. 32.
 - O manjericão vivo de Cecília (cap. 24) contra o manjericão morto da varanda dele (cap. 15).
+- "Pergunta de novo" (Rafa, cap. 25): Cecília decide não perguntar. No cap. 28, ela diz a Vicente que não perguntou uma terceira vez e por quê; ele pode dizer que ia contar no dia 3/5 (o "3/5" na margem do discurso), e ela pode não acreditar.
+- "Quem não pergunta, sabe" (Rafa, cap. 25): o argumento do Rafa. Eco possível no cap. 28.
+- Os R$ 64 (cap. 25): Rafa recusou de novo, "quando eu merecer receber". Paga no cap. 29 com o pedido de desculpas pelo modo.
+- O e-mail "quem é você?" ao representante (cap. 25): chega à caixa de Helena; no cap. 26, Helena liga para Vicente ("ela escreveu").
+- O e-mail ao instituto (cap. 25): a resposta chega no cap. 27, com o e-mail de julho de 2023 assinado "com o carinho de sempre".
+- A chaminé da Bia: falta 1,20 m (2/5). Pronta no cap. 29 ou 33.
+- Tiago e Rafa: a segunda reunião de adoção é em maio (cap. 29, numa linha: Rafa diz a Tiago que quer).
+- André e Marina na terceira volta (cap. 25): primeiro sinal de que Belém está sendo resolvido; resolução no cap. 29.
 
 ## Estrutura dos capítulos
 
@@ -695,7 +721,8 @@ Plano completo em `arquitetura.md`. Status:
 | 22 | Reta final | escrito e revisado (3797 palavras) |
 | 23 | Domingo na Floresta | escrito e revisado (3421 palavras) |
 | 24 | O discurso | escrito e revisado (3018 palavras) |
-| 25–33 | ver arquitetura | planejado |
+| 25 | Despedida | escrito e revisado (3213 palavras) |
+| 26–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
