@@ -111,6 +111,14 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - Churrasqueira de tijolo da pousada, de 1990, puxa fumaça para o lado errado; fica embaixo de um pé de jambo. Vicente sempre fica na churrasqueira.
 - Primeiro emprego de Marina: recepcionista de clínica de estética, três meses, demitida por rir de uma cliente. André odeia jiló.
 - Placa do castelo do Time Noiva, feita por Cecília: "POUSADA CAIÇARA / fechada para evento particular / (desde 1987, mais ou menos)". A Bia se emocionou.
+- Saveiro Dona Zica III, do Seu Dito (dono, capitão e único marinheiro), sai do cais do Pontal; azul e branco, toldo listrado, caiaque duplo amarelo no teto. Bia o conhece desde que chegou a Paraty.
+- Praia do Cantinho: tamanho de uma sala, duas pedras grandes nas pontas, canoa velha vermelha desbotada para rosa, coqueiro inclinado; rasa, só de caiaque.
+- Save the date: a terceira foto de sete, tirada por Cecília de cima da pedra da esquerda, luz de lado; Vicente de costas ao lado da canoa, mãos nos bolsos; texto vai à esquerda do coqueiro "na tua fonte" (dele para ela).
+- Última vez que remaram juntos: pedalinho de cisne na Lagoa da Pampulha, 2016, com o cisne de olho descascado (inventaram que ele perdeu o olho numa briga de bar).
+- Cecília pegou sol demais no dia 12: ombros, nuca e braços queimados; protetor reaplicado só no saveiro, pela Bia. Vestido de madrinha: verde-oliva.
+- Helena: cozinha à noite sozinha; fala por telefone com frases inteiras; diz "fica com Deus" na despedida (nenhuma das duas acredita muito); assina mensagens e bilhetes "Com o carinho de sempre" (há um cartão de aniversário de 7 anos de Cecília com a frase sob um desenho de girafa). O contato dela no celular de Cecília é "MÃE", em maiúsculas, desde os 15.
+- Mãe de Marina: Célia. A feira da Rua Itajubá, aos sábados, é onde as mães trocam notícias.
+- Quarto da frente: mancha de umidade no teto com a forma de Minas Gerais.
 
 ## Cronologia
 
@@ -122,6 +130,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 2 | sex, 9 jan 2026 | 15h40 → depois da meia-noite | Vicente acha a mala no 11º degrau e conserta a roda com parafuso M6 e óleo de soja; explica (ao leitor) por que interrompeu a piada; Rafa chega às 21h40; no jantar, Marina ri dele por conferir o cardápio duas vezes e ele descobre que falta cebola; Bia nomeia a "guarda compartilhada"; Cecília desarma a tensão com a dívida do Rafa; à meia-noite ele lê no coador que ela jogou o café dele fora. |
 | 3 | sáb, 10 jan 2026 | 10h04 → 17h; chuva das 7h ao almoço | Primeira reunião dos padrinhos: brigam pela fonte do convite e pela entrada da casa; ela nota que ele confere a planilha duas vezes e diz que ele "sempre foi controlador"; o bloco se divide sozinho em esquerda (ela) e direita (ele), como o caderno; acordo graças à Bia (bar no quintal); "nota de rodapé" volta; no almoço, Rafa conta a prancha de ponta-cabeça de 2020; Marina confessa que queria trinta pessoas; Cecília guarda a folha com o desenho dele. |
 | 4 | dom, 11 jan 2026 | 7h42 → 23h | Cecília manda "programacao_FINAL_v2_agora_vai.pdf" no grupo novo, unificado; Vicente abre duas vezes e não faz a piada; gincana da Bia na Praia do Jabaquara (castelos, quiz, ovo na colher); no quiz, ele escreve "barata" para o medo dela e ela confirma; ela escreve "altura" por cima de "ser peso" e ele confirma "altura"; Bia recebe ligação de DDD 11 e chora nas pedras; só Cecília vai até ela; churrasco; à noite ele escreve "sempre tem v3", apaga e manda "aprovada". |
+| 5 | seg, 12 jan 2026 | 9h10 → 2h de ter, 13 jan | Passeio no saveiro Dona Zica III (Seu Dito) pela Ilha Comprida e a "praia do compadre"; Marina manda os padrinhos de caiaque à Praia do Cantinho para a foto do save the date; fazem a foto juntos (a terceira, com ele de costas ao lado da canoa); ele pergunta "Como tá a dona Helena?"; no caiaque, ela o acusa de ter exposto a mãe para continuar sendo a pessoa mais importante da vida dela; ele para de remar e diz "Rema do lado esquerdo"; Rafa olha para ela com impaciência; às 21h20 Helena liga ("E o Vicente?") e manda mensagem "Com o carinho de sempre, mãe"; às 2h ela está com frio e dor de cabeça. |
 
 ## A verdade escondida (Camada C)
 
@@ -140,6 +149,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 2 | hostilidade e familiaridade desconfortável | Ela ri (de Rafa) pela primeira vez na frente dele; ele reconhece. Ela reconhece a risada pública dele. Os dois sabem ler o outro e sabem que o outro sabe. | O coador com duas camadas; "derrota ou empate"; a risada de três tempos (pública) e a curta pelo nariz (verdadeira) |
 | 3 | hostilidade com primeira colaboração | Produzem a primeira decisão juntos na mesma folha. Ela recusa o aperto de mão, mas guarda a folha dele. Ele usa o "tá" dela contra ela. | O "tá" roubado; "nota de rodapé" (ela diz que não fazem mais, ele faz por escrito); a tia que pede desculpa (a fonte); bonequinho "cadê o banheiro" |
 | 4 | primeira cumplicidade | Mentem juntos, cada um para proteger o outro, na frente do grupo, e cada um sabe que o outro mentiu. Ainda não se falam a sós. | As duas mentiras do quiz (barata / altura); o sulco da borracha lido contra o sol |
+| 5 | ruptura (recuo) | Depois do único momento bom a sós (a foto), ela diz a coisa mais cruel que já disse a ele. Ele não se defende e se afasta para a proa. Ela sabe que acertou e não sabe em quê. | A foto do save the date ("na tua fonte"); o sorriso com o dente torto na praia; "Rema do lado esquerdo" |
 
 ## Quem sabe o quê
 
@@ -158,6 +168,8 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | O medo verdadeiro de Cecília (ser vista antes de decidir mostrar) | Vicente | o grupo (todos acham que é barata) | 4 |
 | O medo verdadeiro de Vicente (ser peso) | Cecília; Vicente sabe que ela sabe | o grupo (acham que é altura) | 4 |
 | Bia recebeu uma ligação de São Paulo (DDD 11) e chorou | Cecília (o conteúdo), Vicente (viu de longe) | Marina, André, Rafa | 4 |
+| Cecília acusou Vicente de expor a mãe para ser a pessoa mais importante da vida dela | Cecília, Vicente | o grupo (só veem que algo aconteceu no caiaque) | 5 |
+| Helena sabe que Vicente é padrinho ("a Célia me contou na feira") | Helena, Cecília | — | 5 |
 
 ## Conflitos em aberto
 
@@ -194,6 +206,10 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - Cecília e Bia dividem cerveja na mesma garrafa (cap. 4): início da amizade mais funda das duas.
 - "sempre tem v3" (cap. 4): Vicente escreveu e apagou. Eco possível depois do cap. 19, quando o leitor souber do arquivo v3.
 - Rafa no quiz (cap. 4): medo da Ciça = "o Vicente"; medo do Vicente = "ser sincero". Duas respostas que parecem piada e são o que Rafa pensa.
+- A acusação do caiaque (cap. 5): "Você é a pessoa mais importante da minha vida. Ninguém nunca me fez tanto mal." É, sem ela saber, o motivo não nobre real de Vicente aplicado ao crime errado. Deve ecoar no cap. 28 ou 32, quando ela souber o que ele de fato fez e ele admitir essa parte.
+- A febre de Cecília começa na madrugada de 13 jan (cap. 5 → cap. 6: insolação e virose; ele cuida).
+- Helena: "Quando você vier a BH, eu faço tutu. Com couve." Promessa em aberto até o cap. 29.
+- Rafa impaciente com Cecília no saveiro (cap. 5): início visível da falsa pista F1, antes do previsto (cap. 13). Ver mudanças justificadas.
 
 ## Estrutura dos capítulos
 
@@ -205,7 +221,8 @@ Plano completo em `arquitetura.md`. Status:
 | 2 | Guarda compartilhada | escrito e revisado (2.996 palavras) |
 | 3 | Fonte contra planta | escrito e revisado (2.906 palavras) |
 | 4 | agora_vai | escrito e revisado (2.825 palavras) |
-| 5–33 | ver arquitetura | planejado |
+| 5 | O barco | escrito e revisado (3.125 palavras) |
+| 6–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
@@ -214,3 +231,4 @@ Plano completo em `arquitetura.md`. Status:
 | 2026-11-10 | Período das cartas de Helena fixado em 1997–2001 (não 1998–2002) | Evita uma dúvida de paternidade sobre Cecília que não foi planejada e desviaria o livro | nenhum escrito |
 | 2026-11-10 | Nova pista P12 (última entrada de Cecília no caderno, abr/2023: "você some... tá escondendo alguma coisa") | Dá à Camada C uma prova escrita, do próprio punho dela, de que Vicente já escondia algo antes do envio do arquivo (exames de Otávio em março e abril). Liga V1 a V4 e prepara a última página do caderno. | 3 (plantada), 31 (paga) |
 | 2026-11-10 | Otávio fazia exames antes da internação de 14/04/2023 (sintomas desde março) | Necessário para P12: Vicente já sumia para acompanhar o pai antes da internação. Não contradiz a arquitetura (diagnóstico continua em abril). | 3, 19, 31 |
+| 2026-11-10 | F1 (Rafa) começa a ser visível no cap. 5, não no 13 | O olhar impaciente de Rafa depois do caiaque nasce da cena (ele sabe que ela disse "manda" e a vê acusar Vicente). Reforça F1 com mais distância até o pagamento. O cap. 13 continua sendo o primeiro diálogo ácido. | 5, 13 |
