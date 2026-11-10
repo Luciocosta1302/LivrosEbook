@@ -227,7 +227,7 @@ O André veio na minha direção com a assistente no colo.
 
 Quando elas voltaram, quinze minutos depois, a Bia estava com o apito na boca e os olhos vermelhos de quem passou protetor solar errado, e foi isso que ela disse: protetor solar errado, arde horrores, vamos para a terceira prova. A Cecília voltou atrás dela, pegou o chapéu na areia, bateu contra a perna para tirar a areia e pôs de volta. Não olhou para ninguém. Mas a cabeça dela ficou o resto da manhã inclinada um pouco na direção da Bia, como um girassol que se recusa a admitir que é girassol.
 
-Ninguém pergunta como a Bia está. A Bia é a pessoa que recebe, que cozinha, que tem um apito, que fecha a pousada em janeiro e não deixa ninguém falar disso. Eu também nunca perguntei. Fazia três anos que eu me hospedava na casa dela todo carnaval e nunca perguntei.
+Ninguém pergunta como a Bia está. A Bia é a pessoa que recebe, que cozinha, que tem um apito, que fecha a pousada em janeiro e não deixa ninguém falar disso. Eu também nunca perguntei. Fazia dois anos que eu descia para Paraty sempre que o regime me dava um feriado, dormia na casa dela, comia a comida dela, e nunca perguntei.
 
 ---
 
