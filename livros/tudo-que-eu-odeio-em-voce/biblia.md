@@ -379,6 +379,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 23 | dom, 19/4/2026 | 11h50 → 15h30 | Cecília conta as catorze barras do portão verde e toca a campainha (tem a chave); Helena a recebe; a poltrona de Ronaldo sumiu; três pratos na mesa, Helena tira um ("força do hábito"); frango com quiabo e uma panela pequena sem quiabo; "O Vi não quis vir?"; as terças da químio ("Naquele ano, sim"); Cecília conta que o arquivo era dela e que Vicente trocou em junho; Helena vai ao filtro e deixa a água passar da borda; a pergunta do representante, os óculos de leitura, "Não sei, filha"; Helena conta quem era D., Coimbra, as cartas nunca mandadas, Ouro Preto; Ronaldo e o barulho do carro; o pote de vidro "pra você e pra ele"; Cecília vê a luminária acesa no escritório, sobe, põe o pote na prancheta; "Tá igual" / "Ao de sempre"; ela come um quiabo, ele come o resto. |
 | 24 | sex, 24/4 → dom, 26/4/2026 | sex 16h → dom 23h | Reunião no Arantes Moura (a cota de 45 cm); no conjugado, ele conta onze lugares e vê os itens dele copiados em post-its azuis; escreve o 11; vê o post-it do representante e não pergunta; sábado, o discurso em duas colunas na cama (abre pelo cacto; "mostarda"); "Você ainda tem o caderno?" / "Não sei onde foi parar." ("Não era verdade."); à noite ela conta as cartas nunca mandadas e o "Não sei" da mãe com os óculos; "Você sabe porque você vai lá" / "Às vezes"; a frase do fim ("sabendo tudo dela"); ele pede para tirar o "tudo" e perde; dormem abraçados; ele começa as seis palavras três vezes e decide falar antes com "uma pessoa"; domingo, "Outra hora" devolvido; a primeira vez de dia, no sol das 11h10; no ônibus, ele escreve "3/5" na margem do discurso. |
 | 25 | sáb, 2/5 → dom, 3/5/2026 | 15h → 3h40 | Preparativos da despedida na casa da dona Lurdes (taco encerado, regras na porta, chopeira, fio de lâmpadas na mangueira); a Bia mostra a chaminé e anuncia que fica em Paraty; o Tiago chega; André pisa de sapatênis; "Então é oficial?" / "Ninguém te conta nada? André."; André e Marina dançam sem soltar na terceira volta; à 1h10, no quinto degrau, Rafa recusa os R$ 64, conta o "manda" ouvido no bar e a troca de junho com a versão de brancos (ele viu o anexo), diz que o que saiu no catálogo não foi o que Vicente deixou e que Vicente sabe quem trocou ("Quem não pergunta, sabe"); jura pelo Tiago que não sabe quem; pede desculpa adiantada pelo jeito; "Pergunta de novo"; Cecília decide não perguntar uma terceira vez; volta a pé; às 3h, do sofá novo de Vicente, envia "quem é você?" ao representante e, às 3h31, o e-mail ao instituto; deita ao lado dele e não tira o braço dele de cima dela. |
+| 26 | dom, 3/5 (resumo) → qua, 6/5/2026 | dom 10h → 19h21; ter 6h52 → 8h40; qua 15h; 23h; 23h40 | Domingo: ela passa o café no coador novo e põe na caneca de vidro; o notebook dela no chão, no lugar da moeda (ele repara e não pergunta); na plataforma, "Tchau, Vicente"; às 19h10 ele fica onze minutos na esquina da Itajubá com a Pouso Alegre e não toca a campainha (Helena o vê da cozinha e não sai). Terça, 6h52: Helena liga ("Ela escreveu"); na cozinha, antes da aula (Rosângela cobre o primeiro horário), o celular com a conta livroaberto.representante e o "quem é você?" de 3/5, 3h00; Vicente abre a porta: 22/6/2023 (quinta) na cozinha, a versão com brancos, "Ela apagou as melhores partes", o pedido da "versão com tudo" e o envio por e-mail naquela noite; 11/7/2023 (terça), o endereço criado à tarde e o pedido de substituição assinado "com o carinho de sempre"; 12/11/2023 (domingo), a confissão no sofá do lugar antigo e o pedido "Ela acabou de perder o pai. Não pode perder a mãe."; ele pergunta "Por quê?" pela primeira vez; Helena: sair do casamento sem dizer (desde 2003) e que Dário lesse (53 cartas; Dário escreveu em nov/2023, uma carta de papel, que ela guardou na caixa); "Eu pensei em mim. Uma tarde de terça"; Helena pede "depois do casamento" para contar sozinha; Vicente dá prazo até sexta, 8/5, e diz ao leitor que sabe que repete o erro; pão de queijo no portão. Quarta: obra (corrimão desenhado quatro vezes; Seu Geraldo: "Então para"); Otávio: "Tá com cara de comida guardada" / "Conta" / "Sexta" / "É"; 23h, a ligação: cadeiras, programa, chaminé da Bia; "Você tá bem?" / "Tô" / "Tá" (o tá antigo); 23h40, Helena: "Sexta eu conto. Escrevi uma carta para ela ontem à noite"; "Eu sei o que a Helena faz com carta." |
 
 ## A verdade escondida (Camada C)
 
@@ -418,6 +419,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 23 | relação real; ternura antiga recuperada | Ela vai até ele sem ser chamada, porque viu a luz. Ele come o quiabo que era dele desde os doze anos e deixa o frango para ela; ela come um quiabo de propósito. O gesto de 2013 volta invertido e escolhido. Ela não pergunta com que frequência é o "às vezes". | O pote de tampa azul; "Tá igual"; "Continua horrível"; a luminária acesa vista da rua |
 | 24 | intimidade plena; a mentira dentro dela | Ela se deixa ver de dia, por escolha (o medo central dela, enfrentado com ele). Os dois escrevem juntos a frase que vai ser lida no casamento, e a frase é verdade para ela e mentira para ele. Ele mente explicitamente sobre o caderno e ela aceita a resposta sem desconfiar. Ela devolve o "Outra hora" e ele entende. Ele marca sozinho a data para contar (3/5). | O R copiado; "abre pelo cacto"; "mostarda"; "sobram dez segundos pra Marina chorar"; "Pode olhar"; "lê devagar" |
 | 25 | crise começando (por dentro) | O grupo os reconhece como casal no mesmo dia em que ela descobre que ele ainda mente. Ela não pergunta: age sozinha, do lado dele, enquanto ele dorme (o defeito dela, coerente com a ficha). Não o corta e não o enfrenta; deixa o braço dele onde está. Ele percebe que algo mudou (o olhar na Silviano Brandão) e não pergunta. O leitor sabe do "3/5"; ela não. | As meias cinzas iguais; "Pediu desculpa. Pelo jeito."; o braço pesado; as onze listras |
+| 26 | crise (por dentro, dos dois lados) | Ela sabe que há mais e age sozinha; ele sabe que ela sabe e não pergunta. Os dois guardam alguma coisa do outro ao mesmo tempo pela primeira vez desde março. Ela o chama de "Vicente" na plataforma, como em repartição. Ele dá a Helena três dias e se dá três dias, sabendo que é o mesmo erro. Na ligação, ela usa a pergunta-fuga dele ("Você tá bem?") e responde com o "tá" antigo. | "Tchau, Vicente"; "Você tá bem?" / "Tô" / "Tá"; a caneca de vidro no lugar da rachada |
 
 ## Quem sabe o quê
 
@@ -527,6 +529,13 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | Cecília escreveu ao representante ("quem é você?") e ao instituto | Cecília | Vicente, Helena (até ler o e-mail), todos | 25 |
 | Bia fica em Paraty e constrói a chaminé | todos | — | 25 |
 | Cecília e Vicente estão juntos | todos (oficialmente, desde a despedida) | — | 25 |
+| V2 inteira (o envio de Helena em 11/7/2023; como ela obteve o arquivo em 22/6/2023; a confissão de 12/11/2023; o pedido de silêncio) | Helena, Vicente, o leitor (agora) | Cecília (até o cap. 27), todos | 26 |
+| Os motivos de Helena (sair do casamento sem dizer; que Dário lesse) | Helena, Vicente (agora; nunca tinha perguntado) | Cecília | 26 |
+| Dário escreveu a Helena em nov/2023, uma carta de papel, guardada na caixa | Helena, Vicente (agora) | Cecília | 26 |
+| Cecília escreveu ao representante ("quem é você?") | Cecília, Helena (desde 4–5/5), Vicente (desde 5/5) | o grupo | 26 |
+| Vicente deu a Helena até sexta, 8/5, para contar; se não, ele conta | Vicente, Helena, Otávio (sabe que há "sexta", não o quê) | Cecília | 26 |
+| Helena escreveu uma carta para Cecília na noite de 5/5 | Helena, Vicente | Cecília | 26 |
+| Vicente ficou onze minutos na esquina em 3/5 e Helena o viu da cozinha | Helena, Vicente | — | 26 |
 
 ## Conflitos em aberto
 
@@ -690,6 +699,14 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - A chaminé da Bia: falta 1,20 m (2/5). Pronta no cap. 29 ou 33.
 - Tiago e Rafa: a segunda reunião de adoção é em maio (cap. 29, numa linha: Rafa diz a Tiago que quer).
 - André e Marina na terceira volta (cap. 25): primeiro sinal de que Belém está sendo resolvido; resolução no cap. 29.
+- O terceiro motivo de Helena (cap. 26): só como sombra, o dedo sobre os brancos na tela e "Ela apagou as melhores partes". Helena nunca diz. Cecília pode adivinhar no cap. 27; o leitor já sente.
+- "Eu pensei em mim. Uma tarde de terça [...] E a tarde durou três anos." (Helena, cap. 26): Helena pode repetir a ideia a Cecília no cap. 27 com outras palavras; não repetir a frase.
+- As 53 cartas e a carta de Dário de nov/2023 guardada na caixa (cap. 26): no cap. 27 Helena conta a Cecília que ele escreveu e ela não respondeu.
+- O "outro motivo" que Vicente diz que vai dizer primeiro a ela (cap. 26): a acusação do caiaque (ser o culpado era continuar sendo o mais importante). Pagar no cap. 28.
+- A carta de Helena para Cecília (cap. 26, escrita na noite de 5/5): "Eu sei o que a Helena faz com carta". No cap. 27 Cecília encontra o envelope na mesa, selado, endereçado, não enviado.
+- "Tá com cara de comida guardada" (Otávio, cap. 26): eco de "comida guardada azeda" (cap. 22). Pode voltar no cap. 30, quando Vicente conta tudo ao pai.
+- O corrimão da escada do quintal desenhado quatro vezes (cap. 26): pronto no cap. 30.
+- As cadeiras de madeira (dona Célia trocou para ferro e voltou para madeira) e o programa da cerimônia que Cecília fecha na quinta, 7/5 (cap. 26).
 
 ## Estrutura dos capítulos
 
@@ -722,7 +739,8 @@ Plano completo em `arquitetura.md`. Status:
 | 23 | Domingo na Floresta | escrito e revisado (3421 palavras) |
 | 24 | O discurso | escrito e revisado (3018 palavras) |
 | 25 | Despedida | escrito e revisado (3213 palavras) |
-| 26–33 | ver arquitetura | planejado |
+| 26 | Depois do casamento | escrito e revisado (2999 palavras) |
+| 27–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
@@ -745,3 +763,7 @@ Plano completo em `arquitetura.md`. Status:
 | 2026-11-10 | Em 5/11/2023, Vicente acreditava que o instituto tinha ignorado a troca de junho; por isso o "fui eu" foi sincero naquele dia | Coerente com a arquitetura (ele só soube de Helena em 12/11/2023) e dá ao "fui eu" uma camada de verdade, sem absolvê-lo: ele inscreveu, mentiu em 18/4 e escondeu a troca. | 20, 28 |
 | 2026-11-10 | Marina sabe, desde agosto de 2024, não só do câncer de Otávio mas também que Helena o levava à quimio às terças | Vicente contou tudo do ano de 2023, bêbado, no aniversário do Rafa; é coerente com o personagem (só conta quando não consegue segurar) e reforça F2 (Marina sabe uma coisa de Vicente que envolve Helena) sem apontar para o envio, que Marina continua sem saber. | 21, 29 |
 | 2026-11-10 | Marina descobre Belém em São Paulo, por uma mensagem de Lúcia (mulher de um colega de André), e briga por telefone na frente de Cecília | A arquitetura deixava aberto ("Cecília está presente ou é a primeira a quem Marina conta"). Assim Cecília ouve a frase "Você não escolhe o que eu aguento" e a devolve a Marina na mesma noite. | 21 |
+| 2026-11-10 | V2 é revelada ao leitor no cap. 26 (cena de Vicente com Helena na cozinha), um capítulo antes de Cecília (cap. 27) | Ironia dramática de um capítulo: o leitor lê o cap. 27 sabendo o que Cecília vai encontrar, e a tensão passa de "quem foi" para "como ela vai saber e o que vai fazer". Coerente com o PDV de Vicente (ele nunca mentiu ao leitor; aqui abre a porta). | 26, 27 |
+| 2026-11-10 | Helena obteve a versão integral numa quinta, 22/6/2023, dois dias depois da troca de junho, quando Vicente mostrou a ela a versão selecionada na cozinha; ele mandou o arquivo por e-mail naquela noite | Concretiza a arquitetura ("Contou a Helena; manda a ela a versão integral") e o que o cap. 23 fixou (Helena viu a versão com brancos). | 26, 27 |
+| 2026-11-10 | Em 12/11/2023 Helena subiu de escada (elevador quebrado) e contou tudo a Vicente no sofá, no lugar antigo | Concretiza a arquitetura; deixa para o cap. 28 a cena de 5/11/2023 inteira. | 26, 28 |
+| 2026-11-10 | Dário escreveu a Helena em novembro de 2023 (uma carta de papel) e ela guardou na caixa sem responder | Coerente com a arquitetura ("ele escreveu a ela depois do catálogo; ela não respondeu") e com o cap. 23 (cartas nunca mandadas); a resposta não enviada é o gesto de Helena. | 26, 27 |
