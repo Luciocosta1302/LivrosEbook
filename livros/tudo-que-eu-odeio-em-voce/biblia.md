@@ -119,6 +119,14 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - Helena: cozinha à noite sozinha; fala por telefone com frases inteiras; diz "fica com Deus" na despedida (nenhuma das duas acredita muito); assina mensagens e bilhetes "Com o carinho de sempre" (há um cartão de aniversário de 7 anos de Cecília com a frase sob um desenho de girafa). O contato dela no celular de Cecília é "MÃE", em maiúsculas, desde os 15.
 - Mãe de Marina: Célia. A feira da Rua Itajubá, aos sábados, é onde as mães trocam notícias.
 - Quarto da frente: mancha de umidade no teto com a forma de Minas Gerais.
+- Cecília com febre: arrasta a última vogal; não engole comprimido enjoada (dipirona em gotas); paracetamol não faz efeito nela; cospe soro de coco (só o de laranja); perfume em pele queimada dá coceira e ela coça até sangrar; não quer ninguém olhando para o rosto dela quando está doente.
+- Receita de Helena para qualquer doença: "Coca gelada e silêncio", com a Coca mexida com colher de pau até perder o gás. Vicente aprendeu aos 11, na primeira catapora de Cecília, sentado na escada da casa da Rua Itajubá.
+- O teste de lucidez de Vicente: "fala uma palavra com mais de três sílabas". Ela respondeu "Albuquerque".
+- O dia em que se conheceram (fev/2012, detalhado no cap. 6): ela sentada no meio-fio da Rua Itajubá, joelho ralado, boca fechada; ele sentou ao lado calado; depois de uns vinte minutos ela disse "você tá sentado no meu lugar" (não estava) e ele mudou de lugar mesmo assim.
+- Sardas de Cecília nos ombros, desde os 13 (piscina do clube com Marina); marca branca da alça do maiô na escápula esquerda.
+- Casa de dona Lurdes: comprada em 1962, a mangueira já estava lá; o marido quis cortar para fazer garagem, ela não deixou ("quem chega depois é que tem que se ajeitar"); a garagem ficou na frente e hoje guarda as caixas de cerveja de André. Às 16h a sombra da mangueira chega ao muro do fundo; às 16h30 entra pela janela da cozinha e para na pia; dona Lurdes lavava a louça a essa hora ("se um dia a sombra não chegasse na pia, ela ia saber que tinha morrido"). Vicente foi conferir em novembro de 2025.
+- Projeto da parede da sala de dona Lurdes: tijolo maciço, 4,5 m, carrega parte do telhado; solução do cap. 6: viga escondida no forro de madeira, da mesma madeira do telhado. André quer a demolição em fevereiro.
+- Pousada: abajur do corredor de cima com cúpula verde (luz amarela esverdeada); bandeja de madeira com um galo pintado no fundo. Farmácia da Rua da Matriz abre às 8h. Programa de terça, 13/1: Trindade (van, 9h30).
 
 ## Cronologia
 
@@ -131,6 +139,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 3 | sáb, 10 jan 2026 | 10h04 → 17h; chuva das 7h ao almoço | Primeira reunião dos padrinhos: brigam pela fonte do convite e pela entrada da casa; ela nota que ele confere a planilha duas vezes e diz que ele "sempre foi controlador"; o bloco se divide sozinho em esquerda (ela) e direita (ele), como o caderno; acordo graças à Bia (bar no quintal); "nota de rodapé" volta; no almoço, Rafa conta a prancha de ponta-cabeça de 2020; Marina confessa que queria trinta pessoas; Cecília guarda a folha com o desenho dele. |
 | 4 | dom, 11 jan 2026 | 7h42 → 23h | Cecília manda "programacao_FINAL_v2_agora_vai.pdf" no grupo novo, unificado; Vicente abre duas vezes e não faz a piada; gincana da Bia na Praia do Jabaquara (castelos, quiz, ovo na colher); no quiz, ele escreve "barata" para o medo dela e ela confirma; ela escreve "altura" por cima de "ser peso" e ele confirma "altura"; Bia recebe ligação de DDD 11 e chora nas pedras; só Cecília vai até ela; churrasco; à noite ele escreve "sempre tem v3", apaga e manda "aprovada". |
 | 5 | seg, 12 jan 2026 | 9h10 → 2h de ter, 13 jan | Passeio no saveiro Dona Zica III (Seu Dito) pela Ilha Comprida e a "praia do compadre"; Marina manda os padrinhos de caiaque à Praia do Cantinho para a foto do save the date; fazem a foto juntos (a terceira, com ele de costas ao lado da canoa); ele pergunta "Como tá a dona Helena?"; no caiaque, ela o acusa de ter exposto a mãe para continuar sendo a pessoa mais importante da vida dela; ele para de remar e diz "Rema do lado esquerdo"; Rafa olha para ela com impaciência; às 21h20 Helena liga ("E o Vicente?") e manda mensagem "Com o carinho de sempre, mãe"; às 2h ela está com frio e dor de cabeça. |
+| 6 | ter, 13 jan 2026 → qua, 14 jan | 6h40 de ter → noite de qua | Cecília com insolação e febre (até 39,4); Vicente compra os remédios de cabeça na farmácia da Rua da Matriz e mexe a Coca até tirar o gás (receita de Helena); convence o grupo a ir a Trindade para ela ter silêncio; entra no quarto só para passar loção nos ombros que ela não alcança; à noite senta no chão do corredor desenhando a viga e, pela porta, conta a história da mangueira e da sombra da dona Lurdes até ela dormir; na quarta, ela agradece à Marina "pela Coca" olhando para ele; à noite deixa a garrafa lavada, de boca para baixo, na porta dele. |
 
 ## A verdade escondida (Camada C)
 
@@ -150,6 +159,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 3 | hostilidade com primeira colaboração | Produzem a primeira decisão juntos na mesma folha. Ela recusa o aperto de mão, mas guarda a folha dele. Ele usa o "tá" dela contra ela. | O "tá" roubado; "nota de rodapé" (ela diz que não fazem mais, ele faz por escrito); a tia que pede desculpa (a fonte); bonequinho "cadê o banheiro" |
 | 4 | primeira cumplicidade | Mentem juntos, cada um para proteger o outro, na frente do grupo, e cada um sabe que o outro mentiu. Ainda não se falam a sós. | As duas mentiras do quiz (barata / altura); o sulco da borracha lido contra o sol |
 | 5 | ruptura (recuo) | Depois do único momento bom a sós (a foto), ela diz a coisa mais cruel que já disse a ele. Ele não se defende e se afasta para a proa. Ela sabe que acertou e não sabe em quê. | A foto do save the date ("na tua fonte"); o sorriso com o dente torto na praia; "Rema do lado esquerdo" |
+| 6 | primeira trégua | Ela o deixa entrar no quarto e pede ajuda sem pedir ("eu não alcanço"); pede uma história "que não seja sobre mim" e dorme ouvindo a lapiseira dele. Nenhum dos dois pede desculpa pelo caiaque. Ela agradece pela pessoa errada, de propósito, e com uma garrafa lavada. | O teste das três sílabas ("Albuquerque"); "a Coca tá com gás"; a lapiseira atrás da porta; a garrafa de boca para baixo (espelho da caneca) |
 
 ## Quem sabe o quê
 
@@ -170,6 +180,8 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | Bia recebeu uma ligação de São Paulo (DDD 11) e chorou | Cecília (o conteúdo), Vicente (viu de longe) | Marina, André, Rafa | 4 |
 | Cecília acusou Vicente de expor a mãe para ser a pessoa mais importante da vida dela | Cecília, Vicente | o grupo (só veem que algo aconteceu no caiaque) | 5 |
 | Helena sabe que Vicente é padrinho ("a Célia me contou na feira") | Helena, Cecília | — | 5 |
+| Vicente cuidou de Cecília na febre (remédios, Coca, loção, corredor) | Cecília, Vicente, Bia (viu a sacola), Marina (deduz pela bandeja), Rafa (deduz no almoço) | André | 6 |
+| A receita "Coca gelada e silêncio" é de Helena | Vicente, Cecília | — | 6 |
 
 ## Conflitos em aberto
 
@@ -210,6 +222,11 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - A febre de Cecília começa na madrugada de 13 jan (cap. 5 → cap. 6: insolação e virose; ele cuida).
 - Helena: "Quando você vier a BH, eu faço tutu. Com couve." Promessa em aberto até o cap. 29.
 - Rafa impaciente com Cecília no saveiro (cap. 5): início visível da falsa pista F1, antes do previsto (cap. 13). Ver mudanças justificadas.
+- A garrafa de Coca de vidro (cap. 6): lavada, de boca para baixo, deixada por Cecília na porta de Vicente; ele a pôs na cômoda do quarto dele. Pode ir com ele para BH.
+- "Eu sei ficar sentado em chão de corredor. Já fiz isso uma noite inteira." (cap. 6): semente de V1 (corredor do hospital, 14–15/04/2023). Pagar no cap. 20 ou 31 com um eco, sem explicar.
+- A porta que Vicente não abre (cap. 6): usada pela segunda vez, a propósito da acusação do caiaque ("Tem uma coisa que ela disse no caiaque que é verdade. Não do jeito que ela pensa."). Próxima menção só no cap. 20 ou depois.
+- "Obrigada pela Coca" dito à Marina (cap. 6): Marina não entendeu. Pode voltar no cap. 9 (Marina pergunta) ou no 21.
+- A sombra da mangueira na pia às 16h30: o casamento é às 16h30 (cap. 3). Ligação deliberada para o cap. 30/31.
 
 ## Estrutura dos capítulos
 
@@ -222,7 +239,8 @@ Plano completo em `arquitetura.md`. Status:
 | 3 | Fonte contra planta | escrito e revisado (2.906 palavras) |
 | 4 | agora_vai | escrito e revisado (2.825 palavras) |
 | 5 | O barco | escrito e revisado (3.125 palavras) |
-| 6–33 | ver arquitetura | planejado |
+| 6 | Coca gelada e silêncio | escrito e revisado (3.109 palavras) |
+| 7–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
