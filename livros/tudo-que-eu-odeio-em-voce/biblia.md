@@ -137,6 +137,14 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - Cecília ajudou Vicente no TCC de arquitetura (2022): "você foi minha chefe no TCC, eu só segurava a régua."
 - Quatro Margens: mesa coletiva; papel novo chega da gráfica às terças; Joana entra às dez com café e um original ("essa capa tá pedindo pra morrer, salva ela"). O poço de luz do conjugado não recebe luz antes das onze.
 - Vicente para na porta antes de entrar num cômodo, para ver onde estão as paredes. Cecília empurra a parede com o pé para balançar a rede, do jeito dele.
+- Otávio ao telefone: nunca diz alô, começa pelo tempo; notícia boa não precisa de palavra; não discute, deixa ganhar e faz do jeito dele (vai de ônibus e chega uma hora antes). Chama Cecília de "a menina" desde que ela tinha 9 anos. Sabe a receita da Coca sem gás. Contato no celular de Vicente: PAI. Despede-se com "É. Tchau."
+- "Meu pai, coisa de obra" é a frase-padrão de Vicente para as ligações do pai.
+- Jogo da Bia: "só verdade", sem desafio; a boca da garrafa pergunta, o fundo responde; uma pergunta só; quem mente (ou faz comentário, "pergunta com outra roupa") bebe cachaça de banana.
+- Pousada à noite: a luz acaba "toda vez que alguém espirra no continente"; Bia tem velas de supermercado, duas velas grossas de igreja (presente de um padre), vela de citronela num balde, lampião de querosene que ela não acende; sofá de vime e cadeira de balanço na sala; toalha de rosto azul no banheiro de baixo; televisão da Bia.
+- Hóspedes lendários da Bia: um casal de Curitiba com um papagaio escondido numa bolsa térmica, que dizia "bom dia" às três da manhã.
+- Tiago é técnico/enfermeiro de UTI; na sexta, 16/1, de plantão. Rafa admite saudade.
+- Carnaval de Olinda 2025: Cecília disse a um francês que falava francês; respondeu "oui" por quarenta minutos; conheceu a família dele (casa alugada no Amparo); a avó deu a ela um colar de conchinha que ela usou até a Quarta-Feira de Cinzas. Bia estava lá.
+- Cecília lê, em Paraty, "um livro que trouxe para não ler": página 112 na sexta, 16/1.
 
 ## Cronologia
 
@@ -151,6 +159,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 5 | seg, 12 jan 2026 | 9h10 → 2h de ter, 13 jan | Passeio no saveiro Dona Zica III (Seu Dito) pela Ilha Comprida e a "praia do compadre"; Marina manda os padrinhos de caiaque à Praia do Cantinho para a foto do save the date; fazem a foto juntos (a terceira, com ele de costas ao lado da canoa); ele pergunta "Como tá a dona Helena?"; no caiaque, ela o acusa de ter exposto a mãe para continuar sendo a pessoa mais importante da vida dela; ele para de remar e diz "Rema do lado esquerdo"; Rafa olha para ela com impaciência; às 21h20 Helena liga ("E o Vicente?") e manda mensagem "Com o carinho de sempre, mãe"; às 2h ela está com frio e dor de cabeça. |
 | 6 | ter, 13 jan 2026 → qua, 14 jan | 6h40 de ter → noite de qua | Cecília com insolação e febre (até 39,4); Vicente compra os remédios de cabeça na farmácia da Rua da Matriz e mexe a Coca até tirar o gás (receita de Helena); convence o grupo a ir a Trindade para ela ter silêncio; entra no quarto só para passar loção nos ombros que ela não alcança; à noite senta no chão do corredor desenhando a viga e, pela porta, conta a história da mangueira e da sombra da dona Lurdes até ela dormir; na quarta, ela agradece à Marina "pela Coca" olhando para ele; à noite deixa a garrafa lavada, de boca para baixo, na porta dele. |
 | 7 | madrugada de qui, 15 → sex, 16 jan 2026 | 1h50 → 4h20 | Quinta: Cecília convalescente, não vai à cachoeira. De madrugada ela deita na rede dele; ele chega às 2h10 e diz "Você tá no meu lugar" (inversão do primeiro dia); lembram a casa do caderno com uma janela para cada humor e completam a frase um do outro sem querer; ela fala da mãe e do tutu como pedido de desculpa; ele diz "Ela ainda faz o frango com quiabo"; ela conta que não almoça na casa da mãe há três anos; o pé dela no joelho dele, cinco segundos; ela quase pergunta por que ele disse "fui eu" e desvia para a camisa; "Porque tá no caderno" / "O caderno que você jogou fora" — ele não responde; às 4h15 ela sobe e acerta os catorze degraus. |
+| 8 | sex, 16 jan 2026 | 20h11 → 1h05 de sáb | Chuva desde as 16h; a luz acaba às 20h11; velas no chão da sala; jogo de "só verdade" da Bia com a garrafa de Coca que Vicente traz da cômoda; André responde "Belém" rápido demais e salva com açaí; Marina pergunta a Bia se ela é feliz em Paraty, Bia diz "sou" e Cecília desvia o assunto com a mão no joelho dela; Rafa pergunta a Cecília a coisa mais idiota que ela já disse bêbada e comenta "Só essa?"; Cecília pergunta a Vicente a última vez que ele chorou: "Março de 2024"; Otávio liga ("Saiu o resultado. Tá bom. Igual o outro."), Vicente promete levá-lo na quarta e volta: "Meu pai. Coisa de obra."; ela joga uma toalha nele; a luz volta à 1h05 e ela sustenta o olhar dele; ele desvia. |
 
 ## A verdade escondida (Camada C)
 
@@ -172,6 +181,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 5 | ruptura (recuo) | Depois do único momento bom a sós (a foto), ela diz a coisa mais cruel que já disse a ele. Ele não se defende e se afasta para a proa. Ela sabe que acertou e não sabe em quê. | A foto do save the date ("na tua fonte"); o sorriso com o dente torto na praia; "Rema do lado esquerdo" |
 | 6 | primeira trégua | Ela o deixa entrar no quarto e pede ajuda sem pedir ("eu não alcanço"); pede uma história "que não seja sobre mim" e dorme ouvindo a lapiseira dele. Nenhum dos dois pede desculpa pelo caiaque. Ela agradece pela pessoa errada, de propósito, e com uma garrafa lavada. | O teste das três sílabas ("Albuquerque"); "a Coca tá com gás"; a lapiseira atrás da porta; a garrafa de boca para baixo (espelho da caneca) |
 | 7 | primeira trégua → começo de cumplicidade | Conversa a sós, sem ataque, feita de lembranças. Completam a frase um do outro pela primeira vez em três anos e os dois param. Primeiro contato deliberado (o pé no joelho). Ela escolhe não fazer a pergunta e se apoia na certeza de que ele jogou o caderno fora. | "Você tá no meu lugar" / "Não tô"; as janelas da casa (mau humor → parede do vizinho; tédio → rua; tristeza → redonda em cima da cama; raiva → quintal, "desenhei depois"); a garrafa ("pode faltar garrafa"); a pipoca que pegou fogo e o "é" do seu Otávio |
+| 8 | cumplicidade (em público) | Ela faz uma pergunta de verdade na frente de todos, sabendo que ele é obrigado a responder; ele responde com uma verdade que ela interpreta errado (março de 2024 = um mês depois de ela ir para SP). Ela cuida dele com uma toalha jogada. Quando a luz volta, ela sustenta o olhar e ele desvia: pela primeira vez, ele recua primeiro. | A garrafa de Coca vira a garrafa do jogo ("pode faltar garrafa"); a toalha dobrada em quatro, alinhada com a borda; o livro na página 112 |
 
 ## Quem sabe o quê
 
@@ -197,6 +207,9 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | Cecília acredita que Vicente jogou o caderno fora; ele não negou | Cecília (crença), Vicente (sabe que não) | — | 7 |
 | Cecília não almoça na casa da mãe há três anos (vai a BH no Natal, dorme na Marina, almoça com Helena num restaurante a quilo perto da escola) | Cecília, Vicente, Helena | — | 7 |
 | Joana contratou Cecília depois de ver Remetente no catálogo, e há dias em que Cecília não se arrepende | Cecília (narra ao leitor) | Vicente, todos | 7 |
+| A última vez que Vicente chorou foi em março de 2024 | todos (a data); Vicente (o motivo: remissão de Otávio) | Cecília acha que tem a ver com a mudança dela para SP (fev/2024) | 8 |
+| André disse "Belém" e explicou com açaí | Vicente percebeu a reação dele | Marina não registrou | 8 |
+| Otávio tem um exame/consulta na quarta, 21/01, e Vicente vai levá-lo | Vicente, Otávio | o grupo ("coisa de obra") | 8 |
 
 ## Conflitos em aberto
 
@@ -246,6 +259,12 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - A janela da raiva "desenhada depois, em outra página" (cap. 7): pode estar perto da última página do caderno (cap. 31).
 - A pergunta não feita ("Por que você disse “fui eu”?") — primeira tentativa no cap. 7, desviada para a camisa. Não repetir a mesma tentativa até o cap. 20.
 - Os catorze degraus acertados de primeira (cap. 7), em contraste com o cap. 1.
+- "Março de 2024" (cap. 8): resposta verdadeira de Vicente (remissão do pai). Cecília fez a conta errada. Pagar no cap. 19 (almoço de dois anos de remissão), quando ela refaz a conta sozinha.
+- A consulta de Otávio na quarta, 21/1 (cap. 8): Vicente chega às 6h30 para levá-lo. Pode aparecer de passagem no cap. 12.
+- "Só essa?" de Rafa (cap. 8): F1 avança; Vicente sabe em que noite Rafa pensa ("Não era Olinda"). Evoluir no cap. 13 sem repetir a fórmula.
+- "Belém" (cap. 8): escapou de André; Marina riu; Vicente viu. Explode no cap. 21. Vicente não sabe da vaga (só da reação).
+- Bia disse "sou" (feliz em Paraty) com a boca normal; Cecília protegeu. A ligação de SP continua segredo das duas (cap. 17).
+- A toalha azul dobrada em quatro (cap. 8): gesto de Cecília para ele, espelho da caneca e da garrafa.
 
 ## Estrutura dos capítulos
 
@@ -260,7 +279,8 @@ Plano completo em `arquitetura.md`. Status:
 | 5 | O barco | escrito e revisado (3.125 palavras) |
 | 6 | Coca gelada e silêncio | escrito e revisado (3.109 palavras) |
 | 7 | Frango com quiabo | escrito e revisado (2.942 palavras) |
-| 8–33 | ver arquitetura | planejado |
+| 8 | Luz apagada | escrito e revisado (2.921 palavras) |
+| 9–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
