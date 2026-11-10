@@ -174,6 +174,19 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - Pousada reabre na terça, 20/1, com um casal de Campinas.
 - Vicente usa camiseta cinza e bermuda no dia da partida (sem a camisa xadrez). Leva a garrafa de Coca de vidro no bolso lateral da mochila.
 - Marina, nervosa, lavou a frigideira antes dos copos (quebra da ordem habitual).
+- Escritório de Vicente: 22 m² em cima da Padaria Floresta Nova, esquina da Rua Pouso Alegre com a Itajubá (Floresta); janela para a Pouso Alegre, persiana que desce só até a metade; ar-condicionado de parede de 9 mil BTUs comprado usado; duas pranchetas, computador, estante de maquetes; placa de acrílico ALBUQUERQUE ARQUITETURA (ele se arrependeu da fonte em uma semana). Primeira fornada de pão de sal às 6h10.
+- Dona Cida: dona da padaria e da sala; caderno de fiado de capa azul, uma página por cliente; a de Vicente é a 42; anota com Bic vermelha; no dia 5 ele paga e ela risca o mês com uma linha diagonal. Vicente pede dois pães de sal e um pingado.
+- Doutor Tadeu: dentista, consultório na Av. do Contorno; obra (recepção e duas salas) terminada em 12/12/2025; parcela final de R$ 8.400 vencida em 30/1; pagou R$ 4.200 em 5/2, o resto em março; reclamou da porta do armário da sala dois (Vicente acha que é dobradiça; visita na segunda).
+- Contas do escritório: aluguel R$ 1.100; contador R$ 400; contas ~R$ 300; Cleiton R$ 800 por semana (três dias); parcela de fevereiro da obra do André R$ 3.000 (Vicente cobra metade do preço; André finge não saber); parcela do empréstimo R$ 1.240, vence dia 10, é a 22ª, faltam 14. Em fevereiro, Vicente não tirou pró-labore. Faz contas à mão, no bloco amarelo, duas vezes e uma terceira de trás para a frente.
+- Otávio mora perto da Av. Silviano Brandão; vai de ônibus a tudo; usa boné do Atlético e leva uma pasta de plástico debaixo do braço. Consultas de três em três meses desde 2024; a de 21/1 durou onze minutos; Vicente esperou na sala de espera, com um aquário de um peixe laranja só; depois, pão de queijo em pé no balcão da lanchonete da esquina. A próxima consulta é em abril.
+- Seu Geraldo: pedreiro, 61 anos, 40 de obra; trabalhou com Otávio nos anos 1990 numa construtora que faliu em 2003; chama Vicente de "doutor" (com ironia) e de "o menino do Otávio" para os outros; fuma. Cleiton: ajudante de Vicente três dias por semana.
+- Otávio trabalhou em BH nos anos 1990 (antes de Divinópolis). "Ficou bom" é coisa que ele disse três vezes na vida do filho: a formatura, a primeira obra construída (uma edícula em Contagem para um cliente que nunca pagou) e a parede da dona Lurdes.
+- Casa da dona Lurdes: Rua Mármore, Santa Tereza; na esquina, o Bar do Bolão ("não é o famoso", diz o dono a todos). Sala de 4 m x 5,5 m, taco de peroba em espinha de peixe; parede do fundo de tijolo maciço de olaria, pintada de verde-água, 4,5 m, com porta pequena no canto; marcas de quadros na parede (Santa Ceia, casamento dela, diploma do filho, calendário de 1987 de uma loja de tecidos). Viga de peroba-do-campo escondida no forro, apoiada em dois pilares. Seis pontaletes de eucalipto como escora; duas tábuas do forro podres no meio (goteira antiga). Os tijolos serão reaproveitados no piso do quintal (ideia de Otávio).
+- Demolição em 5/2/2026: primeira marretada do André (capacete amarelo novo com etiqueta, camisa social de manga curta) às 8h10; Otávio chegou às 10h20 (dois ônibus, baldeação no centro) com seis pães de queijo e uma garrafa de café, sentou num balde virado; corrigiu a escora do meio às 11h20; parede inteira fora às 15h40; às 16h a luz do quintal entrou na sala e a sombra da mangueira chegou ao lugar do bar no horário. Escoras ficam até o dia seguinte.
+- Na conversa particular de Vicente, o contato de Cecília se chama "Cê" desde sempre; a última mensagem antes de 5/2/2026 era dela: "tô subindo", 5/11/2023, 19h02, mandada da portaria do prédio dele. Ele abriu a porta antes de ela tocar.
+- Cecília escreve no celular em minúsculas e sem ponto desde os 12 anos (o celular de teclado com a tecla do A gasta).
+- No aniversário de 18 anos de Vicente (nov/2018), Cecília deu a ele um desenho emoldurado da casa das janelas para cada humor, com uma frase atrás: "isso aqui não é um presente, é uma crítica com moldura".
+- Áudio da Bia (5/2): 3min12s; o casal de Campinas levou um gato escondido.
 
 ## Cronologia
 
@@ -192,6 +205,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 9 | sáb, 17 jan 2026 | 9h30 → 18h40 | Manhã: Marina e Cecília no centro histórico; Marina compra três rendas de bilro "para a mãe"; no muro da Igreja de Santa Rita confessa que quer o André e não quer o casamento de 180 (a mãe, Célia: "trinta pessoas é casamento de quem tá escondendo alguma coisa") e que André "dança pra festa, não comigo"; na farmácia pergunta da Coca, conta que viu Vicente no corredor à 1h de terça e diz "O Vicente teve um ano difícil" e para. Tarde: o grupo vai à Praia do Pontal; os dois escrevem o livro dos padrinhos (o guaraná de 2017, o beijo de 2019, o bolo "MARIANA", o cacto Cachorro); para 2023–2025 fazem duas colunas, como o caderno; trocam os brindes (ela levantou o copo para ele no réveillon de 2024; ele bebeu à Ciça no aniversário da Marina de 2024); Marina lê, chora e sai para o quintal; última noite anunciada na cozinha; as duas cadeiras estão do mesmo lado da mesa. |
 | 10 | sáb, 17 jan 2026 | 19h30 → 2h10 de dom | Última noite na cozinha ("jantar do despejo"): Vicente faz o mexido de sobras; Cecília separa os ingredientes "por função" e faz o "drinque minimalista"; André dança com todo mundo e solta Marina na terceira volta para pegar a Bia; brinde do Rafa aos padrinhos ("Ainda."); à 1h Marina e André sobem, Bia e Rafa vão à varanda; Cecília lava e Vicente seca; toca a música do quiosque de Cabo Frio (2016); ele canta "sardinha", ela canta certo; dançam forró, ela conta os passos e para de contar; Marina aparece na porta, vê e volta sem a água; a caixa de som diz "Battery low" e apaga; quase-beijo; ele diz "Cê ainda conta" sem perceber; ela recua, diz "Boa noite, Albuquerque" e sobe; ele termina a louça e põe a caneca rachada na frente do armário. |
 | 11 | dom, 18 jan 2026 | 6h50 → 13h | Cecília acha a caneca rachada na frente do armário e a rouba, embrulhada na camiseta de pijama; pensa no "Cê"; bebe o café dele pela primeira vez sem jogar fora (Bia vê); Marina de olho inchado lava a panela antes dos copos; Rafa sai às 8h30 e marca almoço em SP em fevereiro (amostras de papel da Marina; ela paga o almoço "com os 82,50"); às 9h15, no corredor de 85 cm, o pacto: "Ontem." / "Nada." ... nota de rodapé: a música continua horrível; da janela, ela vê Marina falar sério com Vicente no porta-malas, ele negar duas vezes e Marina enxugar o olho; despedida da Bia ("Me manda a resposta"); no 11º degrau ela diz "Obrigada pela roda" / "Que roda?" / "De nada, Azevedo"; a roda passa pelas pedras sem engasgar; Bia manda foto do espaço vazio no armário ("cuida dela"); ônibus das 11h14; na subida da serra ela descobre que não queria ir. |
+| 12 | qui, 5 fev 2026 (lembrança de qua, 21 jan) | 6h10 → 23h40 | Escritório em cima da Padaria Floresta Nova; o dentista paga metade; Vicente refaz as contas e tira o próprio pró-labore; a 22ª parcela do empréstimo (faltam 14), sem dizer para quê; lembrança da consulta do pai em 21/1 (11 minutos, pão de queijo na lanchonete); demolição da parede da sala da dona Lurdes com o Seu Geraldo e o Cleiton; André de capacete com etiqueta dá a primeira marretada; Otávio chega de ônibus, senta num balde e corrige a escora do meio; às 16h a luz do quintal entra na sala pela primeira vez e Otávio diz "Ficou bom"; Vicente abre a conversa particular parada em "tô subindo" (5/11/2023), manda o pombo, apaga para todos, manda a foto da luz; ela pergunta "o que você apagou?", ele manda o pombo; ela escreve "a luz ficou bonita" e edita para "menos feia do que eu esperava"; Marina pergunta "pensou no que eu falei?" e ele não responde. |
 
 ## A verdade escondida (Camada C)
 
@@ -217,6 +231,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 9 | cumplicidade | Primeira coisa boa feita juntos em três anos. Ele propõe as duas colunas (o caderno dentro do livro) e ela diz um "tá" que quer dizer só sim. Trocam as metades dos três anos e descobrem que cada um brindou ao outro. Ela ri alto, pela boca, na frente dele pela primeira vez. Passaram a tarde do mesmo lado da mesa. | "Era amarelo / era mostarda"; os parênteses iguais ("De propósito."); o velório do Cachorro entra; formato quadrado; "levantei o copo" / "bebi a cachaça"; 2,40 m de mesa, 50 cm usados |
 | 10 | cumplicidade → desejo (contato físico escolhido) | Primeiro contato físico prolongado e escolhido desde 2023 (a dança). Quase-beijo reconhecido pelos dois, interrompido pela caixa de som e, depois, pelo "Cê" que ele diz sem perceber e ela ouve. Ela recua devagar, sem fugir. | A música do quiosque (item 7 do caderno); "sardinha" / "saudade"; "um, dois, três"; "Isso não significa nada" / "Nada"; "Battery low"; "Cê" |
 | 11 | desejo não admitido em voz alta; pacto de negação | Primeiro acordo a sós em três anos: o que não aconteceu fica sem nome, e os dois concordam sobre a música. Ela bebe o café dele e agradece a roda. Ele vai até o 11º degrau sem nada para carregar. Ela admite para si (e para o leitor) que não queria ir embora. | "Não aconteceu nada" / "Nada"; "Sempre tem autos, Azevedo"; "Nota de rodapé: a música continua horrível" / "Péssima"; "Obrigada pela roda" / "Que roda?"; a caneca girada sem café |
+| 12 | desejo à distância; primeira conversa particular | A conversa particular dos dois, parada desde "tô subindo", volta a andar. Os dois cometem e corrigem um erro à vista do outro (a mensagem apagada, a mensagem editada). Ela obedece à regra do caderno que acha que ele jogou fora. | O pombo ("tem mais opinião que o André"); "o que você apagou?" / "nada" / "albuquerque"; "a luz ficou menos feia do que eu esperava (editada)"; "nos autos?" / "sempre tem autos" |
 
 ## Quem sabe o quê
 
@@ -257,6 +272,11 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | Cecília bebeu o café de Vicente sem jogar fora | Cecília, Bia | Vicente (não estava na cozinha) | 11 |
 | Cecília viu Marina falar sério com Vicente no porta-malas, ele negar e Marina chorar | Cecília (sem som) | Marina e Vicente não sabem que ela viu | 11 |
 | A Bia vai "mandar a resposta" (da agência de SP) quando tiver | Cecília, Bia | os outros | 11 |
+| Vicente sabe que Cecília levou a caneca (a Bia mandou a ele a foto do armário vazio, sem legenda) | Vicente, Bia, Cecília | Cecília não sabe que ele sabe | 12 |
+| Vicente não tirou pró-labore em fevereiro; o dentista pagou metade; o empréstimo tem 14 parcelas restantes | Vicente | todos | 12 |
+| Vicente apagou uma mensagem para Cecília (o pombo) | Vicente, Cecília (viu "Mensagem apagada" e depois o pombo) | — | 12 |
+| Cecília editou um elogio para obedecer à regra do caderno | Cecília, Vicente (viu "Editada") | — | 12 |
+| Marina sabe (provavelmente por Cecília) que Vicente mandou foto a ela; insiste no pedido do porta-malas | Marina, Vicente | Cecília não sabe do pedido | 12 |
 
 ## Conflitos em aberto
 
@@ -328,6 +348,13 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - "Me manda a resposta" (Bia, cap. 11): a decisão da Bia sobre a agência; entrevista em SP no cap. 17; recusa no cap. 22.
 - O almoço com o Rafa em SP, pago "com os 82,50" (cap. 11 → cap. 13).
 - A caneca em SP (cap. 11 → 13): Cecília passa café nela e gira a rachadura para fora.
+- A conversa particular "Cê" (cap. 12): agora é a primeira da lista dele. As mensagens idiotas começam no cap. 13; manter o registro em minúsculas dela e a marca "editada" / "apagada" como gramática do casal.
+- "a luz ficou menos feia do que eu esperava (editada)" (cap. 12): primeira vez que ela quase quebra a regra do caderno por escrito. Eco possível na última página (cap. 31) ou na página nova (cap. 33), quando a regra for quebrada de propósito.
+- O desenho emoldurado ("crítica com moldura", 2018): onde está hoje? Sugestão: na parede do escritório dele, atrás da estante de maquetes, onde ela vê no cap. 14.
+- "Pensou no que eu falei?" (Marina, cap. 12): sem resposta. Não repetir; Marina insiste de novo só no cap. 18 ou 21.
+- A próxima consulta de Otávio é em abril (cap. 12): coerente com o almoço de dois anos de remissão em 28/3 (cap. 19).
+- O empréstimo (cap. 12): 14 parcelas restantes. Revelar para que foi no cap. 19/20 ou 32, sem drama: exames do pai que o plano não cobriu.
+- Os tijolos maciços da parede viram o piso do quintal (cap. 12 → cap. 30).
 
 ## Estrutura dos capítulos
 
@@ -346,7 +373,8 @@ Plano completo em `arquitetura.md`. Status:
 | 9 | O livro dos padrinhos | escrito e revisado (2.928 palavras) |
 | 10 | Uma música de 2016 | escrito e revisado (3.470 palavras) |
 | 11 | Não aconteceu | escrito e revisado (3.260 palavras) |
-| 12–33 | ver arquitetura | planejado |
+| 12 | Santa Tereza | escrito e revisado (3.830 palavras) |
+| 13–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
