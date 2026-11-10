@@ -93,6 +93,14 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - O escritório de Vicente tem caixa para três meses; sala em cima de uma padaria, com ar-condicionado no limite.
 - Rafa chama Vicente de "Arquiteto"; Vicente responde "Arquiteto". Tiago está de plantão e não vem a Paraty (por ora).
 - Cecília controla rateios em planilha: Rafa deve R$ 82,50 desde o réveillon de 2024 (aba três).
+- Casa de dona Lurdes (Santa Tereza): térrea, fachada estreita com barra de azulejo português e porta de duas folhas; sala comprida de 4 m de largura; corredor, cozinha, quintal grande com mangueira; portão lateral com corredor de terra batida. Dona Lurdes recebia todos pelo portão lateral; a porta da frente era "pra padre e pra polícia".
+- Decisão do cap. 3: convidados entram pela frente; bar no quintal, embaixo da mangueira, perto do portão lateral; o convite tem um mapa desenhado por Vicente com a seta atravessando a sala; tipografia de Cecília (serifada de transição, "a tia que pede desculpa").
+- Casamento às 16h30. A sombra da mangueira chega ao bar às 16h (nota de Vicente).
+- Convidados: 180 na planilha de Marina; 176 que andam (quatro crianças de colo).
+- Lista dos padrinhos (envelope): 1. convite e papelaria; 2. disposição da festa (inclui "rota de fuga da tia Neusa"); 3. programação dos dez dias até domingo, em PDF; 4. discurso, cinco minutos no máximo; 5. livro dos padrinhos (Marina explica depois); 6. despedida de solteiro conjunta, sem stripper.
+- Vicente usa lapiseira e papel-manteiga; tem um corte recente na ponta do polegar (do parafuso da roda).
+- Marina lava louça sempre na ordem copos, pratos, panelas. A avó dela morreu em 2022. Marina tinha um apartamento no Santo Antônio onde Cecília dormia três vezes por semana para não dormir em casa (2022–2023, anos de tensão entre Helena e Ronaldo).
+- Primo de Cecília: Lucas, três anos mais velho. Havia uma tia na viagem de Cabo Frio (2016).
 
 ## Cronologia
 
@@ -102,6 +110,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 |---|---|---|---|
 | 1 | sex, 9 jan 2026 | 15h20 → início da noite | Cecília chega de ônibus; ouve a risada dele na escada e larga a mala; ele faz o café dela certo, ela joga fora e bebe um pior; Marina anuncia os dois como padrinhos principais; ele interrompe uma piada quando ela fica quieta; ela encontra a mala no quarto com a roda consertada e grafite na alça. |
 | 2 | sex, 9 jan 2026 | 15h40 → depois da meia-noite | Vicente acha a mala no 11º degrau e conserta a roda com parafuso M6 e óleo de soja; explica (ao leitor) por que interrompeu a piada; Rafa chega às 21h40; no jantar, Marina ri dele por conferir o cardápio duas vezes e ele descobre que falta cebola; Bia nomeia a "guarda compartilhada"; Cecília desarma a tensão com a dívida do Rafa; à meia-noite ele lê no coador que ela jogou o café dele fora. |
+| 3 | sáb, 10 jan 2026 | 10h04 → 17h; chuva das 7h ao almoço | Primeira reunião dos padrinhos: brigam pela fonte do convite e pela entrada da casa; ela nota que ele confere a planilha duas vezes e diz que ele "sempre foi controlador"; o bloco se divide sozinho em esquerda (ela) e direita (ele), como o caderno; acordo graças à Bia (bar no quintal); "nota de rodapé" volta; no almoço, Rafa conta a prancha de ponta-cabeça de 2020; Marina confessa que queria trinta pessoas; Cecília guarda a folha com o desenho dele. |
 
 ## A verdade escondida (Camada C)
 
@@ -118,6 +127,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | início | hostilidade e familiaridade desconfortável | três anos sem se falar diretamente | — |
 | 1 | hostilidade e familiaridade desconfortável | Voltam a ocupar o mesmo cômodo; ficam amarrados como padrinhos; primeira reunião marcada para sábado às 10h (ele cedeu). Ela deve a ele um café e uma roda, e se recusa a agradecer. | "Azevedo" / "Albuquerque"; o café; "toda culpa é da planta"; ele cede e isso a irrita mais que a briga |
 | 2 | hostilidade e familiaridade desconfortável | Ela ri (de Rafa) pela primeira vez na frente dele; ele reconhece. Ela reconhece a risada pública dele. Os dois sabem ler o outro e sabem que o outro sabe. | O coador com duas camadas; "derrota ou empate"; a risada de três tempos (pública) e a curta pelo nariz (verdadeira) |
+| 3 | hostilidade com primeira colaboração | Produzem a primeira decisão juntos na mesma folha. Ela recusa o aperto de mão, mas guarda a folha dele. Ele usa o "tá" dela contra ela. | O "tá" roubado; "nota de rodapé" (ela diz que não fazem mais, ele faz por escrito); a tia que pede desculpa (a fonte); bonequinho "cadê o banheiro" |
 
 ## Quem sabe o quê
 
@@ -131,6 +141,8 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | Vicente sabe que Cecília jogou o café dele fora | Vicente | Cecília (não sabe que ele sabe) | 2 |
 | Bia viu Vicente consertar a roda | Bia, Vicente; Rafa deduz pela mancha de óleo | — | 2 |
 | Vicente cobra metade do preço pela reforma | Vicente; André desconfia; Marina sabe que não deve tocar no assunto | — | 2 |
+| Cecília guardou a folha com o desenho e a nota da sombra | Cecília | Vicente | 3 |
+| Marina queria um casamento de trinta pessoas num sítio | Marina, Cecília | André | 3 |
 
 ## Conflitos em aberto
 
@@ -158,6 +170,11 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - A cebola (cap. 2): Bia decreta que ninguém sai sem cebola no sábado.
 - "Sobre o tempo. Dizem que amanhã chove" (Rafa, cap. 2): primeira vez que Rafa deixa visível que sabe de algo. Não repetir a fórmula; evoluir em 13 e 18.
 - A porta que Vicente não abre (cap. 2): imagem estabelecida para as omissões dele. Usar com parcimônia; a próxima menção só quando houver motivo forte.
+- O caderno (cap. 3): capa dura preta, 100 folhas, comprado numa papelaria perto da Praia do Forte, Cabo Frio, jan/2016, com o dinheiro do picolé; título escrito com corretivo em letras de forma. Primeira entrada dela (esquerda): "1. Você conta as coisas que não são suas." (ele tinha contado ao primo Lucas que ela dormia de luz acesa). Resposta dele (direita): "1. Você escreve 'odeio' com letra bonita demais pra ser verdade." Regra não escrita: nunca elogio direto; elogio disfarçado vale. A primeira entrada deve ecoar no fim do livro.
+- Última entrada de Cecília no caderno (cap. 3): terça, 4 abr 2023, lista de quatro itens sobre ele sumir ("4. Você tá escondendo alguma coisa e acha que eu não sei."). Ela passou o caderno a ele na quinta, 6 abr. Ele nunca respondeu (resposta dele: a última página, de 14 abr, revelada no cap. 31). Ela acredita que ele jogou o caderno fora em novembro de 2023 e nunca perguntou.
+- Notas de rodapé antigas: aos 16, ele disse por nota que ela tinha razão sobre o filme e que o filme era bom mesmo assim; aos 18, ela disse por nota que o perdoava por esquecer o aniversário dela e nunca ia esquecer que ele esqueceu.
+- A folha da reunião (cap. 3), dobrada em quatro na pasta de plástico de Cecília, com a mangueira hachurada e a nota da sombra. Pode reaparecer em SP ou no cap. 30 (a casa pronta, a sombra às 16h).
+- Concurso de 2020: Vicente mandou as pranchas sem revisar; prancha quatro com o banheiro de ponta-cabeça; menção honrosa ("instigante inversão da lógica do espaço úmido"); apareceu na porta dela com o certificado preso na camiseta por alfinete. "Aprendi." / Rafa: "Aprendeu."
 
 ## Estrutura dos capítulos
 
@@ -167,10 +184,13 @@ Plano completo em `arquitetura.md`. Status:
 |---|---|---|
 | 1 | Dezessete degraus | escrito e revisado (3.280 palavras) |
 | 2 | Guarda compartilhada | escrito e revisado (2.996 palavras) |
-| 3–33 | ver arquitetura | planejado |
+| 3 | Fonte contra planta | escrito e revisado (2.906 palavras) |
+| 4–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
 | Data | O que mudou | Justificativa narrativa | Capítulos afetados |
 |---|---|---|---|
 | 2026-11-10 | Período das cartas de Helena fixado em 1997–2001 (não 1998–2002) | Evita uma dúvida de paternidade sobre Cecília que não foi planejada e desviaria o livro | nenhum escrito |
+| 2026-11-10 | Nova pista P12 (última entrada de Cecília no caderno, abr/2023: "você some... tá escondendo alguma coisa") | Dá à Camada C uma prova escrita, do próprio punho dela, de que Vicente já escondia algo antes do envio do arquivo (exames de Otávio em março e abril). Liga V1 a V4 e prepara a última página do caderno. | 3 (plantada), 31 (paga) |
+| 2026-11-10 | Otávio fazia exames antes da internação de 14/04/2023 (sintomas desde março) | Necessário para P12: Vicente já sumia para acompanhar o pai antes da internação. Não contradiz a arquitetura (diagnóstico continua em abril). | 3, 19, 31 |
