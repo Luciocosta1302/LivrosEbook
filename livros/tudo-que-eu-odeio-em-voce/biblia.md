@@ -164,6 +164,16 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - André dança com todo mundo (Bia, Rafa, Cecília, Marina); com Marina, rodou duas vezes e a soltou na terceira para pegar a Bia; Marina ficou um segundo com os braços levantados. Vicente leu como cansaço.
 - Vicente decidiu, no carro, na Fernão Dias, a caminho de Paraty, que ia chamar Cecília só de "Azevedo".
 - Vicente, sobre forró (citando a Dona Lia): "quem dança forró de longe está dançando outra coisa e mentindo sobre isso".
+- "Cê" começou quando Cecília tinha 12 e Vicente 14, numa tarde de calor na escada da casa de Helena ("Cê, passa o copo"). Só ele usava.
+- Como chamam Cecília: Helena, "filha" ("Cecília Helena" em apuros); Ronaldo, "Ciça" (desde o 6º ano, por causa da Marina); Bia, "Ciça" e "criatura"; Joana, "Cecília"; Rafa, "a Azevedo" para os outros e nada quando fala com ela.
+- Camiseta de pijama de Cecília: a de um show em que ela nunca foi. A caneca rachada vai para SP embrulhada nela.
+- Chuveiro da pousada: quatro minutos de água quente.
+- Corredor de cima da pousada: 85 cm de largura.
+- Rafa: Cecília é, para ele, "a amiga do amigo" e, depois de 2023, "a ex-amiga do amigo"; não se abraçam. Ele vai a SP a trabalho em fevereiro e leva amostras de papel da Marina; combinaram almoço.
+- Van do Jorginho (primo, ou quase, da Bia): branca com faixa azul; leva hóspedes à rodoviária e ao cais (e uma vez a um velório em Ubatuba). Ônibus de Cecília: das 11h, saiu às 11h14; poltrona 21, janela, lado esquerdo.
+- Pousada reabre na terça, 20/1, com um casal de Campinas.
+- Vicente usa camiseta cinza e bermuda no dia da partida (sem a camisa xadrez). Leva a garrafa de Coca de vidro no bolso lateral da mochila.
+- Marina, nervosa, lavou a frigideira antes dos copos (quebra da ordem habitual).
 
 ## Cronologia
 
@@ -181,6 +191,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 8 | sex, 16 jan 2026 | 20h11 → 1h05 de sáb | Chuva desde as 16h; a luz acaba às 20h11; velas no chão da sala; jogo de "só verdade" da Bia com a garrafa de Coca que Vicente traz da cômoda; André responde "Belém" rápido demais e salva com açaí; Marina pergunta a Bia se ela é feliz em Paraty, Bia diz "sou" e Cecília desvia o assunto com a mão no joelho dela; Rafa pergunta a Cecília a coisa mais idiota que ela já disse bêbada e comenta "Só essa?"; Cecília pergunta a Vicente a última vez que ele chorou: "Março de 2024"; Otávio liga ("Saiu o resultado. Tá bom. Igual o outro."), Vicente promete levá-lo na quarta e volta: "Meu pai. Coisa de obra."; ela joga uma toalha nele; a luz volta à 1h05 e ela sustenta o olhar dele; ele desvia. |
 | 9 | sáb, 17 jan 2026 | 9h30 → 18h40 | Manhã: Marina e Cecília no centro histórico; Marina compra três rendas de bilro "para a mãe"; no muro da Igreja de Santa Rita confessa que quer o André e não quer o casamento de 180 (a mãe, Célia: "trinta pessoas é casamento de quem tá escondendo alguma coisa") e que André "dança pra festa, não comigo"; na farmácia pergunta da Coca, conta que viu Vicente no corredor à 1h de terça e diz "O Vicente teve um ano difícil" e para. Tarde: o grupo vai à Praia do Pontal; os dois escrevem o livro dos padrinhos (o guaraná de 2017, o beijo de 2019, o bolo "MARIANA", o cacto Cachorro); para 2023–2025 fazem duas colunas, como o caderno; trocam os brindes (ela levantou o copo para ele no réveillon de 2024; ele bebeu à Ciça no aniversário da Marina de 2024); Marina lê, chora e sai para o quintal; última noite anunciada na cozinha; as duas cadeiras estão do mesmo lado da mesa. |
 | 10 | sáb, 17 jan 2026 | 19h30 → 2h10 de dom | Última noite na cozinha ("jantar do despejo"): Vicente faz o mexido de sobras; Cecília separa os ingredientes "por função" e faz o "drinque minimalista"; André dança com todo mundo e solta Marina na terceira volta para pegar a Bia; brinde do Rafa aos padrinhos ("Ainda."); à 1h Marina e André sobem, Bia e Rafa vão à varanda; Cecília lava e Vicente seca; toca a música do quiosque de Cabo Frio (2016); ele canta "sardinha", ela canta certo; dançam forró, ela conta os passos e para de contar; Marina aparece na porta, vê e volta sem a água; a caixa de som diz "Battery low" e apaga; quase-beijo; ele diz "Cê ainda conta" sem perceber; ela recua, diz "Boa noite, Albuquerque" e sobe; ele termina a louça e põe a caneca rachada na frente do armário. |
+| 11 | dom, 18 jan 2026 | 6h50 → 13h | Cecília acha a caneca rachada na frente do armário e a rouba, embrulhada na camiseta de pijama; pensa no "Cê"; bebe o café dele pela primeira vez sem jogar fora (Bia vê); Marina de olho inchado lava a panela antes dos copos; Rafa sai às 8h30 e marca almoço em SP em fevereiro (amostras de papel da Marina; ela paga o almoço "com os 82,50"); às 9h15, no corredor de 85 cm, o pacto: "Ontem." / "Nada." ... nota de rodapé: a música continua horrível; da janela, ela vê Marina falar sério com Vicente no porta-malas, ele negar duas vezes e Marina enxugar o olho; despedida da Bia ("Me manda a resposta"); no 11º degrau ela diz "Obrigada pela roda" / "Que roda?" / "De nada, Azevedo"; a roda passa pelas pedras sem engasgar; Bia manda foto do espaço vazio no armário ("cuida dela"); ônibus das 11h14; na subida da serra ela descobre que não queria ir. |
 
 ## A verdade escondida (Camada C)
 
@@ -205,6 +216,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 8 | cumplicidade (em público) | Ela faz uma pergunta de verdade na frente de todos, sabendo que ele é obrigado a responder; ele responde com uma verdade que ela interpreta errado (março de 2024 = um mês depois de ela ir para SP). Ela cuida dele com uma toalha jogada. Quando a luz volta, ela sustenta o olhar e ele desvia: pela primeira vez, ele recua primeiro. | A garrafa de Coca vira a garrafa do jogo ("pode faltar garrafa"); a toalha dobrada em quatro, alinhada com a borda; o livro na página 112 |
 | 9 | cumplicidade | Primeira coisa boa feita juntos em três anos. Ele propõe as duas colunas (o caderno dentro do livro) e ela diz um "tá" que quer dizer só sim. Trocam as metades dos três anos e descobrem que cada um brindou ao outro. Ela ri alto, pela boca, na frente dele pela primeira vez. Passaram a tarde do mesmo lado da mesa. | "Era amarelo / era mostarda"; os parênteses iguais ("De propósito."); o velório do Cachorro entra; formato quadrado; "levantei o copo" / "bebi a cachaça"; 2,40 m de mesa, 50 cm usados |
 | 10 | cumplicidade → desejo (contato físico escolhido) | Primeiro contato físico prolongado e escolhido desde 2023 (a dança). Quase-beijo reconhecido pelos dois, interrompido pela caixa de som e, depois, pelo "Cê" que ele diz sem perceber e ela ouve. Ela recua devagar, sem fugir. | A música do quiosque (item 7 do caderno); "sardinha" / "saudade"; "um, dois, três"; "Isso não significa nada" / "Nada"; "Battery low"; "Cê" |
+| 11 | desejo não admitido em voz alta; pacto de negação | Primeiro acordo a sós em três anos: o que não aconteceu fica sem nome, e os dois concordam sobre a música. Ela bebe o café dele e agradece a roda. Ele vai até o 11º degrau sem nada para carregar. Ela admite para si (e para o leitor) que não queria ir embora. | "Não aconteceu nada" / "Nada"; "Sempre tem autos, Azevedo"; "Nota de rodapé: a música continua horrível" / "Péssima"; "Obrigada pela roda" / "Que roda?"; a caneca girada sem café |
 
 ## Quem sabe o quê
 
@@ -241,6 +253,10 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | Marina viu Cecília e Vicente dançando na cozinha e voltou sem a água | Marina, Vicente (viu ela ver) | Cecília (estava de costas) | 10 |
 | Vicente disse "Cê" pela primeira vez desde nov/2023 | Cecília (ouviu), Vicente (só depois) | os outros | 10 |
 | Vicente suspeita que Marina está "cansada de guardar" o que sabe dele desde 2024 | Vicente | — | 10 |
+| Cecília roubou a caneca rachada (com a bênção da Bia: "cuida dela") | Cecília, Bia | Vicente (ainda) | 11 |
+| Cecília bebeu o café de Vicente sem jogar fora | Cecília, Bia | Vicente (não estava na cozinha) | 11 |
+| Cecília viu Marina falar sério com Vicente no porta-malas, ele negar e Marina chorar | Cecília (sem som) | Marina e Vicente não sabem que ela viu | 11 |
+| A Bia vai "mandar a resposta" (da agência de SP) quando tiver | Cecília, Bia | os outros | 11 |
 
 ## Conflitos em aberto
 
@@ -307,6 +323,11 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - A música do quiosque (cap. 10): pode voltar no casamento (cap. 31), tocada pelo Rafa de propósito, ou como toque de celular, ou ser deixada em paz.
 - Bia e Rafa conversaram sério na varanda na madrugada de 18/1 (cap. 10); conteúdo não revelado. Pode ser a Bia contando ao Rafa a ligação de SP, ou o Rafa falando de Tiago e do filho. Escolher depois, sem contradizer o segredo das duas (Cecília e Bia).
 - A caixa de som "Battery low" (cap. 10): piada interna possível entre os dois a partir do cap. 12.
+- O pacto do corredor (cap. 11): "não aconteceu". Deve ser quebrado por um dos dois de propósito antes ou no beijo do cap. 16, com eco de "nos autos" ou da nota de rodapé.
+- A conversa Marina–Vicente no porta-malas (cap. 11, visto por Cecília sem som): no PDV de Vicente (cap. 12) pode ser lembrada como omissão visível; a verdade (Marina pede que ele conte do pai e do "ano difícil") se revela no cap. 21.
+- "Me manda a resposta" (Bia, cap. 11): a decisão da Bia sobre a agência; entrevista em SP no cap. 17; recusa no cap. 22.
+- O almoço com o Rafa em SP, pago "com os 82,50" (cap. 11 → cap. 13).
+- A caneca em SP (cap. 11 → 13): Cecília passa café nela e gira a rachadura para fora.
 
 ## Estrutura dos capítulos
 
@@ -324,7 +345,8 @@ Plano completo em `arquitetura.md`. Status:
 | 8 | Luz apagada | escrito e revisado (2.921 palavras) |
 | 9 | O livro dos padrinhos | escrito e revisado (2.928 palavras) |
 | 10 | Uma música de 2016 | escrito e revisado (3.470 palavras) |
-| 11–33 | ver arquitetura | planejado |
+| 11 | Não aconteceu | escrito e revisado (3.260 palavras) |
+| 12–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
