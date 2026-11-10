@@ -133,7 +133,7 @@ Abri o armário em cima da pia, do lado oposto ao dele, e fiquei olhando as cane
 
 Quando virei, ele já estava saindo para a varanda com o André, falando alguma coisa sobre a viga da sala.
 
-Na mesa, no lugar em frente à cadeira onde eu tinha largado a bolsa, havia uma caneca branca sem desenho, com uma rachadura fina que descia da borda até a metade, acompanhando a curva da alça. Parecia projeto. O café estava preto em baixo e um pouco mais claro em cima, naquela camada que ainda não tinha misturado. Leite frio. Um dedo. Por último. Sem açúcar.
+Na mesa, no lugar em frente à cadeira onde eu tinha largado a bolsa, havia uma caneca branca sem desenho, com uma rachadura fina que descia da borda até a metade, acompanhando a curva da alça. Parecia projeto. O café estava preto embaixo e um pouco mais claro em cima, naquela camada que ainda não tinha misturado. Leite frio. Um dedo. Por último. Sem açúcar.
 
 Eu não tomo café assim porque é bom. Tomo assim porque meu avô tomava, e eu, aos doze anos, decidi que era o jeito adulto de tomar café. Ninguém mais no mundo sabia disso, porque eu nunca expliquei para ninguém. Só para uma pessoa, uma vez, numa padaria da Rua Pouso Alegre, aos doze anos.
 
