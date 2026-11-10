@@ -101,6 +101,16 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - Vicente usa lapiseira e papel-manteiga; tem um corte recente na ponta do polegar (do parafuso da roda).
 - Marina lava louça sempre na ordem copos, pratos, panelas. A avó dela morreu em 2022. Marina tinha um apartamento no Santo Antônio onde Cecília dormia três vezes por semana para não dormir em casa (2022–2023, anos de tensão entre Helena e Ronaldo).
 - Primo de Cecília: Lucas, três anos mais velho. Havia uma tia na viagem de Cabo Frio (2016).
+- Grupo PARATY 🌴 (UNIFICADO), criado por Marina em 10/01 às 23h30, descrição "chega": primeiro grupo com os seis desde nov/2023.
+- Programação dos dez dias (PDF de Cecília): duas colunas, sem serifa, cores por função (azul praia, verde comida, amarelo trabalho dos padrinhos, cinza livre); rodapé em corpo 6: "qualquer reclamação deve ser feita por escrito, em três vias, e será ignorada." Pais de Marina aprovaram.
+- Bia tem um apito laranja num cordão de crachá de congresso de publicidade de 2022.
+- Cecília mata barata de chinelo desde os 9 anos; não tem medo de barata.
+- Aos 12, Cecília fez Vicente jurar não abrir o diário; mesmo assim passou a escondê-lo numa caixa de absorvente.
+- Após a morte de Rosa, Otávio não levantava da cama; Vicente, aos 11, fazia miojo para os dois.
+- Vicente subiu no telhado da casa de dona Lurdes na semana anterior à viagem (André tem foto).
+- Churrasqueira de tijolo da pousada, de 1990, puxa fumaça para o lado errado; fica embaixo de um pé de jambo. Vicente sempre fica na churrasqueira.
+- Primeiro emprego de Marina: recepcionista de clínica de estética, três meses, demitida por rir de uma cliente. André odeia jiló.
+- Placa do castelo do Time Noiva, feita por Cecília: "POUSADA CAIÇARA / fechada para evento particular / (desde 1987, mais ou menos)". A Bia se emocionou.
 
 ## Cronologia
 
@@ -111,6 +121,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 1 | sex, 9 jan 2026 | 15h20 → início da noite | Cecília chega de ônibus; ouve a risada dele na escada e larga a mala; ele faz o café dela certo, ela joga fora e bebe um pior; Marina anuncia os dois como padrinhos principais; ele interrompe uma piada quando ela fica quieta; ela encontra a mala no quarto com a roda consertada e grafite na alça. |
 | 2 | sex, 9 jan 2026 | 15h40 → depois da meia-noite | Vicente acha a mala no 11º degrau e conserta a roda com parafuso M6 e óleo de soja; explica (ao leitor) por que interrompeu a piada; Rafa chega às 21h40; no jantar, Marina ri dele por conferir o cardápio duas vezes e ele descobre que falta cebola; Bia nomeia a "guarda compartilhada"; Cecília desarma a tensão com a dívida do Rafa; à meia-noite ele lê no coador que ela jogou o café dele fora. |
 | 3 | sáb, 10 jan 2026 | 10h04 → 17h; chuva das 7h ao almoço | Primeira reunião dos padrinhos: brigam pela fonte do convite e pela entrada da casa; ela nota que ele confere a planilha duas vezes e diz que ele "sempre foi controlador"; o bloco se divide sozinho em esquerda (ela) e direita (ele), como o caderno; acordo graças à Bia (bar no quintal); "nota de rodapé" volta; no almoço, Rafa conta a prancha de ponta-cabeça de 2020; Marina confessa que queria trinta pessoas; Cecília guarda a folha com o desenho dele. |
+| 4 | dom, 11 jan 2026 | 7h42 → 23h | Cecília manda "programacao_FINAL_v2_agora_vai.pdf" no grupo novo, unificado; Vicente abre duas vezes e não faz a piada; gincana da Bia na Praia do Jabaquara (castelos, quiz, ovo na colher); no quiz, ele escreve "barata" para o medo dela e ela confirma; ela escreve "altura" por cima de "ser peso" e ele confirma "altura"; Bia recebe ligação de DDD 11 e chora nas pedras; só Cecília vai até ela; churrasco; à noite ele escreve "sempre tem v3", apaga e manda "aprovada". |
 
 ## A verdade escondida (Camada C)
 
@@ -128,6 +139,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 1 | hostilidade e familiaridade desconfortável | Voltam a ocupar o mesmo cômodo; ficam amarrados como padrinhos; primeira reunião marcada para sábado às 10h (ele cedeu). Ela deve a ele um café e uma roda, e se recusa a agradecer. | "Azevedo" / "Albuquerque"; o café; "toda culpa é da planta"; ele cede e isso a irrita mais que a briga |
 | 2 | hostilidade e familiaridade desconfortável | Ela ri (de Rafa) pela primeira vez na frente dele; ele reconhece. Ela reconhece a risada pública dele. Os dois sabem ler o outro e sabem que o outro sabe. | O coador com duas camadas; "derrota ou empate"; a risada de três tempos (pública) e a curta pelo nariz (verdadeira) |
 | 3 | hostilidade com primeira colaboração | Produzem a primeira decisão juntos na mesma folha. Ela recusa o aperto de mão, mas guarda a folha dele. Ele usa o "tá" dela contra ela. | O "tá" roubado; "nota de rodapé" (ela diz que não fazem mais, ele faz por escrito); a tia que pede desculpa (a fonte); bonequinho "cadê o banheiro" |
+| 4 | primeira cumplicidade | Mentem juntos, cada um para proteger o outro, na frente do grupo, e cada um sabe que o outro mentiu. Ainda não se falam a sós. | As duas mentiras do quiz (barata / altura); o sulco da borracha lido contra o sol |
 
 ## Quem sabe o quê
 
@@ -143,6 +155,9 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | Vicente cobra metade do preço pela reforma | Vicente; André desconfia; Marina sabe que não deve tocar no assunto | — | 2 |
 | Cecília guardou a folha com o desenho e a nota da sombra | Cecília | Vicente | 3 |
 | Marina queria um casamento de trinta pessoas num sítio | Marina, Cecília | André | 3 |
+| O medo verdadeiro de Cecília (ser vista antes de decidir mostrar) | Vicente | o grupo (todos acham que é barata) | 4 |
+| O medo verdadeiro de Vicente (ser peso) | Cecília; Vicente sabe que ela sabe | o grupo (acham que é altura) | 4 |
+| Bia recebeu uma ligação de São Paulo (DDD 11) e chorou | Cecília (o conteúdo), Vicente (viu de longe) | Marina, André, Rafa | 4 |
 
 ## Conflitos em aberto
 
@@ -175,6 +190,10 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - Notas de rodapé antigas: aos 16, ele disse por nota que ela tinha razão sobre o filme e que o filme era bom mesmo assim; aos 18, ela disse por nota que o perdoava por esquecer o aniversário dela e nunca ia esquecer que ele esqueceu.
 - A folha da reunião (cap. 3), dobrada em quatro na pasta de plástico de Cecília, com a mangueira hachurada e a nota da sombra. Pode reaparecer em SP ou no cap. 30 (a casa pronta, a sombra às 16h).
 - Concurso de 2020: Vicente mandou as pranchas sem revisar; prancha quatro com o banheiro de ponta-cabeça; menção honrosa ("instigante inversão da lógica do espaço úmido"); apareceu na porta dela com o certificado preso na camiseta por alfinete. "Aprendi." / Rafa: "Aprendeu."
+- Bia e a ligação de SP (cap. 4): é a agência que a chama para entrevista (cap. 17). Cecília sabe; a Bia pediu segredo. Não revelar o conteúdo antes do cap. 9 ou 17; Cecília guarda.
+- Cecília e Bia dividem cerveja na mesma garrafa (cap. 4): início da amizade mais funda das duas.
+- "sempre tem v3" (cap. 4): Vicente escreveu e apagou. Eco possível depois do cap. 19, quando o leitor souber do arquivo v3.
+- Rafa no quiz (cap. 4): medo da Ciça = "o Vicente"; medo do Vicente = "ser sincero". Duas respostas que parecem piada e são o que Rafa pensa.
 
 ## Estrutura dos capítulos
 
@@ -185,7 +204,8 @@ Plano completo em `arquitetura.md`. Status:
 | 1 | Dezessete degraus | escrito e revisado (3.280 palavras) |
 | 2 | Guarda compartilhada | escrito e revisado (2.996 palavras) |
 | 3 | Fonte contra planta | escrito e revisado (2.906 palavras) |
-| 4–33 | ver arquitetura | planejado |
+| 4 | agora_vai | escrito e revisado (2.825 palavras) |
+| 5–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
