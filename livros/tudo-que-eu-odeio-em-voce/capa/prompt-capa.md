@@ -48,3 +48,13 @@ A capa do impresso é outro arquivo: frente, lombada e verso num único PDF, com
 ## Declaração de IA no KDP
 
 Se a imagem final for gerada por IA, isso precisa ser declarado no cadastro do livro, assim como o texto.
+
+## Variante C (comédia romântica ilustrada), gerada no Canva em 10/11/2026
+
+Resultado: imagem de 1.024 × 1.536 px salva na conta Canva do autor (mídia MAHaicF4zQ0). Fundo coral com azulejos nos cantos, os dois de costas um para o outro, a fita métrica dele formando um coração em volta dos dois, título e nome do autor já aplicados.
+
+```
+Book cover illustration for a Brazilian romantic comedy novel, in the style of bestselling illustrated rom-com covers: flat vector illustration, clean bold shapes, playful and cute, bright solid warm coral background with a subtle pattern of blue Portuguese azulejo tiles in the corners. Two young adults stand back to back, full body, in the center-bottom of the cover, pretending to ignore each other. LEFT: a young Brazilian woman, around 23, messy bun held with a pencil, glasses pushed up on her head, black t-shirt and jeans, arms crossed, holding a white coffee mug with a tiny crack, rolling her eyes with an annoyed side glance. RIGHT: a young Brazilian man, around 25, short dark hair, light stubble, faded blue plaid flannel shirt with rolled sleeves, smug crooked grin, holding a yellow tape measure; the yellow measuring tape stretches out behind them and loops around both of them, forming a big heart shape. Small comic details: a few tiny hearts and little anger scribble marks floating above their heads. Large hand-lettered title at the top in chunky playful cream-white letters with a navy outline: "TUDO QUE EU ODEIO EM VOCÊ" (Portuguese, with the circumflex accent on the Ê). At the bottom, smaller clean letters: "LUCIO COSTA". Vertical book cover composition, lots of color, fun and flirty, not sexy, no photorealism.
+```
+
+Para chegar a 1.600 × 2.560 px (proporção 5:8): no Canva, crie um design de 1.600 × 2.560, coloque a imagem preenchendo a altura e estenda o fundo coral nas laterais, ou amplie a imagem com uma ferramenta de upscale antes.
