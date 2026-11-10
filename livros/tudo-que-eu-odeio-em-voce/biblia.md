@@ -314,6 +314,19 @@ Definido em: 2026-11-10. Mudanças: nenhuma.
 - Convites impressos: 200, em quatro caixas do Seu Nelson, chegaram a BH com Cecília na sexta, 17/4, às 18h10 (carregador da rodoviária, R$ 20); empilhados na sala de Vicente ao lado do sofá.
 - A luminária do quarto de Vicente continua pendurada pelo fio ("ela tá esperando a gente desistir" / "um grampo novo" / "é a mesma coisa").
 - Padaria Floresta Nova abre aos domingos até as 13h; dona Cida no caixa desde 1984; "Domingo eu não cobro" (pingado doce demais e dois pães de sal); joelho ruim.
+- Portão verde da casa de Helena: catorze barras; tinta mais escura nas barras do meio; ferrugem aparecendo em pontinhos. Campainha de dois tons (o segundo mais baixo). Corredor de ladrilho hidráulico: dezenove ladrilhos da cozinha à porta, o 12º solto. Cecília tem a chave da casa (latão amarela, ponta gasta) no chaveiro desde os 12 anos e não a usa desde 2023.
+- Helena (aparência, cap. 23): cabelo curto, grisalho nas têmporas, que não pinta "por princípio", preso atrás da orelha esquerda com grampo preto; óculos de leitura num cordão no pescoço; avental de xadrez miúdo azul e branco; mãos com cheiro de alho. Põe a mão entre as escápulas da filha, um segundo, e tira.
+- Sala de Helena: sofá de couro marrom, estante do chão ao teto, tapete "o persa" (falso, liquidação de 2006). A poltrona de Ronaldo foi buscada por ele em dez/2025 com um caminhãozinho; no lugar, um retângulo de taco mais claro com um vaso de costela-de-adão.
+- Cozinha de Helena: toalha branca com barra de crochê da avó; pratos fundos de domingo, brancos de borda dourada gasta; relógio de parede da Coca-Cola de 1998; geladeira que estala; filtro de barro lento (Cecília e Vicente brincavam de quem aguentava esperar um copo inteiro; ele ganhava sempre); o banquinho de madeira de Vicente continua ao lado do filtro. Lugares: Cecília na cabeceira da janela, Helena do lado da porta, Ronaldo na cadeira do lado da porta (antes), Vicente no banquinho.
+- Domingo, 19/4/2026: Helena pôs três pratos (o terceiro perto do filtro) e tirou um ("Força do hábito"); Cecília leu como o lugar do pai. Fez duas panelas: a grande com quiabo e uma pequena, de alça de baquelite, sem quiabo, para Cecília. Suco de maracujá. Café coado com leite frio numa leiteirinha. Mandou o resto da panela grande num pote de vidro de tampa azul, "pra você e pra ele". Prometeu: "Da próxima eu faço o tutu."
+- Helena chama Vicente de "Vi" diante de Cecília. Frase dela: "Ele sempre soube a hora de sair da sala." "Um arquivo não publica nada sozinho." "Seu pai acha sempre o que é mais fácil achar. Eu nunca tive esse talento."
+- Em 14/4/2023, às 19h, Cecília perguntou a Helena "Quem é D.?" da porta da cozinha; Helena: "não é da sua conta" / "você passou seis meses com uma caixa que não era sua"; Cecília saiu de casa (para o bar). Na madrugada de 15/4, Vicente ligou para Helena do hospital para perguntar se ela sabia o que era "massa". (Às 3h, Helena ligou para o Rafa atrás de Cecília.)
+- Otávio não dirige desde que Rosa morreu (2011). Em 2023, Vicente trabalhava num escritório "que não deixava ninguém sair".
+- Dário Lemos (cap. 23, por Helena): professor de redação no cursinho onde Helena deu aula em 1997 (ela com 23, ele com 31); "a pessoa mais engraçada que eu já conheci"; escrevia mal e pedia a ela para corrigir as redações-modelo. Em 1998 ganhou bolsa de doutorado em Coimbra e a chamou; Helena ficou porque a mãe dela descobriu um problema no coração e ela era a única filha em BH. Helena escreveu uma carta por mês (às vezes duas) para o endereço de Coimbra, de 1998 a 2001, e NUNCA MANDOU NENHUMA: escrevia, punha no envelope com o endereço e guardava na caixa ("o jeito de ir sem ir"). Conheceu Ronaldo em 1999; casou em jun/2001; última carta dois meses depois, dizendo que não ia mais escrever, também não mandada. Dário voltou ao Brasil em 2010, dá aula na federal em Ouro Preto. "Eu nunca fui a Ouro Preto depois disso."
+- Helena viu a versão com iniciais e brancos de *Remetente* ("a coisa mais bonita que alguém já fez com uma coisa minha"); Cecília acha que ela viu no computador dela, em casa. (Verdade a pagar no cap. 27: Vicente mostrou a ela a versão selecionada em junho de 2023, e ela pediu "a versão com tudo".)
+- Ronaldo liga para Helena no aniversário dela, diz parabéns e pergunta se o carro ainda faz barulho na segunda marcha; ela diz que faz (consertou em 2024). Ele vai ao casamento (convidado por Célia) e ainda acha que foi Vicente. Em out/2023, Helena faltou uma semana à escola; a diretora mandou flores; Helena não atendia o telefone; na feira paravam de falar quando ela chegava.
+- Porta lateral da padaria (escada de serviço) fica encostada aos domingos ("ladrão também descansa", dona Cida). Vicente guarda garfos de plástico na gaveta da prancheta e come lá.
+- Cecília comeu uma rodela de quiabo em 19/4/2026 ("Continua horrível"); Vicente comeu o resto do quiabo do pote, separando do frango, e deixou o frango para ela. "Tá igual." / "Igual a quê?" / "Ao de sempre."
 ## Cronologia
 
 Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
@@ -342,6 +355,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 20 | sáb, 28 mar (17h) → seg, 30 mar 2026 (6h15) | sáb 17h; dom 5h → seg 6h15 | Na cozinha do pai: "Tava?" / "Tava." / "Eu também." / "Você tem cara de quem tem mais." Domingo: Vicente abre o e-mail às 7h, passa o dia no quinto degrau da obra, manda "você tá bem?" às 16h05 (lido, sem resposta); às 20h40, descendo com o lixo, encontra Cecília no degrau da portaria, com a mala e o notebook: "Eu sentei aqui antes." / "Em 2023. Às duas e dezessete."; sobem de escada; no chão do corredor de 90 cm, pés encostados, ela mostra o e-mail e o WhatsApp; ele confessa V1 inteira (hospital, "confiro" sem conferir, inscrição às 3h52, "tá" sem retirar, o "não" de 18/4, a descoberta e a troca de 20/6 com o Rafa); "E como saiu com tudo?" / "Não sei." (ao leitor: "Eu menti. [...] Eu sei."); o "fui eu" explicado; "Não decide isso também"; "Eu minto com motivo e depois fico morando no motivo"; ela conta que foi ao degrau para "dizer uma coisa" ("Outra hora"); às 23h40 os dois mudam o sofá de parede; ela pergunta "Posso?" e perde o ônibus; primeira noite no quarto dele; P10; às 4h ele passa pelo quarto das maquetes sem acender a luz; às 5h20 a acorda; Confins; "Tchau, Vicente". |
 | 21 | seg, 30 mar → dom, 12 abr 2026 | seg 9h40 → dom 22h30 | Cecília chega à editora com a mala; refaz a capa das três janelas e assume a luz dele; Joana aprova (gráfica sexta); à noite pensa no "representante" e no Rafa, escreve a ele ("eu já sei") e recebe "sabe tudo?"; não escreve ao instituto; a lista de abril em post-its e papel-manteiga (itens 1 a 6); ligações das 23h; Bia tem até 15/4; a Páscoa com o pombo de orelhas; "Eu tô pensando numa coisa que eu não sei" / "Outra hora". Sábado 11/4: Marina em SP; a DM da Lúcia; Belém; o telefonema com André; "Você não escolhe o que eu aguento"; Marina explica a dança e o porta-malas; confessa que sabe do câncer desde ago/2024; "E você escolheu o que eu aguentava"; "Eu fiz o que o André fez"; "Tudo?" / "Tudo." / "Então ele mudou."; "Eu vou casar sabendo". Domingo: Marina volta; Vicente liga às 22h30 (André ligou para ele); "Porque não era meu"; "Você me conta" / "Conto"; ela escreve o item 7 no escuro e deixa torto. |
 | 22 | seg, 13/4 → dom, 19/4/2026 | seg 8h; qua 6h15 → 15h12; qui 12h20 → 0h52; sex 18h10; dom 11h40 → 13h10 | Lista da obra (faltam 33 dias e 11 itens); itens 8 e 9 da lista de abril; consulta de Otávio ("Igual o outro"; "Comida guardada azeda"); a Bia diz não à agência e liga por vídeo para Vicente às 6h41 pedindo uma chaminé; Vicente diz "consulta do meu pai"; primeiro pagamento do freelance; Rafa mede o bar, conta da reunião de adoção, "Ela sabe o que eu contei" / "Tá"; Helena convida Vicente para o domingo ("o de sempre"), ele recusa; na ligação das onze, ele conta a Cecília da consulta, que Helena o convidou e que se falam "às vezes", e, no lugar da frase grande, conta o freelance; item 10; sexta, os convites; sábado na obra; domingo, ela vai sozinha à casa da mãe e ele assiste da fresta do escritório; dona Cida e o pingado. |
+| 23 | dom, 19/4/2026 | 11h50 → 15h30 | Cecília conta as catorze barras do portão verde e toca a campainha (tem a chave); Helena a recebe; a poltrona de Ronaldo sumiu; três pratos na mesa, Helena tira um ("força do hábito"); frango com quiabo e uma panela pequena sem quiabo; "O Vi não quis vir?"; as terças da químio ("Naquele ano, sim"); Cecília conta que o arquivo era dela e que Vicente trocou em junho; Helena vai ao filtro e deixa a água passar da borda; a pergunta do representante, os óculos de leitura, "Não sei, filha"; Helena conta quem era D., Coimbra, as cartas nunca mandadas, Ouro Preto; Ronaldo e o barulho do carro; o pote de vidro "pra você e pra ele"; Cecília vê a luminária acesa no escritório, sobe, põe o pote na prancheta; "Tá igual" / "Ao de sempre"; ela come um quiabo, ele come o resto. |
 
 ## A verdade escondida (Camada C)
 
@@ -378,6 +392,7 @@ Plano completo de 2000 a 2026 em `arquitetura.md`. Capítulos escritos:
 | 20 | vulnerabilidade e primeira noite | Ela sabe o que ele fez e escolhe ficar; recusa que ele decida até a proporção da culpa. Ele treme e deixa que ela veja. Ela pergunta "Posso?". Mudam o sofá de lugar juntos. Ela o chama pelo nome de manhã. Ele promete não decidir mais nada por ela enquanto responde a outra pergunta. | "Isso não é sofá, é opinião"; "Agora é outro lugar"; "conferiu a validade?" / "duas vezes"; o "tá" que quer dizer só sim; "Tchau, Vicente" |
 | 21 | relação real, à distância | Os dois inventam um caderno novo em pedaços, mantendo a regra (nunca elogio), e o seis dele quase quebra a regra ("EU FIQUEI ESPERANDO"). Ligam todo dia. Ela confia: diz a Marina que ele contou tudo e pede, por telefone, que ele conte o que souber; ele diz "Conto". Ela deixa um post-it torto. | A lista de abril; "Outra hora" / "Tá" invertido (agora é ela que adia); o pombo de orelhas; "Conto" |
 | 22 | relação real; dívida escondida | Ele passa a contar coisas pequenas sem ela perguntar (a consulta, o convite da Helena, o freelance) e sabe que está pagando a conta errada; ela percebe a mudança e a nomeia ("você me contou sem eu perguntar"). Primeiro fim de semana inteiro juntos em BH sem crise. Ela vai à casa da mãe sozinha, por decisão dela; ele fica olhando. | "você vê tudo"; "Eu escondo por hábito. Não por critério."; o item 10; a luminária esperando; o quinto degrau dela |
+| 23 | relação real; ternura antiga recuperada | Ela vai até ele sem ser chamada, porque viu a luz. Ele come o quiabo que era dele desde os doze anos e deixa o frango para ela; ela come um quiabo de propósito. O gesto de 2013 volta invertido e escolhido. Ela não pergunta com que frequência é o "às vezes". | O pote de tampa azul; "Tá igual"; "Continua horrível"; a luminária acesa vista da rua |
 
 ## Quem sabe o quê
 
@@ -472,6 +487,11 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 | Helena e Vicente "se falam às vezes" | Cecília (na versão pequena) | Cecília não sabe com que frequência nem por quê | 22 |
 | Rafa sabe que Cecília não sabe tudo ("Ela sabe o que eu contei") | Rafa, Vicente | Cecília | 22 |
 | Vicente viu da janela do escritório Cecília entrar na casa da mãe | Vicente, dona Cida (deduz) | Cecília | 22 |
+| O arquivo integral saiu do celular de Cecília e Vicente trocou em junho | Helena (agora, por Cecília) | — | 23 |
+| Quem era D.: Dário Lemos, Coimbra, as cartas nunca mandadas, Ouro Preto | Cecília (agora), Helena | Vicente (provavelmente), o grupo | 23 |
+| Vicente ligou para Helena do hospital na madrugada de 15/4/2023 | Helena, Vicente, Cecília (agora) | — | 23 |
+| Cecília perguntou a Helena sobre o endereço do "representante"; Helena disse "Não sei, filha" | Cecília, Helena | Vicente (ainda) | 23 |
+| A poltrona de Ronaldo foi buscada em dez/2025 | Helena, Cecília (agora) | — | 23 |
 
 ## Conflitos em aberto
 
@@ -611,6 +631,15 @@ Estado inicial completo em `arquitetura.md`. Atualizações por capítulo:
 - A fresta do escritório (cap. 22): Vicente viu Cecília entrar na casa da mãe; no cap. 23 ela pode olhar para a janela do escritório na volta, sem saber que ele olhou.
 - Os 200 convites na sala de Vicente (cap. 22): Marina distribui; podem aparecer no cap. 24 ou 25.
 - Tiago e a pasta azul de elástico (cap. 22): a segunda reunião de adoção é em maio; Tiago pode aparecer na despedida (cap. 25).
+- Os três pratos e o banquinho (cap. 23, P11): no cap. 27, Cecília entende que o terceiro prato era de Vicente, não do pai.
+- "Um arquivo não publica nada sozinho" (Helena, cap. 23): lido como consolo; no cap. 27, é confissão.
+- A água passando da borda do copo no filtro (cap. 23): reação de Helena à notícia da troca de junho; lembrar no cap. 27 sem explicar.
+- "Não sei, filha" com os óculos de leitura (cap. 23): a pausa coberta pelos óculos; o leitor atento percebe. Pagar no cap. 27 (ela pôs os óculos para ganhar tempo).
+- "A coisa mais bonita que alguém já fez com uma coisa minha" (cap. 23): Helena viu a versão com brancos. No cap. 27, como ela viu (Vicente mostrou em junho) e o terceiro motivo dela, que nunca admite: a obra era bonita demais para ficar rasurada (ou o contrário: quis que Dário lesse inteiro).
+- "Eu nunca fui a Ouro Preto depois disso" (cap. 23): no cap. 27, Helena conta que Dário escreveu a ela depois do catálogo e que ela não respondeu.
+- O nome *Remetente* para cartas nunca remetidas (cap. 23): a ironia já é de Cecília; pode voltar no discurso (cap. 24) ou no cap. 33.
+- A chave amarela da casa da mãe no chaveiro de Cecília (cap. 23): ela toca a campainha em vez de usar. Usar a chave pela primeira vez no cap. 27 (quando vai à casa da mãe com o e-mail do instituto) ou no 29 (o tutu).
+- O tutu prometido de novo (cap. 23): "Da próxima eu faço o tutu." Paga no cap. 29.
 
 ## Estrutura dos capítulos
 
@@ -640,7 +669,8 @@ Plano completo em `arquitetura.md`. Status:
 | 20 | Confiro | escrito e revisado (3425 palavras) |
 | 21 | Belém | escrito e revisado (3254 palavras) |
 | 22 | Reta final | escrito e revisado (3797 palavras) |
-| 23–33 | ver arquitetura | planejado |
+| 23 | Domingo na Floresta | escrito e revisado (3421 palavras) |
+| 24–33 | ver arquitetura | planejado |
 
 ## Mudanças justificadas
 
