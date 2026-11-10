@@ -9,7 +9,7 @@
 | V1 | Vicente inscreveu *Remetente* contra a desautorização, não conferiu o arquivo, descobriu o erro em junho, trocou pela versão com iniciais e escondeu tudo. Estava no hospital com o pai na noite do envio. | Vicente; Rafael (inscrição, erro, troca); Helena (só a inscrição e a troca) | cap. 20 | cap. 20 |
 | V2 | Helena pediu a versão integral a Vicente e a enviou ao instituto, como "representante da autora", pedindo nova substituição. Vicente sabe desde 12/11/2023 e guarda a pedido dela. | Helena, Vicente | cap. 26 (cena de Vicente com Helena) | cap. 27 (confirmado por Vicente no 28) |
 | V3 | O arquivo integral saiu do computador de Cecília: ela o mandou por engano, às 2h17 de 15/04/2023, depois de dizer "manda". | Vicente, Rafael (o "manda"); Cecília vagamente | cap. 19 | cap. 19 |
-| V4 | O caderno está com Vicente desde abril de 2023. A última página é dele, escrita no corredor do hospital. | Vicente | cap. 31 | cap. 31 |
+| V4 | O caderno está com Vicente desde abril de 2023. A última página é dele, escrita no corredor do hospital. | Vicente; Otávio (desde o cap. 30) | cap. 30 (existência), cap. 31 (a página) | cap. 31 |
 
 Ordem de efeito: V3 derruba a certeza de Cecília sobre si mesma; V1 parece explicar tudo e não explica; V2 explica tudo e põe Vicente de novo em julgamento; V4 é o gesto.
 
@@ -66,6 +66,7 @@ Ordem de efeito: V3 derruba a certeza de Cecília sobre si mesma; V1 parece expl
 | 27 | — | V2 revelada a Cecília. P3 (o ponto e vírgula e a assinatura no e-mail de 2023; "E o Vicente?"), P4 ("Ainda."), P8 (o instituto), P11 (o terceiro prato, os óculos), P9 relida ("Conta pra quem não vai doer"), "Um arquivo não publica nada sozinho" e a água no copo relidos em uma linha cada. O terceiro motivo de Helena adivinhado por Cecília diante dos brancos gastos e não confirmado. | Releituras em eco rápido (regra 7). P10 entendida por Cecília no degrau ("Ele tinha respondido outra coisa"), cobrada no 28. P6 fica para o 28. A carta não enviada de Helena é o gesto do personagem (*Remetente*). |
 | 28 | — | P10 (cobrada; espelho com a frase de saída de 2023, "Então não tem mais nada"); P6 (pela boca dele: não sabe fingir na frente de Helena com Cecília junto); "Conto" (21); "Não decide isso também" (20); "3/5" (24); "Quem não pergunta, sabe" (25); "Você gosta de mentir com motivo?" (14/20); a acusação do caiaque (5) admitida como verdadeira quanto ao motivo. | A cena de 5/11/2023 é mostrada inteira em itálico, sem comentário do Vicente de 2026 dentro dela. Nada de V4 (o caderno) aparece: as seis palavras ficam guardadas. |
 | 29 | — | "Isso não é a mesma coisa" (Marina, 18) devolvido; "Tudo?" / "Tudo." (21) revisto por Marina; os R$ 64 (13, 25); o tutu (23). | Capítulo de consequência, sem pista do mapa. V4 (o caderno) intocada. Primeiro sinal de mudança dos dois em linguagem do próprio casal: o arquivo sem FINAL e o "conferi. uma vez." |
+| 30 | — | V4 confirmada ao leitor quanto à existência (a caixa laranja do cap. 15, o "Não era verdade" do cap. 24); a janela da raiva (cap. 7) existe agora na cozinha da dona Lurdes | A última página fica fechada ("essa página é dela"). A decisão de entregar o caderno passa a ser de Cecília ("Se ela pedir, tá aí"). |
 
 ## Falsas pistas legítimas
 
